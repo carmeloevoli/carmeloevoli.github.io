@@ -8,7 +8,7 @@ author_profile: true
 ### Seminars ###
 
 + November 17, 2020, [APC](https://www.apc.univ-paris7.fr/APC_CS/en), Paris, France (remote talk) [[details]](https://www.apc.univ-paris7.fr/APC_CS/en/node/2902)
-+ July 7, 2020, [INAF-OAS](https://www.oas.inaf.it/en/), Bologna, Italy [[details]](https://www.oas.inaf.it/en/seminars/singlevent/?id=374) [[slides]](https://zenodo.org/record/3937561)
++ July 7, 2020, [INAF-OAS](https://www.oas.inaf.it/en/), Bologna, Italy (remote talk) [[details]](https://www.oas.inaf.it/en/seminars/singlevent/?id=374) [[slides]](https://zenodo.org/record/3937561)
 + June 20, 2019, [IRAP](https://www.irap.omp.eu/en/homepage-en/), Toulouse, France [[slides]](https://zenodo.org/record/3250782)
 + November 21, 2017, [DESY](https://www.desy.de/index_eng.html), Zeuthen-Berlin, Germany
 + May 26, 2017, [IRA](https://www.ira.inaf.it/Home.html), Bologna, Italy
@@ -28,7 +28,7 @@ author_profile: true
 + November 5, 2012, [Dark Cosmology Centre](https://dark.nbi.ku.dk), Copenhagen, Denmark
 + June 28, 2012, [Max-Planck-Institut für Physik](https://www.mpp.mpg.de), Munich, Germany
 + February 1, 2012, [Göttingen University](https://www.uni-goettingen.de), Göttingen, Germany
-+ December 16, 2011, [INFN Section of Pisa](https://www.pi.infn.it), Pisa, Italy
++ December 16, 2011, [INFN Section of Pisa](https://www.pi.infn.it), Pisa, Italy 
 + April 26, 2011, [Xiamen University](https://en.xmu.edu.cn), Xiamen, China
 + March 10, 2011, [Kavli Institute for Astronomy and Astrophysics](https://kiaa.pku.edu.cn), Beijing, China
 + January 20, 2011, [NAOC](http://english.nao.cas.cn), Beijing, China
