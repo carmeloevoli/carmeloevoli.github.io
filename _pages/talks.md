@@ -40,10 +40,10 @@ author_profile: true
 + December 1-3, 2020, *[1st Workshop on Gamma-ray Halos around Pulsars](https://agenda.infn.it/event/24042/)*, remote [[slides]](https://zenodo.org/record/4302387)
 + August 27-29, 2020, *[Multimessenger high energy astrophysics in the era of LHAASO](https://agenda.infn.it/event/23329/)*, remote [[slides]](https://zenodo.org/record/3965563)
 + August 22-28, 2019, *[Lomonosov Conference on Elementary Particle Physics](https://lomcon.ru/?page_id=204)*, Moscow, Russia
-+ June 10-14, 2019, *[New direction in Galactic Magnetism](https://conferences.ncl.ac.uk/galacticmagnetism/)*, Newcastle, UK [[meeting report]](https://www.nature.com/articles/s41550-019-0922-9?proof=t)
-+ March 27-29, 2019, *[Antideuteron 2019](https://indico.phys.hawaii.edu/event/1449/)*, Los Angeles, US
-+ December 10-14, 2018, *[Searching for the sources of Galactic cosmic rays](http://www.apc.univ-paris7.fr/~semikoz/CosmicRays2018/conference.html)*, Paris, France
-+ October 22-27 2018, *[Cosmology 2018](https://indico.cern.ch/event/736594/)*, Dubrovnik, Croatia
++ June 10-14, 2019, *[New direction in Galactic Magnetism](https://conferences.ncl.ac.uk/galacticmagnetism/)*, Newcastle, UK [[meeting report]](https://www.nature.com/articles/s41550-019-0922-9?proof=t) [[slides]](https://zenodo.org/record/3244980)
++ March 27-29, 2019, *[Antideuteron 2019](https://indico.phys.hawaii.edu/event/1449/)*, Los Angeles, US [[slides]](https://zenodo.org/record/2613865)
++ December 10-14, 2018, *[Searching for the sources of Galactic cosmic rays](http://www.apc.univ-paris7.fr/~semikoz/CosmicRays2018/conference.html)*, Paris, France [[slides]](https://zenodo.org/record/2360389)
++ October 22-27 2018, *[Cosmology 2018](https://indico.cern.ch/event/736594/)*, Dubrovnik, Croatia [[slides]](https://zenodo.org/record/1472991)
 + October 21-24, 2017, *[Three elephants in the gamma-ray sky: Loop I, the Fermi bubbles, and the Galactic center excess](https://indico.cern.ch/event/647722/)*, Garmisch-Partenkirchen, Germany
 + October 10-13, 2017, *[Cosmic-ray Anisotropy Workshop 2017](https://events.icecube.wisc.edu/event/84/)*, Guadalajara, Mexico 
 + July 23-29, 2017, *[Rencontres du Vietnam: Exploring the Dark Universe](http://vietnam.in2p3.fr/2017/dm/index.html)*, Quy Nhon, Vietnam 
@@ -57,7 +57,7 @@ author_profile: true
 ### Contributed talks at Workshops and Conferences ###
 
 + \emph{IMAGINE meeting}, Nijmegen, The Netherlands, April 2-5, 2019. \textbf{Invited review talk}.
-\item \emph{4th CRISM conference}, Grenoble, France, June 25-29, 2018. Contributed talk.
+\item \emph{4th CRISM conference}, Grenoble, France, June 25-29, 2018. Contributed talk [[slides]](https://zenodo.org/record/1302441)
 \item \emph{35th International Conference on Cosmic Rays (ICRC)}, Busan, South Korea, July 12-20, 2017. Poster contribution.
 \item \emph{2$^\text{nd}$ Workshop on Anisotropic Cosmic Ray Diffusion}, Montpellier, France, December 1-2, 2016. \textbf{Invited talk}.
 \item \emph{CII Congresso Nazionale della Societ\'a Italiana di Fisica}, Padova, Italy, September 26-28, 2016
