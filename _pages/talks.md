@@ -76,18 +76,12 @@ author_profile: true
 + September 8-10 2010, *[SciNeGHE 2010](http://scineghe2010.ts.infn.it)*, Trieste, Italy [[slides]](http://scineghe2010.ts.infn.it/allegati/talks/ThursdaySept9/19_Evoli.pdf)
 + May 10-15 2010, *GGI workshop on Dark Matter*, Florence, Italy
 + February 16-20 2010, *[Cosmological Reionization](http://www.hri.res.in/~reion/)*, Allahabad, India [[slides]](http://www.hri.res.in/~reion/slides/evoli.pdf)
-
-+ \emph{The High Redshift Universe: A Multi-Wavelength View}, Aspen, Colorado, February 7-13 2010. Contributed Talk.
-+ \emph{31st International Conference on Cosmic Rays (ICRC)}, \L \'od\'z, Poland, July 7-15 2009. Contributed Talk.
-+ \emph{TANGO in PARIS}, Paris, France, May 4-6 2009. Poster Contribution. 
-+ \emph{Advanced School in High Performance and Grid Computing}, Trieste, Italy, November 3-14, 2008.
-+ \emph{XXIVth IAP Colloquium: Far away, light in the Universe beyond redshift three}, Paris, France, July 7-11 2008. Poster Contribution. 
-+ \emph{AGN feedback workshop}, Vulcano, Italy, May 18-22 2008.
-+ \emph{Astronomy in the next decade: synergies with SKA}, Bonn, Germany, April 14-18, 2008.
-+ \emph{National School of Astrophysics: Galaxy clusters - Plasma astrophysics}, Trieste (TS), Italy, October 1-6, 2006.
-+ \emph{XCII Congresso Nazionale della Societ\'a Italiana di Fisica}, Torino, Italy, September 18-23, 2006. Contributed Talk.
-+ \emph{4th Workshop on Science with the New Generation of High Energy Gamma-ray Experiments}, Isola d’Elba, Italy, June 20-22, 2006.
-+ \emph{National School of Astrophysics: Large field observational cosmology - Scale distance}, S.Agata sui due Golfi (NA), Italy, May 8-13, 2005.
-+ \emph{National School of Astrophysics; Cosmological Parameters - Extrasolar Planets}, Asiago (VI), Italy, September 5-11, 2004.
++ February 7-13 2010, *The High Redshift Universe: A Multi-Wavelength View*, Aspen, Colorado 
++ July 7-15 2009, *31st International Conference on Cosmic Rays (ICRC)*,  Łódź, Poland
++ May 4-6 2009, *TANGO in PARIS*, Paris, France  
++ November 3-14, 2008, *Advanced School in High Performance and Grid Computing*, Trieste, Italy
++ July 7-11 2008, *XXIVth IAP Colloquium: Far away, light in the Universe beyond redshift three*, Paris, France  
++ May 18-22 2008, *AGN feedback workshop*, Vulcano, Italy
++ April 14-18, 2008, *Astronomy in the next decade: synergies with SKA*, Bonn, Germany
 
 ### See all these places in a world map [here](https://www.google.com/maps/d/viewer?mid=1y3wKMThaVTxK0ZyUOTgNkHa2DfUK7uG4&usp=sharing)
