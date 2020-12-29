@@ -7,11 +7,10 @@ author_profile: true
 
 ### Seminars ###
 
-#### 2020 ####
-+ November 17, 2020, [APC](https://www.apc.univ-paris7.fr/APC_CS/en), Paris, France (remote talk)
-+ July 7, 2020, INAF-Bologna University, Bologna, Italy [[slides]](https://zenodo.org/record/3937561)
++ November 17, 2020, [APC](https://www.apc.univ-paris7.fr/APC_CS/en), Paris, France (remote talk) [[details]](https://www.apc.univ-paris7.fr/APC_CS/en/node/2902)
++ July 7, 2020, [INAF-OAS](https://www.oas.inaf.it/en/), Bologna, Italy [[details]](https://www.oas.inaf.it/en/seminars/singlevent/?id=374) [[slides]](https://zenodo.org/record/3937561)
++ June 20, 2019, [IRAP](https://www.irap.omp.eu/en/homepage-en/), Toulouse, France [[slides]](https://zenodo.org/record/3250782)
 
-\item June 20, 2019, IRAP, Toulouse, France [\href{https://zenodo.org/record/3250782}{slides}]
 \item November 21, 2017, DESY, Zeuthen-Berlin, Germany
 \item May 26, 2017, Institute for Radio-Astronomy, Bologna, Italy
 \item May 23, 2017, Tor Vergata University, Roma, Italy
