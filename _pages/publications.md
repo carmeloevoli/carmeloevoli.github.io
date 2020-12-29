@@ -5,14 +5,34 @@ permalink: /publications/
 author_profile: true
 ---
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="1084560"></div>
-
 For an up-to-date list of my publications, please check [INSPIRE-HEP]() or [ADS]().
 
 ### Research papers ###
 
-+ **C. Evoli**, G. Morlino, P. Blasi and R. Aloisio, 
-*The AMS-02 beryllium and its implication for Cosmic Ray transport*, 2019, Submitted, [arXiv:1910.04113](https://arxiv.org/abs/1910.04113)
++ A. Dundovic, O. Pezzi, P. Blasi, **C. Evoli** and W. Matthaeus, 
+*Novel aspects of cosmic ray diffusion in synthetic magnetic turbulence*, 
+2020, 
+Physical Review D, Volume 102, Issue 10, article id. 103016
+[[arXiv]](https://arxiv.org/abs/2007.09142) [[doi]](https://doi.org/10.1103/PhysRevD.102.103016)
+
++ P. von Doetinchem, **C. Evoli**, et al.,
+*Cosmic-ray antinuclei as messengers of new physics: status and outlook for the new decade*, 
+2020, 
+Journal of Cosmology and Astroparticle Physics, Issue 08, article id. 035
+[[arXiv]](https://arxiv.org/abs/2002.04163) [[doi]](https://doi.org/10.1088/1475-7516/2020/08/035)
+
++ **C. Evoli**, P. Blasi, E. Amato and R. Aloisio, 
+*Signature of Energy Losses on the Cosmic Ray Electron Spectrum*, 
+2020,
+Physical Review Letters, Volume 125, Issue 5, article id. 051101
+[[arXiv]](https://arxiv.org/abs/2007.01302) [[doi]](https://doi.org/10.1103/PhysRevLett.125.051101)
+
++ **C. Evoli**, G. Morlino, P. Blasi and R.~Aloisio, 
+*AMS-02 beryllium data and its implication for cosmic ray transport*, 
+2020,
+Physical Review D, Volume 101, Issue 2, article id.023013
+[[arXiv]](https://arxiv.org/abs/1910.04113) [[doi]](https://doi.org/10.1103/PhysRevD.101.023013)
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1103/PhysRevD.101.023013" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 + C. Mascaretti, P. Blasi and **C. Evoli**, *Atmospheric neutrinos and the knee of the cosmic ray spectrum*, 2020, Astroparticle Physics 114, 22, [arXiv:1906.05197](https://arxiv.org/abs/1906.05197)
 
