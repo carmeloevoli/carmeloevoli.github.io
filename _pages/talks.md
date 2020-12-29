@@ -53,8 +53,7 @@ author_profile: true
 + January 26-30, 2015, *[Cosmic-ray Anisotropy Workshop 2015](http://helio_cr.tp4.rub.de/CRA-2015/home.php)*, Bad Honnef, Germany
 + September 22-26, 2014, *[C Congresso della Società Italiana di Fisica](https://www.sif.it/attivita/congresso/100)*, Pisa, Italy
 + October 8-11, 2013, *[The future of dark matter astro-particle physics: insights and perspectives](http://indico.ictp.it/event/a12213/other-view?view=ictptimetable)*, Trieste, Italy 
-
-+ \emph{CRF 2010}, Hamburg, Germany, November 10-12 2010. \textbf{Invited talk}.
++ November 10-12 2010, *[Cosmic Radiation Fields: Sources in the early Universe](https://indico.desy.de/event/3210/overview)*, Hamburg, Germany [[proceeding]](https://inspirehep.net/files/f0450ca127a728505c9e5866347ecbfb) [[slides]](https://indico.desy.de/event/3210/contributions/65635/attachments/42581/52519/evoli_crf10.pdf)
 
 ### Contributed talks at Workshops and Conferences ###
 
