@@ -76,11 +76,11 @@ author_profile: true
 + September 8-10 2010, *[SciNeGHE 2010](http://scineghe2010.ts.infn.it)*, Trieste, Italy [[slides]](http://scineghe2010.ts.infn.it/allegati/talks/ThursdaySept9/19_Evoli.pdf)
 + May 10-15 2010, *GGI workshop on Dark Matter*, Florence, Italy
 + February 16-20 2010, *[Cosmological Reionization](http://www.hri.res.in/~reion/)*, Allahabad, India [[slides]](http://www.hri.res.in/~reion/slides/evoli.pdf)
-+ February 7-13 2010, *The High Redshift Universe: A Multi-Wavelength View*, Aspen, Colorado 
++ February 7-13 2010, *[The High Redshift Universe: A Multi-Wavelength View](http://wise-obs.tau.ac.il/~barkana/aspen.html)*, Aspen, Colorado [[abstract]](http://wise-obs.tau.ac.il/~barkana/absP46)
 + July 7-15 2009, *31st International Conference on Cosmic Rays (ICRC)*,  Łódź, Poland
 + May 4-6 2009, *TANGO in PARIS*, Paris, France  
 + November 3-14, 2008, *Advanced School in High Performance and Grid Computing*, Trieste, Italy
-+ July 7-11 2008, *XXIVth IAP Colloquium: Far away, light in the Universe beyond redshift three*, Paris, France  
++ July 7-11 2008, *[XXIVth IAP Colloquium: Far away, light in the Universe beyond redshift three](http://www.iap.fr/vie_scientifique/colloques/Colloque_IAP/2008/)*, Paris, France [[poster]](http://www.iap.fr/vie_scientifique/colloques/Colloque_IAP/2008/Proceedings/POSTERS/poster_evoli_paris08.pdf)
 + May 18-22 2008, *AGN feedback workshop*, Vulcano, Italy
 + April 14-18, 2008, *Astronomy in the next decade: synergies with SKA*, Bonn, Germany
 
