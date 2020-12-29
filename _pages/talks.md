@@ -54,40 +54,41 @@ author_profile: true
 + September 22-26, 2014, *[C Congresso della Società Italiana di Fisica](https://www.sif.it/attivita/congresso/100)*, Pisa, Italy
 + October 8-11, 2013, *[The future of dark matter astro-particle physics: insights and perspectives](http://indico.ictp.it/event/a12213/other-view?view=ictptimetable)*, Trieste, Italy 
 
++ \emph{CRF 2010}, Hamburg, Germany, November 10-12 2010. \textbf{Invited talk}.
+
 ### Contributed talks at Workshops and Conferences ###
 
-+ \emph{IMAGINE meeting}, Nijmegen, The Netherlands, April 2-5, 2019. \textbf{Invited review talk}.
-\item \emph{4th CRISM conference}, Grenoble, France, June 25-29, 2018. Contributed talk [[slides]](https://zenodo.org/record/1302441)
-\item \emph{35th International Conference on Cosmic Rays (ICRC)}, Busan, South Korea, July 12-20, 2017. Poster contribution.
-\item \emph{2$^\text{nd}$ Workshop on Anisotropic Cosmic Ray Diffusion}, Montpellier, France, December 1-2, 2016. \textbf{Invited talk}.
-\item \emph{CII Congresso Nazionale della Societ\'a Italiana di Fisica}, Padova, Italy, September 26-28, 2016
-\item \emph{Cosmic Ray Origin Beyond the Standard Models}, San Vito di Cadore, Italy, September 19-23, 2016. Contributed talk. 
-\item \emph{TeVPA2016}, Geneva, Switzerland, September 12-16, 2016. Contributed talk.
-\item \emph{Vulcano Workshop 2016}, Vulcano Island, Italy, May 22-28, 2016. \textbf{Invited talk}.
-\item \emph{Physics of Cosmic Dawn and Reionization in the SKA Era}, Sesto, Italy, January 18-22, 2016. \textbf{Invited talk}.
-\item \emph{Dark Matter: Astrophysical Probes, Laboratory Tests, and Theory Aspects}, Munich, Germany, February 16-27, 2015. Contributed talk.  
-\item \emph{SUGAR 2015}, Geneva, Switzerland, January 21-23, 2015. Contributed Talk.   
-\item \emph{TeVPA 2014/iDM}, Amsterdam, The Netherlands, June 23-28, 2014. Contributed Talk.
-\item \emph{The Dark Side of the Universe}, Trieste, Italy, October 14-17, 2013. Contributed Talk.
-\item \emph{Anisotropic Universe}, Amsterdam, The Netherlands, September 25-27, 2013. Contributed Talk.
-\item \emph{DarkAttack2012}, Ascona, Switzerland, July 15-20, 2012. Contributed Talk. 
-\item \emph{Epoch of Reionization 2012}, Strasbourg, France, April 23-27, 2012. Contributed Talk.
-\item \emph{Multi-Messenger Astronomy of Cosmic Rays}, Beijing, China, April 11-14, 2011. \textbf{Invited talk}. 
-\item \emph{CRF 2010}, Hamburg, Germany, November 10-12 2010. \textbf{Invited talk}.
-\item \emph{SciNeGHE 2010}, Trieste, Italy, September 8-10 2010. Contributed Talk.
-\item \emph{GGI workshop on Dark Matter}, Florence, Italy, May 10-15 2010.
-\item \emph{Cosmological Reionization}, Allahabad, India, February 16-20 2010. Contributed Talk.
-\item \emph{The High Redshift Universe: A Multi-Wavelength View}, Aspen, Colorado, February 7-13 2010. Contributed Talk.
-\item \emph{31st International Conference on Cosmic Rays (ICRC)}, \L \'od\'z, Poland, July 7-15 2009. Contributed Talk.
-\item \emph{TANGO in PARIS}, Paris, France, May 4-6 2009. Poster Contribution. 
-\item \emph{Advanced School in High Performance and Grid Computing}, Trieste, Italy, November 3-14, 2008.
-\item \emph{XXIVth IAP Colloquium: Far away, light in the Universe beyond redshift three}, Paris, France, July 7-11 2008. Poster Contribution. 
-\item \emph{AGN feedback workshop}, Vulcano, Italy, May 18-22 2008.
-\item \emph{Astronomy in the next decade: synergies with SKA}, Bonn, Germany, April 14-18, 2008.
-\item \emph{National School of Astrophysics: Galaxy clusters - Plasma astrophysics}, Trieste (TS), Italy, October 1-6, 2006.
-\item \emph{XCII Congresso Nazionale della Societ\'a Italiana di Fisica}, Torino, Italy, September 18-23, 2006. Contributed Talk.
-\item \emph{4th Workshop on Science with the New Generation of High Energy Gamma-ray Experiments}, Isola d’Elba, Italy, June 20-22, 2006.
-\item \emph{National School of Astrophysics: Large field observational cosmology - Scale distance}, S.Agata sui due Golfi (NA), Italy, May 8-13, 2005.
-\item \emph{National School of Astrophysics; Cosmological Parameters - Extrasolar Planets}, Asiago (VI), Italy, September 5-11, 2004.
++ April 2-5, 2019, *IMAGINE meeting*, Nijmegen, The Netherlands
++ June 25-29, 2018, *[4th CRISM conference](https://crism2018.sciencesconf.org)*, Grenoble, France [[slides]](https://zenodo.org/record/1302441)
++ December 1-2, 2016, *2nd Workshop on Anisotropic Cosmic Ray Diffusion*, Montpellier, France
++ September 26-28, 2016, *[CII Congresso Nazionale della Società Italiana di Fisica](https://www.sif.it/attivita/congresso/102)*, Padova, Italy 
++ September 19-23, 2016, *[Cosmic Ray Origin Beyond the Standard Models](http://www.crbtsm.eu)*, San Vito di Cadore, Italy [[slides]](http://mctp.mx/tibolla/Evoli_CRBTSM_2016.pdf)
++ September 12-16, 2016, *[TeVPA2016](https://indico.cern.ch/event/469963/)*, Geneva, Switzerland [[slides]](https://indico.cern.ch/event/469963/contributions/2293959/attachments/1337829/2013218/Evoli_TeVPA2016.pdf)
++ May 22-28, 2016, *[Vulcano Workshop 2016](http://www.lnf.infn.it/conference/vulcano2016/)*, Vulcano Island, Italy [[slides]](https://agenda.infn.it/event/10576/contributions/3858/attachments/2875/3163/Evoli_Vulcano_2016_compressed.pdf)
++ January 18-22, 2016, *[Physics of Cosmic Dawn and Reionization in the SKA Era](https://www.sexten-cfa.eu/event/physics-of-cosmic-dawn-and-reionization-in-the-ska-era/)*, Sesto, Italy
++ February 16-27, 2015, *[Dark Matter: Astrophysical Probes, Laboratory Tests, and Theory Aspects](https://indico.cern.ch/event/369005/overview)*, Munich, Germany [[slides]](https://indico.cern.ch/event/369005/contributions/1788166/attachments/734214/1007337/Evoli_21cm.pdf)  
++ January 21-23, 2015, *[SUGAR 2015](https://indico.cern.ch/event/332221/overview)*, Geneva, Switzerland [[slides]](https://indico.cern.ch/event/332221/contributions/1718353/attachments/647572/890694/EvoliSUGAR15.pdf) 
++ June 23-28, 2014, *[TeVPA 2014/iDM](https://indico.cern.ch/event/278032/overview)*, Amsterdam, The Netherlands [[slides]](https://indico.cern.ch/event/278032/contributions/1623565/attachments/507488/700563/Evoli_TevPA14.pdf)
++ October 14-17, 2013, *[The Dark Side of the Universe](https://www.sissa.it/ap/events/DarkSide/index.htm)*, Trieste, Italy 
++ September 25-27, 2013, *Anisotropic Universe*, Amsterdam, The Netherlands 
++ July 15-20, 2012, *[DarkAttack2012](https://www.physik.uzh.ch/events/darkattack/index.html)*, Ascona, Switzerland [[slides]](https://www.physik.uzh.ch/events/darkattack/talks/Evoli.pdf) 
++ April 23-27, 2012, *[Epoch of Reionization 2012](http://eor-2012.u-strasbg.fr/)*, Strasbourg, France 
++ April 11-14, 2011, *Multi-Messenger Astronomy of Cosmic Rays*, Beijing, China 
++ September 8-10 2010, *[SciNeGHE 2010](http://scineghe2010.ts.infn.it)*, Trieste, Italy [[slides]](http://scineghe2010.ts.infn.it/allegati/talks/ThursdaySept9/19_Evoli.pdf)
++ May 10-15 2010, *GGI workshop on Dark Matter*, Florence, Italy
++ February 16-20 2010, *[Cosmological Reionization](http://www.hri.res.in/~reion/)*, Allahabad, India [[slides]](http://www.hri.res.in/~reion/slides/evoli.pdf)
 
-### See all these places in a world map [here](https://www.google.com/maps/d/viewer?mid=1y3wKMThaVTxK0ZyUOTgNkHa2DfUK7uG4&usp=sharing)###
++ \emph{The High Redshift Universe: A Multi-Wavelength View}, Aspen, Colorado, February 7-13 2010. Contributed Talk.
++ \emph{31st International Conference on Cosmic Rays (ICRC)}, \L \'od\'z, Poland, July 7-15 2009. Contributed Talk.
++ \emph{TANGO in PARIS}, Paris, France, May 4-6 2009. Poster Contribution. 
++ \emph{Advanced School in High Performance and Grid Computing}, Trieste, Italy, November 3-14, 2008.
++ \emph{XXIVth IAP Colloquium: Far away, light in the Universe beyond redshift three}, Paris, France, July 7-11 2008. Poster Contribution. 
++ \emph{AGN feedback workshop}, Vulcano, Italy, May 18-22 2008.
++ \emph{Astronomy in the next decade: synergies with SKA}, Bonn, Germany, April 14-18, 2008.
++ \emph{National School of Astrophysics: Galaxy clusters - Plasma astrophysics}, Trieste (TS), Italy, October 1-6, 2006.
++ \emph{XCII Congresso Nazionale della Societ\'a Italiana di Fisica}, Torino, Italy, September 18-23, 2006. Contributed Talk.
++ \emph{4th Workshop on Science with the New Generation of High Energy Gamma-ray Experiments}, Isola d’Elba, Italy, June 20-22, 2006.
++ \emph{National School of Astrophysics: Large field observational cosmology - Scale distance}, S.Agata sui due Golfi (NA), Italy, May 8-13, 2005.
++ \emph{National School of Astrophysics; Cosmological Parameters - Extrasolar Planets}, Asiago (VI), Italy, September 5-11, 2004.
+
+### See all these places in a world map [here](https://www.google.com/maps/d/viewer?mid=1y3wKMThaVTxK0ZyUOTgNkHa2DfUK7uG4&usp=sharing)
