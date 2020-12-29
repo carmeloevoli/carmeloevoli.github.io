@@ -90,5 +90,4 @@ author_profile: true
 \item \emph{National School of Astrophysics: Large field observational cosmology - Scale distance}, S.Agata sui due Golfi (NA), Italy, May 8-13, 2005.
 \item \emph{National School of Astrophysics; Cosmological Parameters - Extrasolar Planets}, Asiago (VI), Italy, September 5-11, 2004.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1y3wKMThaVTxK0ZyUOTgNkHa2DfUK7uG4" width="640" height="480"></iframe>
-
+### See all these places in a world map [here](https://www.google.com/maps/d/viewer?mid=1y3wKMThaVTxK0ZyUOTgNkHa2DfUK7uG4&usp=sharing)###
