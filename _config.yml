@@ -83,10 +83,10 @@ author:
   name             : "Carmelo Evoli"
   avatar           : "profile.png"
   bio              : "astrophysicist"
-  location         : "L'Aquila (Italy)"
-  employer         : "Gran Sasso Science Institute"
+  location         : "Gran Sasso Science Institue"
+  employer         :  
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=z58lU3kAAAAJ&hl=en"
   email            : "carmelo.evoli@gssi.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
