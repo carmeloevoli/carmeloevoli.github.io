@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### Short bio ####
+### Short bio ###
 
 I am Assistant Professor at the [Gran Sasso Science Institute](www.gssi.it) in [L'Aquila](https://en.wikipedia.org/wiki/L%27Aquila) (Italy).
 
@@ -18,7 +18,7 @@ I'm mainly interested in investigating the generation and transport of energetic
 
 My career developed at several institutions, I completed my PhD in October 2010 at [SISSA](www.sissa.it) and, before to join GSSI, I was a postdoc at [NAOC](http://english.nao.cas.cn) in Bejing and at the [II. Institute for Theoretical Physics](https://unith.desy.de) of Hamburg University where I worked on topics including particle physics phenomenology, astrophysical signatures of dark matter, and physics of the Early Universe.
 
-#### My worldline ####
+### My worldline ###
 
 * 2019-. Assistant Professor at Gran Sasso Science Institute (L'Aquila, Italy)
 * 2018-2019 Marie Sklodowska-Curie Fellow
