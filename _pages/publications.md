@@ -71,47 +71,47 @@ July 2018,
 Journal of Cosmology and Astroparticle Physics, Issue 07, article id. 006
 [[arXiv]](https://arxiv.org/abs/1711.09616) [[doi]](https://doi.org/10.1088/1475-7516/2018/07/006)
 
-\item S.S.~Cerri, D.~Gaggero, A.~Vittino, \CE, D.~Grasso, 
-\emph{A signature of anisotropic cosmic-ray transport in the gamma-ray sky}, 
++ S.S. Cerri, D. Gaggero, A. Vittino, **C. Evoli** and D. Grasso, 
+*A signature of anisotropic cosmic-ray transport in the gamma-ray sky*, 
 October 2017,
 Journal of Cosmology and Astroparticle Physics, Issue 10, article id. 019 
-[\href{https://arxiv.org/abs/1707.07694}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2017/10/019}{doi}]
+[[arXiv]](https://arxiv.org/abs/1707.07694) [[doi]](https://doi.org/10.1088/1475-7516/2017/10/019)
 
-\item N.~Leite, \CE, M.~D'Angelo, B.~Ciardi, G.~Sigl \& A.Ferrara, 
-\emph{Do Cosmic Rays Heat the Early Intergalactic Medium?}, 
++ N. Leite, **C. Evoli**, M. D'Angelo, B. Ciardi, G. Sigl and A.Ferrara, 
+*Do Cosmic Rays Heat the Early Intergalactic Medium?*, 
 July 2017,
 Monthly Notices of the Royal Astronomical Society, Volume 469, Issue 1, p.416-424
-[\href{https://arxiv.org/abs/1703.09337}{arXiv}, \href{https://doi.org/10.1093/mnras/stx805}{doi}]
+[[arXiv]](https://arxiv.org/abs/1703.09337) [[doi]](https://doi.org/10.1093/mnras/stx805)
 
-\item \CE, D.~Gaggero, A.~Vittino, G.~Di Bernardo, M.~Di Mauro, A.~Ligorini, P.~Ullio \& D.~Grasso, 
-\emph{Cosmic-ray propagation with DRAGON2: I.~numerical solver and astrophysical ingredients}, 
++ **C. Evoli**, D. Gaggero, A. Vittino, G. Di Bernardo, M. Di Mauro, A. Ligorini, P. Ullio and D. Grasso, 
+*Cosmic-ray propagation with DRAGON2: I.~numerical solver and astrophysical ingredients*, 
 February 2017,
-Journal of Cosmology and Astroparticle Physics, Issue 02, article id. 015 
-[\href{https://arxiv.org/abs/1607.07886}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2017/02/015}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 02, article id. 015
+[[arXiv]](https://arxiv.org/abs/1607.07886) [[doi]](https://doi.org/10.1088/1475-7516/2017/02/015)
 
-\item G.~Pagliaroli, \CE~\& F.~Villante, 
-\emph{Expectations for high energy diffuse galactic neutrinos for different cosmic ray distributions},
++ G. Pagliaroli, **C. Evoli** and  F. Villante, 
+*Expectations for high energy diffuse galactic neutrinos for different cosmic ray distributions*,
 November 2016,
 Journal of Cosmology and Astroparticle Physics, Issue 11, article id. 004 
-[\href{https://arxiv.org/abs/1606.04489}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2016/11/004}{doi}]
+[[arXiv]](https://arxiv.org/abs/1606.04489) [[doi]](https://doi.org/10.1088/1475-7516/2016/11/004)
 
-\item R.~Yang, F.~Aharonian \& \CE, 
-\emph{Radial distribution of the diffuse gamma-ray emissivity in the galactic disk}, 
++ R. Yang, F. Aharonian and **C. Evoli**, 
+*Radial distribution of the diffuse gamma-ray emissivity in the galactic disk*, 
 June 2016,
-Physical Review D, Volume 93, Issue 12, id.123007
-[\href{https://arxiv.org/abs/1602.04710}{arXiv}, \href{https://doi.org/10.1103/PhysRevD.93.123007}{doi}]
+Physical Review D, Volume 93, Issue 12, id. 123007
+[[arXiv]](https://arxiv.org/abs/1602.04710) [[doi]](https://doi.org/10.1103/PhysRevD.93.123007)
 
-\item \CE, M.~Leo, A.~Mirizzi \& D.~Montanino, 
-\emph{Reionization during the dark ages from a cosmic axion background}, 
++ **C. Evoli**, M. Leo, A. Mirizzi and D. Montanino, 
+*Reionization during the dark ages from a cosmic axion background*, 
 May 2016,
-Journal of Cosmology and Astroparticle Physics, Issue 05, article id.~006 
-[\href{https://arxiv.org/abs/1602.08433}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2016/05/006}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 05, article id. 006 
+[[arXiv]](https://arxiv.org/abs/1602.08433) [[doi]](https://doi.org/10.1088/1475-7516/2016/05/006)
 
-\item \CE, D.~Gaggero \& D.~Grasso, 
-\emph{Secondary antiprotons as a Galactic Dark Matter probe}, 
++ **C. Evoli**, D. Gaggero and D. Grasso, 
+*Secondary antiprotons as a Galactic Dark Matter probe*, 
 December 2015,
-Journal of Cosmology and Astroparticle Physics, Issue 12, article id.~039 
-[\href{https://arxiv.org/abs/1504.05175}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2015/12/039}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 12, article id. 039 
+[[arXiv]](https://arxiv.org/abs/1504.05175) [[doi]](https://doi.org/10.1088/1475-7516/2015/12/039)
 
 \item I.~Cholis, \CE, F.~Calore, T.~Linden, C.~Weniger \& D.~Hooper, 
 \emph{The Galactic Center GeV excess from a series of leptonic cosmic-ray outbursts}, 
