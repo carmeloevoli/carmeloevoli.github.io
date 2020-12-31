@@ -31,8 +31,8 @@ My career developed at several institutions, I completed my PhD in October 2010 
 
 ### Contacts ###
 
-c/o Gran Sasso Science Institute 
-Via Michele Iacobucci, 2
-67100 L'Aquila (Italy)
-tel. +39 0862 4280 255
+c/o Gran Sasso Science Institute\
+Via Michele Iacobucci, 2\
+67100 L'Aquila (Italy)\
+tel. +39 0862 4280 255\
 e-mail carmelo.evoli@gssi.it
