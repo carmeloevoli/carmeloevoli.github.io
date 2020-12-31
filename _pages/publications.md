@@ -71,209 +71,209 @@ July 2018,
 Journal of Cosmology and Astroparticle Physics, Issue 07, article id. 006
 [[arXiv]](https://arxiv.org/abs/1711.09616) [[doi]](https://doi.org/10.1088/1475-7516/2018/07/006)
 
-\item S.S.~Cerri, D.~Gaggero, A.~Vittino, \CE, D.~Grasso, 
-\emph{A signature of anisotropic cosmic-ray transport in the gamma-ray sky}, 
++ S.S. Cerri, D. Gaggero, A. Vittino, **C. Evoli** and D. Grasso, 
+*A signature of anisotropic cosmic-ray transport in the gamma-ray sky*, 
 October 2017,
 Journal of Cosmology and Astroparticle Physics, Issue 10, article id. 019 
-[\href{https://arxiv.org/abs/1707.07694}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2017/10/019}{doi}]
+[[arXiv]](https://arxiv.org/abs/1707.07694) [[doi]](https://doi.org/10.1088/1475-7516/2017/10/019)
 
-\item N.~Leite, \CE, M.~D'Angelo, B.~Ciardi, G.~Sigl \& A.Ferrara, 
-\emph{Do Cosmic Rays Heat the Early Intergalactic Medium?}, 
++ N. Leite, **C. Evoli**, M. D'Angelo, B. Ciardi, G. Sigl and A.Ferrara, 
+*Do Cosmic Rays Heat the Early Intergalactic Medium?*, 
 July 2017,
 Monthly Notices of the Royal Astronomical Society, Volume 469, Issue 1, p.416-424
-[\href{https://arxiv.org/abs/1703.09337}{arXiv}, \href{https://doi.org/10.1093/mnras/stx805}{doi}]
+[[arXiv]](https://arxiv.org/abs/1703.09337) [[doi]](https://doi.org/10.1093/mnras/stx805) 
 
-\item \CE, D.~Gaggero, A.~Vittino, G.~Di Bernardo, M.~Di Mauro, A.~Ligorini, P.~Ullio \& D.~Grasso, 
-\emph{Cosmic-ray propagation with DRAGON2: I.~numerical solver and astrophysical ingredients}, 
++ **C. Evoli**, D. Gaggero, A. Vittino, G. Di Bernardo, M. Di Mauro, A. Ligorini, P. Ullio and D. Grasso, 
+*Cosmic-ray propagation with DRAGON2: I. numerical solver and astrophysical ingredients*, 
 February 2017,
 Journal of Cosmology and Astroparticle Physics, Issue 02, article id. 015 
-[\href{https://arxiv.org/abs/1607.07886}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2017/02/015}{doi}]
+[[arXiv]](https://arxiv.org/abs/1607.07886) [[doi]](https://doi.org/10.1088/1475-7516/2017/02/015) 
 
-\item G.~Pagliaroli, \CE~\& F.~Villante, 
-\emph{Expectations for high energy diffuse galactic neutrinos for different cosmic ray distributions},
++ G. Pagliaroli, **C. Evoli** and F. Villante, 
+*Expectations for high energy diffuse galactic neutrinos for different cosmic ray distributions*,
 November 2016,
 Journal of Cosmology and Astroparticle Physics, Issue 11, article id. 004 
-[\href{https://arxiv.org/abs/1606.04489}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2016/11/004}{doi}]
+[[arXiv]](https://arxiv.org/abs/1606.04489) [[doi]](https://doi.org/10.1088/1475-7516/2016/11/004) 
 
-\item R.~Yang, F.~Aharonian \& \CE, 
-\emph{Radial distribution of the diffuse gamma-ray emissivity in the galactic disk}, 
++ R. Yang, F. Aharonian and **C. Evoli**, 
+*Radial distribution of the diffuse gamma-ray emissivity in the galactic disk*, 
 June 2016,
-Physical Review D, Volume 93, Issue 12, id.123007
-[\href{https://arxiv.org/abs/1602.04710}{arXiv}, \href{https://doi.org/10.1103/PhysRevD.93.123007}{doi}]
+Physical Review D, Volume 93, Issue 12, id. 123007
+[[arXiv]](https://arxiv.org/abs/1602.04710) [[doi]](https://doi.org/10.1103/PhysRevD.93.123007) 
 
-\item \CE, M.~Leo, A.~Mirizzi \& D.~Montanino, 
-\emph{Reionization during the dark ages from a cosmic axion background}, 
++ **C. Evoli**, M. Leo, A. Mirizzi and D. Montanino, 
+*Reionization during the dark ages from a cosmic axion background*, 
 May 2016,
-Journal of Cosmology and Astroparticle Physics, Issue 05, article id.~006 
-[\href{https://arxiv.org/abs/1602.08433}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2016/05/006}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 05, article id. 006 
+[[arXiv]](https://arxiv.org/abs/1602.08433) [[doi]](https://doi.org/10.1088/1475-7516/2016/05/006) 
 
-\item \CE, D.~Gaggero \& D.~Grasso, 
-\emph{Secondary antiprotons as a Galactic Dark Matter probe}, 
++ **C. Evoli**, D. Gaggero and D. Grasso, 
+*Secondary antiprotons as a Galactic Dark Matter probe*, 
 December 2015,
-Journal of Cosmology and Astroparticle Physics, Issue 12, article id.~039 
-[\href{https://arxiv.org/abs/1504.05175}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2015/12/039}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 12, article id. 039 
+[[arXiv]](https://arxiv.org/abs/1504.05175) [[doi]](https://doi.org/10.1088/1475-7516/2015/12/039) 
 
-\item I.~Cholis, \CE, F.~Calore, T.~Linden, C.~Weniger \& D.~Hooper, 
-\emph{The Galactic Center GeV excess from a series of leptonic cosmic-ray outbursts}, 
++ I. Cholis, **C. Evoli**, F. Calore, T. Linden, C. Weniger and D. Hooper, 
+*The Galactic Center GeV excess from a series of leptonic cosmic-ray outbursts*, 
 December 2015,
-Journal of Cosmology and Astroparticle Physics, Issue 12, article id.~005
-[\href{https://arxiv.org/abs/1506.05119}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2015/12/005}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 12, article id. 005
+[[arXiv]](https://arxiv.org/abs/1506.05119) [[doi]](https://doi.org/10.1088/1475-7516/2015/12/005) 
 
-\item A.~Payez, \CE, T.~Fischer, M.~Giannotti, A.~Mirizzi \& A.~Ringwald, 
-\emph{Revisiting the SN1987A limit on light axion-like particles}, 
++ A. Payez, **C. Evoli**, T. Fischer, M. Giannotti, A. Mirizzi and A. Ringwald, 
+*Revisiting the SN1987A limit on light axion-like particles*, 
 February 2015,
-Journal of Cosmology and Astroparticle Physics, Issue 02, article id.~006
-[\href{https://arxiv.org/abs/1410.3747}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2015/02/006}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 02, article id. 006
+[[arXiv]](https://arxiv.org/abs/1410.3747) [[doi]](https://doi.org/10.1088/1475-7516/2015/02/006) 
 
-\item \CE, A.~Mesinger \& A.~Ferrara, 
-\emph{Unveiling the nature of dark matter with high redshift 21 cm line experiments}, 
++ **C. Evoli**, A. Mesinger and A. Ferrara, 
+*Unveiling the nature of dark matter with high redshift 21 cm line experiments*, 
 November 2014,
-Journal of Cosmology and Astroparticle Physics, Issue 11, article id.~024
-[\href{https://arxiv.org/abs/1408.1109}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2014/11/024}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 11, article id. 024
+[[arXiv]](https://arxiv.org/abs/1408.1109) [[doi]](https://doi.org/10.1088/1475-7516/2014/11/024) 
 
-\item F.~de Gasperin, \CE, M.~Br\"uggen, A.~Hektor, M.~Cardillo, P.~Thorman, W.~A.~Dawson \& C.~B.~Morrison,
-\emph{Discovery of the supernova remnant G351.0-5.4}, 
++ F. de Gasperin, **C. Evoli**, M. Br\"uggen, A. Hektor, M. Cardillo, P. Thorman, W. A. Dawson and C. B. Morrison,
+*Discovery of the supernova remnant G351.0-5.4*, 
 August 2014,
-Astronomy \& Astrophysics, Volume 568, id.~A107
-[\href{https://arxiv.org/abs/1408.0036}{arXiv}, \href{https://doi.org/10.1051/0004-6361/201424191}{doi}]
+Astronomy and Astrophysics, Volume 568, id. A107
+[[arXiv]](https://arxiv.org/abs/1408.0036) [[doi]](https://doi.org/10.1051/0004-6361/201424191) 
 
-\item S.~Pandolfi, \CE, A.~Ferrara \& F.~Villaescusa-Navarro, 
-\emph{Constraining Warm Dark Matter with high-z supernova lensing}, 
++ S. Pandolfi, **C. Evoli**, A. Ferrara and F. Villaescusa-Navarro, 
+*Constraining Warm Dark Matter with high-z supernova lensing*, 
 July 2014,
-Monthly Notices of the Royal Astronomical Society, Volume 442, Issue 1, p.~13-19
-[\href{https://arxiv.org/abs/1403.2185}{arXiv}, \href{https://doi.org/10.1093/mnras/stu785}{doi}]
+Monthly Notices of the Royal Astronomical Society, Volume 442, Issue 1, p. 13-19
+[[arXiv]](https://arxiv.org/abs/1403.2185) [[doi]](https://doi.org/10.1093/mnras/stu785) 
 
-\item D.~Gaggero, D.~Grasso, L.~Maccione, G.~Di Bernardo \& \CE, 
-\emph{PAMELA and AMS-02 positron and electron spectra are reproduced by 3-dimensional cosmic-ray modeling}, 
++ D. Gaggero, D. Grasso, L. Maccione, G. Di Bernardo and **C. Evoli**, 
+*PAMELA and AMS-02 positron and electron spectra are reproduced by 3-dimensional cosmic-ray modeling*, 
 April 2014,
-Physical Review D, Volume 89, Issue 8, id.~083007
-[\href{https://arxiv.org/abs/1311.5575}{arXiv}, \href{https://doi.org/10.1103/PhysRevD.89.083007}{doi}]
+Physical Review D, Volume 89, Issue 8, id. 083007
+[[arXiv]](https://arxiv.org/abs/1311.5575) [[doi]](https://doi.org/10.1103/PhysRevD.89.083007) 
 
-\item \CE~\& H.~Yan, 
-\emph{Cosmic ray propagation in galactic turbulence}, 
++ **C. Evoli** and H. Yan, 
+*Cosmic ray propagation in galactic turbulence*, 
 February 2014,
-The Astrophysical Journal, Volume 782, Issue 1, article id.~36
-[\href{https://arxiv.org/abs/1310.5732}{arXiv}, \href{https://doi.org/10.1088/0004-637X/782/1/36}{doi}]
+The Astrophysical Journal, Volume 782, Issue 1, article id. 36
+[[arXiv]](https://arxiv.org/abs/1310.5732) [[doi]](https://doi.org/10.1088/0004-637X/782/1/36) 
 
-\item M.~Tavakoli, I.~Cholis, \CE~\& P.~Ullio, 
-\emph{Constraints on dark matter annihilations from diffuse gamma-ray emission in the Galaxy}, 
++ M. Tavakoli, I. Cholis, **C. Evoli** and P. Ullio, 
+*Constraints on dark matter annihilations from diffuse gamma-ray emission in the Galaxy*, 
 January 2014,
-Journal of Cosmology and Astroparticle Physics, Issue 01, article id.~017
-[\href{https://arxiv.org/abs/1308.4135}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2014/01/017}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 01, article id. 017
+[[arXiv]](https://arxiv.org/abs/1308.4135) [[doi]](https://doi.org/10.1088/1475-7516/2014/01/017) 
 
-\item A.~Pallottini, A.~Ferrara \&~\CE, 
-\emph{Simulating intergalactic quasar scintillation}, 
++ A. Pallottini, A. Ferrara and **C. Evoli**, 
+*Simulating intergalactic quasar scintillation*, 
 October 2013,
-Monthly Notices of the Royal Astronomical Society, Volume 434, Issue 4, p.~3293-3304
-[\href{https://arxiv.org/abs/1307.2573}{arXiv}, \href{https://doi.org/10.1093/mnras/stt1249}{doi}]
+Monthly Notices of the Royal Astronomical Society, Volume 434, Issue 4, p. 3293-3304
+[[arXiv]](https://arxiv.org/abs/1307.2573) [[doi]](https://doi.org/10.1093/mnras/stt1249) 
 
-\item \CE, S.~Pandolfi \& A.~Ferrara, 
-\emph{Cosmic microwave background constraints on light dark matter candidates}, 
++ **C. Evoli**, S. Pandolfi and A. Ferrara, 
+*Cosmic microwave background constraints on light dark matter candidates*, 
 August 2013,
-Monthly Notices of the Royal Astronomical Society, Volume 433, Issue 2, p.~1736-1744
-[\href{https://arxiv.org/abs/1210.6845}{arXiv}, \href{https://doi.org/10.1093/mnras/stt849}{doi}]
+Monthly Notices of the Royal Astronomical Society, Volume 433, Issue 2, p. 1736-1744
+[[arXiv]](https://arxiv.org/abs/1210.6845) [[doi]](https://doi.org/10.1093/mnras/stt849) 
 
-\item D.~Gaggero, L.~Maccione, G.~Di Bernardo, \CE \& D.~Grasso, 
-\emph{Three-Dimensional Model of Cosmic-Ray Lepton Propagation Reproduces Data from the Alpha Magnetic Spectrometer on the International Space Station}, 
++ D. Gaggero, L. Maccione, G. Di Bernardo, **C. Evoli** and D. Grasso, 
+*Three-Dimensional Model of Cosmic-Ray Lepton Propagation Reproduces Data from the Alpha Magnetic Spectrometer on the International Space Station*, 
 July 2013,
-Physical Review Letters, vol. 111, Issue 2, id.~021102
-[\href{https://arxiv.org/abs/1304.6718}{arXiv}, \href{https://doi.org/10.1103/PhysRevLett.111.021102}{doi}]
+Physical Review Letters, vol. 111, Issue 2, id. 021102
+[[arXiv]](https://arxiv.org/abs/1304.6718) [[doi]](https://doi.org/10.1103/PhysRevLett.111.021102) 
 
-\item G.~Di Bernardo, \CE, D.~Gaggero, D.~Grasso \& L.~Maccione, 
-\emph{Cosmic Ray Electrons, Positrons and the Synchrotron emission of the Galaxy: consistent analysis and implications},
++ G. Di Bernardo, **C. Evoli**, D. Gaggero, D. Grasso and L. Maccione, 
+*Cosmic Ray Electrons, Positrons and the Synchrotron emission of the Galaxy: consistent analysis and implications*,
 March 2013,
-Journal of Cosmology and Astroparticle Physics, Issue 03, article id.~036
-[\href{https://arxiv.org/abs/1210.4546}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2013/03/036}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 03, article id. 036
+[[arXiv]](https://arxiv.org/abs/1210.4546) [[doi]](https://doi.org/10.1088/1475-7516/2013/03/036) 
 
-\item M.~Vald\'es, \CE, A.~Mesinger, A.~Ferrara \& N.~Yoshida, 
-\emph{The nature of dark matter from the global high redshift HI 21 cm signal}, 
++ M. Valdés, **C. Evoli**, A. Mesinger, A. Ferrara and N. Yoshida, 
+*The nature of dark matter from the global high redshift HI 21 cm signal*, 
 February 2013,
-Monthly Notices of the Royal Astronomical Society, Volume 429, Issue 2, p.~1705-1716
-[\href{https://arxiv.org/abs/1209.2120}{arXiv}, \href{https://doi.org/10.1093/mnras/sts458}{doi}]
+Monthly Notices of the Royal Astronomical Society, Volume 429, Issue 2, p. 1705-1716
+[[arXiv]](https://arxiv.org/abs/1209.2120) [[doi]](https://doi.org/10.1093/mnras/sts458) 
 
-\item \CE, I.~Cholis, D.~Grasso, L.~Maccione \& P.~Ullio, 
-\emph{Antiprotons from dark matter annihilation in the Galaxy: astrophysical uncertainties}, 
++ **C. Evoli**, I. Cholis, D. Grasso, L. Maccione and P. Ullio, 
+*Antiprotons from dark matter annihilation in the Galaxy: astrophysical uncertainties*, 
 June 2012,
-Physical Review D, vol. 85, Issue 12, id.~123511
-[\href{https://arxiv.org/abs/1108.0664}{arXiv}, \href{https://doi.org/10.1103/PhysRevD.85.123511}{doi}]
+Physical Review D, vol. 85, Issue 12, id. 123511
+[[arXiv]](https://arxiv.org/abs/1108.0664) [[doi]](https://doi.org/10.1103/PhysRevD.85.123511) 
 
-\item \CE, D.~Gaggero, D.~Grasso \& L.~Maccione,
-\emph{Common solution to the cosmic ray anisotropy and gradient problems}, 
++ **C. Evoli**, D. Gaggero, D. Grasso and L. Maccione,
+*Common solution to the cosmic ray anisotropy and gradient problems*, 
 May 2012,
-Physical Review Letters, vol. 108, Issue 21, id.~211102
-[\href{https://arxiv.org/abs/1203.0570}{arXiv}, \href{https://doi.org/10.1103/PhysRevLett.108.211102}{doi}]
+Physical Review Letters, vol. 108, Issue 21, id. 211102
+[[arXiv]](https://arxiv.org/abs/1203.0570) [[doi]](https://doi.org/10.1103/PhysRevLett.108.211102) 
 
-\item \CE, M.~Vald\'es, A.~Ferrara \& N.~Yoshida, 
-\emph{Energy deposition by weakly interacting massive particles: a comprehensive study}, 
++ **C. Evoli**, M. Valdés, A. Ferrara and N. Yoshida, 
+*Energy deposition by weakly interacting massive particles: a comprehensive study*, 
 May 2012,
-Monthly Notices of the Royal Astronomical Society, Volume 422, Issue 1, pp.~420-433
-[\href{https://doi.org/10.1111/j.1365-2966.2012.20624.x}{doi}]
+Monthly Notices of the Royal Astronomical Society, Volume 422, Issue 1, pp. 420-433
+[[arXiv]](https://doi.org/10.1111/j.1365-2966.2012.20624.x) 
 
-\item I.~Cholis, M.~Tavakoli, \CE, L.~Maccione \& P.~Ullio, 
-\emph{Diffuse Galactic Gamma Rays at intermediate and high latitudes. I. Constraints on the ISM properties}, 
++ I. Cholis, M. Tavakoli, **C. Evoli**, L. Maccione and P. Ullio, 
+*Diffuse Galactic Gamma Rays at intermediate and high latitudes. I. Constraints on the ISM properties*, 
 May 2012,
-Journal of Cosmology and Astroparticle Physics, Issue 05, id.~004
-[\href{https://arxiv.org/abs/1106.5073}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2012/05/004}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 05, id. 004
+[[arXiv]](https://arxiv.org/abs/1106.5073) [[doi]](https://doi.org/10.1088/1475-7516/2012/05/004) 
 
-\item \CE, P.~Salucci, A.~Lapi \& L.~Danese, 
-\emph{The HI Content of Local Late-Type Galaxies}, 
++ **C. Evoli**, P. Salucci, A. Lapi and L. Danese, 
+*The HI Content of Local Late-Type Galaxies*, 
 December 2011,
-The Astrophysical Journal, Volume 743, Issue 1, article id.~45
-[\href{https://arxiv.org/abs/1110.4199}{arXiv}, \href{https://doi.org/10.1088/0004-637X/743/1/45}{doi}]
+The Astrophysical Journal, Volume 743, Issue 1, article id. 45
+[[arXiv]](https://arxiv.org/abs/1110.4199) [[doi]](https://doi.org/10.1088/0004-637X/743/1/45) 
 
-\item \CE~\& A.~Ferrara, 
-\emph{Turbulence in the Intergalactic Medium}, 
++ **C. Evoli** and A. Ferrara, 
+*Turbulence in the Intergalactic Medium*, 
 June 2011,
-Monthly Notices of the Royal Astronomical Society, Volume 413, Issue 4, pp.~2721-2734
-[\href{https://arxiv.org/abs/1101.2449}{arXiv}, \href{https://doi.org/10.1111/j.1365-2966.2011.18343.x}{doi}]
+Monthly Notices of the Royal Astronomical Society, Volume 413, Issue 4, pp. 2721-2734
+[[arXiv]](https://arxiv.org/abs/1101.2449) [[doi]](https://doi.org/10.1111/j.1365-2966.2011.18343.x) 
 
-\item G.~Di Bernardo, \CE, D.~Gaggero, D.~Grasso, L.~Maccione \& M.~N.~Mazziotta, 
-\emph{Implications of the cosmic ray electron spectrum and anisotropy measured with Fermi-LAT}, 
++ G. Di Bernardo, **C. Evoli**, D. Gaggero, D. Grasso, L. Maccione and M. N. Mazziotta, 
+*Implications of the cosmic ray electron spectrum and anisotropy measured with Fermi-LAT*, 
 February 2011,
-Astroparticle Physics, Volume 34, Issue 7, p.~528-538
-[\href{https://arxiv.org/abs/1010.0174}{arXiv}, \href{https://doi.org/10.1016/j.astropartphys.2010.11.005}{doi}]
+Astroparticle Physics, Volume 34, Issue 7, p. 528-538
+[[arXiv]](https://arxiv.org/abs/1010.0174) [[doi]](https://doi.org/10.1016/j.astropartphys.2010.11.005) 
 
-\item G.~Di Bernardo, \CE, D.~Gaggero, D.~Grasso \& L.~Maccione, 
-\emph{Unified interpretation of cosmic-ray nuclei and antiproton recent measurements}, 
++ G. Di Bernardo, **C. Evoli**, D. Gaggero, D. Grasso and L. Maccione, 
+*Unified interpretation of cosmic-ray nuclei and antiproton recent measurements*, 
 December 2010,
-Astroparticle Physics, Volume 34, Issue 5, p.~274-283
-[\href{https://arxiv.org/abs/0909.4548}{arXiv}, \href{https://doi.org/10.1016/j.astropartphys.2010.08.006}{doi}]
+Astroparticle Physics, Volume 34, Issue 5, p. 274-283
+[[arXiv]](https://arxiv.org/abs/0909.4548) [[doi]](https://doi.org/10.1016/j.astropartphys.2010.08.006) 
 
-\item M.~Vald\'es, \CE~\& A.~Ferrara, 
-\emph{Particle energy cascade in the intergalactic medium}, 
++ M. Valdés, **C. Evoli** and A. Ferrara, 
+*Particle energy cascade in the intergalactic medium*, 
 May 2010,
-Monthly Notices of the Royal Astronomical Society, Volume 404, Issue 3, pp.~1569-1582
-[\href{https://arxiv.org/abs/0911.1125}{arXiv}, \href{https://doi.org/10.1111/j.1365-2966.2010.16387.x}{doi}]
+Monthly Notices of the Royal Astronomical Society, Volume 404, Issue 3, pp. 1569-1582
+[[arXiv]](https://arxiv.org/abs/0911.1125) [[doi]](https://doi.org/10.1111/j.1365-2966.2010.16387.x) 
 
-\item M.~Cook, E.~Barausse, \CE, G.~L.~Granato \& A.~Lapi, 
-\emph{Two-Phase Galaxy Formation: The Evolutionary Properties of Galaxies}, 
++ M. Cook, E. Barausse, **C. Evoli**, G. L. Granato and A. Lapi, 
+*Two-Phase Galaxy Formation: The Evolutionary Properties of Galaxies*, 
 March 2010,
-Monthly Notices of the Royal Astronomical Society, Volume 402, Issue 4, pp.~2113-2126
-[\href{https://arxiv.org/abs/0910.3910}{arXiv}, \href{https://doi.org/10.1111/j.1365-2966.2009.15875.x}{doi}]
+Monthly Notices of the Royal Astronomical Society, Volume 402, Issue 4, pp. 2113-2126
+[[arXiv]](https://arxiv.org/abs/0910.3910) [[doi]](https://doi.org/10.1111/j.1365-2966.2009.15875.x) 
 
-\item M.~Cook, \CE, E.~Barausse, G.~L.~Granato \& A.~Lapi, 
-\emph{Two phase galaxy formation: The Gas Content of Normal Galaxies}, 
++ M. Cook, **C. Evoli**, E. Barausse, G. L. Granato and A. Lapi, 
+*Two phase galaxy formation: The Gas Content of Normal Galaxies*, 
 February 2010,
-Monthly Notices of the Royal Astronomical Society, Volume 402, Issue 2, pp.~941-955
-[\href{https://arxiv.org/abs/0906.4115}{arXiv}, \href{https://doi.org/10.1111/j.1365-2966.2009.15945.x}{doi}]
+Monthly Notices of the Royal Astronomical Society, Volume 402, Issue 2, pp. 941-955
+[[arXiv]](https://arxiv.org/abs/0906.4115) [[doi]](https://doi.org/10.1111/j.1365-2966.2009.15945.x) 
 
-\item \CE, S.~Salvadori \& A.~Ferrara, 
-\emph{The puzzling origin of the $^6$Li plateau}, 
++ **C. Evoli**, S. Salvadori and A. Ferrara, 
+*The puzzling origin of the 6Li plateau*, 
 October 2008,
-Monthly Notices of the Royal Astronomical Society: Letters, Volume 390, Issue 1, pp.~L14-L18
-[\href{https://arxiv.org/abs/0806.4184}{arXiv}, \href{https://doi.org/10.1111/j.1745-3933.2008.00524.x}{doi}]
+Monthly Notices of the Royal Astronomical Society: Letters, Volume 390, Issue 1, pp. L14-L18
+[[arXiv]](https://arxiv.org/abs/0806.4184) [[doi]](https://doi.org/10.1111/j.1745-3933.2008.00524.x) 
 
-\item \CE, D.~Gaggero, D.~Grasso \& L.~Maccione, 
-\emph{Cosmic ray nuclei, antiprotons and gamma  rays in the galaxy: a new diffusion model}, 
++ **C. Evoli**, D. Gaggero, D. Grasso and L. Maccione, 
+*Cosmic ray nuclei, antiprotons and gamma  rays in the galaxy: a new diffusion model*, 
 October 2008,
-Journal of Cosmology and Astroparticle Physics, Issue 10, id.~018
-[\href{https://arxiv.org/abs/0807.4730}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2008/10/018}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 10, id. 018
+[[arXiv]](https://arxiv.org/abs/0807.4730) [[doi]](https://doi.org/10.1088/1475-7516/2008/10/018) 
 
-\item \CE, D.~Grasso \& L.~Maccione, 
-\emph{Diffuse neutrino and gamma-ray emissions of the galaxy above the TeV}, 
++ **C. Evoli**, D. Grasso and L. Maccione, 
+*Diffuse neutrino and gamma-ray emissions of the galaxy above the TeV*, 
 June 2007,
-Journal of Cosmology and Astroparticle Physics, Issue 06, id.~003 
-[\href{https://arxiv.org/abs/astro-ph/0701856}{arXiv}, \href{https://doi.org/10.1088/1475-7516/2007/06/003}{doi}]
+Journal of Cosmology and Astroparticle Physics, Issue 06, id. 003 
+[[arXiv]](https://arxiv.org/abs/astro-ph/0701856) [[doi]](https://doi.org/10.1088/1475-7516/2007/06/003) 
 
 ### Review papers ###
 
