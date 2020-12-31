@@ -21,11 +21,10 @@ My research activity is in the area of theoretical particle astrophysics.
 
 ### My worldline ###
 
-* 2019-. Assistant Professor at Gran Sasso Science Institute (L'Aquila, Italy)
-* 2018-2019 Marie Sklodowska-Curie Fellow
-* 2017.03.28 Italian habilitation for teaching theoretical physics of fundamental interactions (02/A2, II fascia)
-* 2016-2017 Postdoc Researcher at Gran Sasso Science Institute (L'Aquila, Italy)
-* 2012-2015 Postdoc Researcher at Hamburg University (Germany)
-* 2011 Visiting Scientist at Scuola Normale Superiore (Pisa, Italy) and National Astronomical Observatory of China (Beijing, China)
-* 2010.10.20 PhD in Astrophysics at SISSA (here my thesis)
-* 2006.10.20 M.Sci. in Physics, Pisa University, Italy
+* **2019-.** Assistant Professor at [Gran Sasso Science Institute](wwww.gssi.it) (L'Aquila, Italy)
+* **2018-2019** [Marie Sklodowska-Curie](https://ec.europa.eu/research/mariecurieactions/node_en) Fellow at [Gran Sasso Science Institute](wwww.gssi.it) 
+* **2016-2017** Postdoc Researcher at [Gran Sasso Science Institute](wwww.gssi.it) 
+* **2012-2015** Postdoc Researcher at [Hamburg University](https://unith.desy.de) (Germany)
+* **2011** Visiting Scientist at [Scuola Normale Superiore](www.sns.it) (Pisa, Italy) and [National Astronomical Observatory of China](http://english.nao.cas.cn) (Beijing, China)
+* **2010.10.20** PhD in Astrophysics at [SISSA](www.sissa.it) ([here](https://iris.sissa.it/handle/20.500.11767/4138) my thesis)
+* **2006.10.20** M.Sci. in Physics, Pisa University, Italy
