@@ -5,7 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-For an up-to-date list of my publications, please check [ADS](https://ui.adsabs.harvard.edu/search/q=pubdate%3A%5B2007-01%20TO%209999-12%5D%20author%3A(%22evoli%2C%20c%22)%20property%3Arefereed&sort=date%20desc%2C%20bibcode%20desc&p_=0) or [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=100&page=1&q=a%20C.Evoli.1&doc_type=published).
+### Publication Statistics ### 
++ 45 articles and letters on refereed Journals since 2007
++ 2158 citations, h-index: 26 (source: ADS Database)
++ For an up-to-date list of my publications, please check my [ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22evoli%2C%20c%22&sort=date%20desc%2C%20bibcode%20desc) or [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=100&page=1&q=a%20C.Evoli.1&doc_type=published) pages
+
+43 (20 as first author) publications  (weighted impact factor of 5.0) since 2007; > 1600 citations (> 400 normalised by author number); h-factor of 22 
 
 ### Highlighted Publications ###
 
