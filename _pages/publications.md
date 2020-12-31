@@ -7,7 +7,7 @@ author_profile: true
 
 ### Publication Statistics ### 
 + 45 articles and letters on refereed Journals since 2007
-+ >1800 citations (>400 normalised by author number), h-index: 25 (source: ADS Database)
++ \>1800 citations (>400 normalised by author number), h-index: 25 (source: ADS Database)
 + For an up-to-date list of my publications, please check my [ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22evoli%2C%20c%22&sort=date%20desc%2C%20bibcode%20desc) or [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=100&page=1&q=a%20C.Evoli.1&doc_type=published) pages
 
 ### Highlighted Publications ###
