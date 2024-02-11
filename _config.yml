@@ -77,7 +77,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "L'Aquila, Italy"
-  employer         : "Gran Sasso Science Institute"
+  employer         : "[Gran Sasso Science Institute](www.gssi.it)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=z58lU3kAAAAJ&hl=en"
   email            : "carmelo.evoli@gssi.it"
@@ -92,7 +92,7 @@ author:
   github           : "carmeloevoli"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/carmelo.evoli/"
+  instagram        : "carmelo.evoli"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
