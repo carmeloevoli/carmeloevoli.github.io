@@ -1,20 +1,13 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "en-US"
-title                    : "Carmelo Evoli's home page"
+title                    : "Carmelo Evoli's webpage"
 title_separator          : "-"
-name                     : &name "Carmelo Evoli"
-description              : &description "personal description"
+name                     : &name "Carmelo Giovanni Evoli"
+description              : &description "Astroparticle Physicist"
 url                      : https://carmeloevoli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carmeloevoli/carmeloevoli.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,15 +73,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Carmelo Evoli"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  location         : "L'Aquila, Italy"
+  employer         : "Gran Sasso Science Institute"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=z58lU3kAAAAJ&hl=en"
+  email            : "carmelo.evoli@gssi.it"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +89,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "carmeloevoli"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/carmelo.evoli/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6023-5253"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
