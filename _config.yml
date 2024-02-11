@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Carmelo Evoli's webpage"
+title                    : "Personal webpage"
 title_separator          : "-"
 name                     : &name "Carmelo Giovanni Evoli"
 description              : &description "Astroparticle Physicist"
