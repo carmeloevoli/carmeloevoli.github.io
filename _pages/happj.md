@@ -21,11 +21,17 @@ redirect_from:
 
 + To participate and receive regular updates on dates and topics, please contact [me](mailto:carmelo.evoli@gssi.it).
 
-+ Current Schedule of Speakers
++ **Current Schedule of Speakers**
 
-| Date       | Speaker | Title      | Link  |
-|------------|:-------:|-----------:|:-----:|
-| Feb, 16    | Carmelo |       Vedi | [here](www.gssi.it) |
-| Feb, 16    | Carmelo |       Vedi | [here](www.gssi.it) |
+| Date    | Speaker | Title      | Link  |
+|---------|---------|------------|-------|
+| Feb, 16 | Carmelo | A Peters cycle at the end of the cosmic ray spectrum? | [arXiv](https://arxiv.org/abs/2309.16518) |
+|         |         | Curious case of the maximum rigidity distribution of cosmic-ray accelerators | [arXiv](https://arxiv.org/abs/2207.10691) |
+| Feb, 23 | none    |  |  |
+| Mar, 1  | TBA     |  |  |
+| Mar, 8  | TBA     |  |  |
+| Mar, 15 | TBA     |  |  |
+| Mar, 22 | TBA     |  |  |
+| Mar, 29 | TBA     |  |  |
 
 
