@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "HAPPJ: High-energy AstroParticle Physics Journal Club"
+title: "HAPPJ 😀"
 permalink: /happj/
 author_profile: true
 redirect_from:
