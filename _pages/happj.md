@@ -21,6 +21,11 @@ redirect_from:
 
 + To participate and receive regular updates on dates and topics, please contact [me](mailto:carmelo.evoli@gssi.it).
 
++ Current Schedule of Speakers
 
+| Date       | Speaker | Title      | Link  |
+|------------|:-------:|-----------:|:-----:|
+| Feb, 16    | Carmelo |       Vedi | [here](www.gssi.it) |
+| Feb, 16    | Carmelo |       Vedi | [here](www.gssi.it) |
 
 
