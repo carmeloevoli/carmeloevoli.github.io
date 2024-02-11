@@ -27,3 +27,14 @@ author_profile: true
 + *CASPAR: Codes in AStroPArticle Research*, Summer School for graduate students, Hamburg, Germany, September 10-15, 2014, **Main Organizer and Member of the Scientific Committee** [[website]](https://indico.desy.de/event/10336/)
 + *14th ICATPP Conference*, Villa Olmo, Italy, September 23-27, 2013, **International Advisory Committee**
 + *CASPAR: Cosmic-rays Acceleration, Sources and Propagation, A Rendez-vous*, Hamburg, Germany, September 10-19, 2013, **Main Organizer and Member of the Scientific Committee** [[website]](https://indico.desy.de/event/7169/)
+
+## Select academic seminars and presentations ##
+
+### 2023 ###
+
++ December 12, *Seminar* at the Hamburg University, Hamburg, Germany
++ October 10-13, **Invited Talk** at *[Exploring Galactic Cosmic Ray Accelerators with UHE γ-Rays](https://www.mpi-hd.mpg.de/astrophysik/HEA/conferences/yerevan2023/), Yerevan, Armenia
++ May 16-19, **Review Talk** at *[Cosmic Ray Anisotropy Workshop CRA2023](https://events.icecube.wisc.edu/event/165/)*, Chicago, US
++ March 27, *Seminar* at the Niels Bohr Institute, Copenhagen, Denmark
+
+### 2022 ###
