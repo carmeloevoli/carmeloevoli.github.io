@@ -28,8 +28,8 @@ redirect_from:
 | Feb, 16 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | A Peters cycle at the end of the cosmic ray spectrum? | [arXiv](https://arxiv.org/abs/2309.16518) |
 |         |         | Curious case of the maximum rigidity distribution of cosmic-ray accelerators | [arXiv](https://arxiv.org/abs/2207.10691) |
 | Feb, 23 | none    |  |  |
-| Mar, 1  | TBA     |  |  |
-| Mar, 8  | TBA     |  |  |
+| Mar, 1  | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | TBA | |
+| Mar, 8  | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | TBA | |
 | Mar, 15 | TBA     |  |  |
 | Mar, 22 | TBA     |  |  |
 | Mar, 29 | TBA     |  |  |
