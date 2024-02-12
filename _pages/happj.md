@@ -31,7 +31,7 @@ redirect_from:
 | Mar, 1  | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | TBA | |
 | Mar, 8  | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | TBA | |
 | Mar, 15 | TBA     |  |  |
-| Mar, 22 | TBA     |  |  |
+| Mar, 22 | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | TBA |  |
 | Mar, 29 | TBA     |  |  |
 | Apr, 5  | TBA     |  |  |
 | Apr, 12 | TBA     |  |  |
