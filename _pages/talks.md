@@ -38,3 +38,23 @@ author_profile: true
 + March 27, *Seminar* at the Niels Bohr Institute, Copenhagen, Denmark
 
 ### 2022 ###
+
++ December 5-7, **Invited talk** at *[Cosmic Rays in the Multi-Messenger Era](https://indico.in2p3.fr/event/27666/)*, Paris, France 
++ September 19, *Seminar* at the University of Maryland, US (remote) [[slides]](https://zenodo.org/record/7100383)
++ September 4-11, **Invited talk** at *[Neutrino Oscillation Workshop NOW2022](https://agenda.infn.it/event/30418/)*, Ostuni, Italy 
++ July 25-29, **Highlight talk** at *[27th European Cosmic Ray Symposium](https://indico.nikhef.nl/event/2110/)*, Nijmegen, The Netherlands  
++ July 4-8, *Contributed talk* at *[7th Heidelberg International Symposium on High-Energy Gamma-Ray Astronomy](https://indico.icc.ub.edu/event/46/)*, Barcelona, Spain 
++ June 2, *Seminar* at the Aachen University, Germany
+
+### 2021 ### 
+
++ November 14-19, **Invited talk** at *[Solar Modulation and Dark Matter Workshop](https://agenda.infn.it/event/21891/)*, Trieste, Italy
++ October 18-26, **Invited talk** at *[The Paris Saclay AstroParticle Symposium 2021](https://indico.ijclab.in2p3.fr/event/7119/overview)*, Orsay (Paris), France
++ April 16, *Seminar* at Princeton University, US (remote) [[slides]](https://zenodo.org/record/4701162)
+
+### 2020 ###
+
++ December 1-3, **Invited talk** at *[1st Workshop on Gamma-ray Halos around Pulsars](https://agenda.infn.it/event/24042/)* (remote) [[slides]](https://zenodo.org/record/4302387), 
++ November 17, *Seminar* at [APC](https://www.apc.univ-paris7.fr/APC_CS/en), Paris, France (remote) [[details]](https://www.apc.univ-paris7.fr/APC_CS/en/node/2902)
++ August 27-29, **Invited talk** at *[Multimessenger high energy astrophysics in the era of LHAASO](https://agenda.infn.it/event/23329/)* (remote) [[slides]](https://zenodo.org/record/3965563) 
++ July 7, *Seminar* at [INAF-OAS](https://www.oas.inaf.it/en/), Bologna, Italy (remote) [[details]](https://www.oas.inaf.it/en/seminars/singlevent/?id=374) [[slides]](https://zenodo.org/record/3937561)
