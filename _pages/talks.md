@@ -73,3 +73,37 @@ author_profile: true
 + October 22-27, **Invited talk** at [Cosmology 2018](https://indico.cern.ch/event/736594/), Dubrovnik, Croatia [[slides]](https://zenodo.org/record/1472991)
 + June 25-29, *Contributed talk* at [4th CRISM conference](https://crism2018.sciencesconf.org), Grenoble, France [[slides]](https://zenodo.org/record/1302441)
 
+### 2017 ###
+
++ November 21, *Seminar* at [DESY](https://www.desy.de/index_eng.html), Zeuthen-Berlin, Germany
++ October 21-24, **Invited talk** at [Three elephants in the gamma-ray sky: Loop I, the Fermi bubbles, and the Galactic center excess](https://indico.cern.ch/event/647722/), Garmisch-Partenkirchen, Germany
++ October 10-13, **Invited talk** at [Cosmic-ray Anisotropy Workshop 2017](https://events.icecube.wisc.edu/event/84/), Guadalajara, Mexico
++ July 23-29, **Invited talk** at [Rencontres du Vietnam: Exploring the Dark Universe](http://vietnam.in2p3.fr/2017/dm/index.html), Quy Nhon, Vietnam 
++ May 26, *Seminar* at [IRA](https://www.ira.inaf.it/Home.html), Bologna, Italy
++ May 23, *Seminar* at [Tor Vergata University](https://www.fisica.uniroma2.it), Roma, Italy
++ May 10, *Seminar* at [GRAPPA Institute](http://grappa.amsterdam), Amsterdam, The Netherlands
++ February 28, *Seminar* at [INFN Section of Pisa](https://www.pi.infn.it), Pisa, Italy
+
+### 2016 ###
+
++ December 15, *Seminar* at [Innsbruck University](https://www.uibk.ac.at/sp-physik/), Innsbruck, Austria
++ December 7-9, **Invited talk** at [Searching for the sources of Galactic cosmic rays](http://www.apc.univ-paris7.fr/~semikoz/CosmicRays2016/conference.html), Paris, France 
++ December 1-2, *Contributed talk* at 2nd Workshop on Anisotropic Cosmic Ray Diffusion, Montpellier, France
++ September 26-28, *Contributed talk* at [CII Congresso Nazionale della Società Italiana di Fisica](https://www.sif.it/attivita/congresso/102), Padova, Italy
++ September 19-23, *Contributed talk* at [Cosmic Ray Origin Beyond the Standard Models](http://www.crbtsm.eu), San Vito di Cadore, Italy [[slides]](http://mctp.mx/tibolla/Evoli_CRBTSM_2016.pdf)
++ September 12-16, *Contributed talk* at [TeVPA2016](https://indico.cern.ch/event/469963/), Geneva, Switzerland [[slides]](https://indico.cern.ch/event/469963/contributions/2293959/attachments/1337829/2013218/Evoli_TeVPA2016.pdf)
++ June 7, *Seminar* at [LUPM](https://www.lupm.in2p3.fr/en/homepage/), Montpellier, France
++ May 22-28, *Contributed talk* at [Vulcano Workshop 2016](http://www.lnf.infn.it/conference/vulcano2016/), Vulcano Island, Italy [[slides]](https://agenda.infn.it/event/10576/contributions/3858/attachments/2875/3163/Evoli_Vulcano_2016_compressed.pdf)
++ January 18-22, *Contributed talk* at [Physics of Cosmic Dawn and Reionization in the SKA Era](https://www.sexten-cfa.eu/event/physics-of-cosmic-dawn-and-reionization-in-the-ska-era/), Sesto, Italy
+
+### 2015 ###
+
++ December 7-11, **Invited talk** at [Gamma-rays and Dark Matter](https://indico.cern.ch/event/464471/), Obergurgl, Austria
++ November 2, *Seminar* at [IPMU](https://www.ipmu.jp), Tokyo, Japan
++ October 26-30, **Invited talk** at [TeVPA2015](https://indico.icrr.u-tokyo.ac.jp/event/23/), Tokyo, Japan
++ June 11, *Seminar* at [LAPTh](https://lapth.cnrs.fr/en), Annecy, France
++ May 12, *Seminar* at [HITS](https://www.h-its.org), Heidelberg, Germany
++ April 22, *Seminar* at [University of Oslo](https://www.uio.no/english/), Oslo, Norway
++ February 16-27, *Contributed talk* at [Dark Matter: Astrophysical Probes, Laboratory Tests, and Theory Aspects](https://indico.cern.ch/event/369005/overview), Munich, Germany [[slides]](https://indico.cern.ch/event/369005/contributions/1788166/attachments/734214/1007337/Evoli_21cm.pdf),   
++ January 26-30, **Invited talk** at [Cosmic-ray Anisotropy Workshop 2015](http://helio_cr.tp4.rub.de/CRA-2015/home.php), Bad Honnef, Germany
++ January 21-23, *Contributed talk* at [SUGAR 2015](https://indico.cern.ch/event/332221/overview), Geneva, Switzerland [[slides]](https://indico.cern.ch/event/332221/contributions/1718353/attachments/647572/890694/EvoliSUGAR15.pdf)
