@@ -26,13 +26,14 @@ redirect_from:
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
 | **Feb, 29**  | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | TBA | |
-| Mar, 8  | [Denise](https://www.dsfc.univaq.it/it/?option=com_sppagebuilder&view=page&id=361) | TBA | |
-| Mar, 15 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | TBA | |
+| Mar, 8  | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | An extremely energetic cosmic ray observed by a surface detector array | [arXiv](https://arxiv.org/abs/2311.14231) |
+|         |         | Where Did the Amaterasu Particle Come From? | [arXiv](https://arxiv.org/abs/2312.13273) |
+| Mar, 15 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On the TeV Halo Fraction in gamma-ray bright Pulsar Wind Nebulae | [arXiv](https://arxiv.org/abs/1907.12121) |
 | Mar, 22 | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | TBA | |
 | Mar, 29 | none    |  |  |
-| Apr, 5  | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | TBA | |
+| Apr, 5  | TBA     |  |  |
 | Apr, 12 | TBA     |  |  |
-| Apr, 19 | TBA     |  |  |
+| Apr, 19 | [Denise](https://www.dsfc.univaq.it/it/?option=com_sppagebuilder&view=page&id=361) | TBA | |
 | May, 3  | TBA     |  |  |
 | May, 10 | TBA     |  |  |
 | May, 17 | TBA     |  |  |
