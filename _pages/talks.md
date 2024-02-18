@@ -33,28 +33,43 @@ author_profile: true
 ### 2023 ###
 
 + December 12, *Seminar* at the Hamburg University, Hamburg, Germany
-+ October 10-13, **Invited Talk** at *[Exploring Galactic Cosmic Ray Accelerators with UHE γ-Rays](https://www.mpi-hd.mpg.de/astrophysik/HEA/conferences/yerevan2023/), Yerevan, Armenia
-+ May 16-19, **Review Talk** at *[Cosmic Ray Anisotropy Workshop CRA2023](https://events.icecube.wisc.edu/event/165/)*, Chicago, US
++ October 10-13, **Invited Talk** at [Exploring Galactic Cosmic Ray Accelerators with UHE γ-Rays](https://www.mpi-hd.mpg.de/astrophysik/HEA/conferences/yerevan2023/), Yerevan, Armenia
++ May 16-19, **Review Talk** at [Cosmic Ray Anisotropy Workshop CRA2023](https://events.icecube.wisc.edu/event/165/), Chicago, US
 + March 27, *Seminar* at the Niels Bohr Institute, Copenhagen, Denmark
 
 ### 2022 ###
 
-+ December 5-7, **Invited talk** at *[Cosmic Rays in the Multi-Messenger Era](https://indico.in2p3.fr/event/27666/)*, Paris, France 
++ December 5-7, **Invited talk** at [Cosmic Rays in the Multi-Messenger Era](https://indico.in2p3.fr/event/27666/), Paris, France 
 + September 19, *Seminar* at the University of Maryland, US (remote) [[slides]](https://zenodo.org/record/7100383)
-+ September 4-11, **Invited talk** at *[Neutrino Oscillation Workshop NOW2022](https://agenda.infn.it/event/30418/)*, Ostuni, Italy 
-+ July 25-29, **Highlight talk** at *[27th European Cosmic Ray Symposium](https://indico.nikhef.nl/event/2110/)*, Nijmegen, The Netherlands  
-+ July 4-8, *Contributed talk* at *[7th Heidelberg International Symposium on High-Energy Gamma-Ray Astronomy](https://indico.icc.ub.edu/event/46/)*, Barcelona, Spain 
++ September 4-11, **Invited talk** at [Neutrino Oscillation Workshop NOW2022](https://agenda.infn.it/event/30418/), Ostuni, Italy 
++ July 25-29, **Highlight talk** at [27th European Cosmic Ray Symposium](https://indico.nikhef.nl/event/2110/), Nijmegen, The Netherlands  
++ July 4-8, *Contributed talk* at [7th Heidelberg International Symposium on High-Energy Gamma-Ray Astronomy](https://indico.icc.ub.edu/event/46/), Barcelona, Spain 
 + June 2, *Seminar* at the Aachen University, Germany
 
 ### 2021 ### 
 
-+ November 14-19, **Invited talk** at *[Solar Modulation and Dark Matter Workshop](https://agenda.infn.it/event/21891/)*, Trieste, Italy
-+ October 18-26, **Invited talk** at *[The Paris Saclay AstroParticle Symposium 2021](https://indico.ijclab.in2p3.fr/event/7119/overview)*, Orsay (Paris), France
++ November 14-19, **Invited talk** at [Solar Modulation and Dark Matter Workshop](https://agenda.infn.it/event/21891/), Trieste, Italy
++ October 18-26, **Invited talk** at [The Paris Saclay AstroParticle Symposium 2021](https://indico.ijclab.in2p3.fr/event/7119/overview), Orsay (Paris), France
 + April 16, *Seminar* at Princeton University, US (remote) [[slides]](https://zenodo.org/record/4701162)
 
 ### 2020 ###
 
-+ December 1-3, **Invited talk** at *[1st Workshop on Gamma-ray Halos around Pulsars](https://agenda.infn.it/event/24042/)* (remote) [[slides]](https://zenodo.org/record/4302387), 
-+ November 17, *Seminar* at [APC](https://www.apc.univ-paris7.fr/APC_CS/en), Paris, France (remote) [[details]](https://www.apc.univ-paris7.fr/APC_CS/en/node/2902)
-+ August 27-29, **Invited talk** at *[Multimessenger high energy astrophysics in the era of LHAASO](https://agenda.infn.it/event/23329/)* (remote) [[slides]](https://zenodo.org/record/3965563) 
-+ July 7, *Seminar* at [INAF-OAS](https://www.oas.inaf.it/en/), Bologna, Italy (remote) [[details]](https://www.oas.inaf.it/en/seminars/singlevent/?id=374) [[slides]](https://zenodo.org/record/3937561)
++ December 1-3, **Invited talk** at [1st Workshop on Gamma-ray Halos around Pulsars](https://agenda.infn.it/event/24042/), remote [[slides]](https://zenodo.org/record/4302387), 
++ November 17, *Seminar* at [APC](https://www.apc.univ-paris7.fr/APC_CS/en), remote
++ August 27-29, **Invited talk** at [Multimessenger high energy astrophysics in the era of LHAASO](https://agenda.infn.it/event/23329/), remote [[slides]](https://zenodo.org/record/3965563) 
++ July 7, *Seminar* at [INAF-OAS](https://www.oas.inaf.it/en/), Bologna, Italy (remote) [[slides]](https://zenodo.org/record/3937561)
+
+### 2019 ###
+
++ August 22-28, **Invited talk** at [Lomonosov Conference on Elementary Particle Physics](https://lomcon.ru/?page_id=204), Moscow, Russia
++ June 20, *Seminar* at [IRAP](https://www.irap.omp.eu/en/homepage-en/), Toulouse, France [[slides]](https://zenodo.org/record/3250782)
++ June 10-14, **Invited talk** at [New direction in Galactic Magnetism](https://conferences.ncl.ac.uk/galacticmagnetism/), Newcastle, UK [[meeting report]](https://www.nature.com/articles/s41550-019-0922-9?proof=t) [[slides]](https://zenodo.org/record/3244980)
++ April 2-5, *Contributed talk* at IMAGINE meeting, Nijmegen, The Netherlands
++ March 27-29, **Invited talk** at [Antideuteron 2019](https://indico.phys.hawaii.edu/event/1449/), Los Angeles, US [[slides]](https://zenodo.org/record/2613865)
+
+### 2018 ###
+
++ December 10-14, **Invited talk** at [Searching for the sources of Galactic cosmic rays](http://www.apc.univ-paris7.fr/~semikoz/CosmicRays2018/conference.html), Paris, France [[slides]](https://zenodo.org/record/2360389) 
++ October 22-27, **Invited talk** at [Cosmology 2018](https://indico.cern.ch/event/736594/), Dubrovnik, Croatia [[slides]](https://zenodo.org/record/1472991)
++ June 25-29, *Contributed talk* at [4th CRISM conference](https://crism2018.sciencesconf.org), Grenoble, France [[slides]](https://zenodo.org/record/1302441)
+
