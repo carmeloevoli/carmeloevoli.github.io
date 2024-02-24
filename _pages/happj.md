@@ -25,7 +25,8 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **Feb, 29**  | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | TBA | |
+| **Feb, 29**  | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on the proton fraction of cosmic rays at the highest energies and the consequences for cosmogenic neutrinos and photons | [arXiv](https://arxiv.org/abs/2304.07321) |
+| | | Floor of cosmogenic neutrino fluxes above  1017  eV | [arXiv](https://arxiv.org/abs/2402.04759) |
 | Mar, 8  | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | An extremely energetic cosmic ray observed by a surface detector array | [arXiv](https://arxiv.org/abs/2311.14231) |
 |         |         | Where Did the Amaterasu Particle Come From? | [arXiv](https://arxiv.org/abs/2312.13273) |
 | Mar, 15 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On the TeV Halo Fraction in gamma-ray bright Pulsar Wind Nebulae | [arXiv](https://arxiv.org/abs/1907.12121) |
