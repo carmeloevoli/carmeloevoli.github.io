@@ -7,19 +7,19 @@ redirect_from:
   - /jc
 ---
 
-+ Welcome to the High-energy AstroParticle Physics Journal Club (**HAPPJ**)!
+### Welcome to the High-energy AstroParticle Physics Journal Club (**HAPPJ**)!
 
 + Our *weekly* meetings serve as a platform for discussing the latest papers and findings in High-Energy Cosmic Rays, Gamma and Neutrino Astrophysics, but also to share exciting new results, puzzles about some difficulties you can't overcome, or simply your enthusiasm for a new field you found about.
 
-+ *Time:* Every Friday at 9:30 AM, Fontana Luminosa local time.
++ *Time:* Every Friday at 9:30 AM, Fontana Luminosa Local Time.
 
-+ *Location:* GSSI Red Building (the building formerly known as Ex-INPS), Floor -1. 
++ *Location:* [GSSI Red Building](https://maps.app.goo.gl/L4EbHgcBQQ88w7nx6) (the building formerly known as Ex-INPS), Floor -1. 
 
-+ We keep track of papers to discuss on the HAPPJ journal club benty-fields.
++ We keep track of papers to discuss on the HAPPJ [ADS library](https://ui.adsabs.harvard.edu/public-libraries/_UjJX4qdQaupa0qbeq2SOg).
 
 + We are committed to keep our meetings lasting no more than *one hour*.
 
-+ To participate and receive regular updates on dates and topics, please contact [me](mailto:carmelo.evoli@gssi.it).
++ To participate and receive regular updates on dates and topics, please consider joining our [ML](https://lists.infn.it/sympa/subscribe/happj).
 
 + **Current Schedule of Speakers**
 
