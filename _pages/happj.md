@@ -32,7 +32,7 @@ redirect_from:
 | Mar, 15 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On the TeV Halo Fraction in gamma-ray bright Pulsar Wind Nebulae | [arXiv](https://arxiv.org/abs/1907.12121) |
 | Mar, 22 | TBA     |  |  |
 | Mar, 29 | none    |  |  |
-| Apr, 5  | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | TBA | |
+| Apr, 5  | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Impact of the finite life-time of UHECR sources | [arXiv](https://arxiv.org/abs/2210.07090) |
 | Apr, 12 | TBA     |  |  |
 | Apr, 19 | [Denise](https://www.dsfc.univaq.it/it/?option=com_sppagebuilder&view=page&id=361) | TBA | |
 | May, 3  | TBA     |  |  |
