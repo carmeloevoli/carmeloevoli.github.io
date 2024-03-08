@@ -25,17 +25,14 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **Mar, 7** | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | An extremely energetic cosmic ray observed by a surface detector array | [arXiv](https://arxiv.org/abs/2311.14231) |
-|         |         | Where Did the Amaterasu Particle Come From? | [arXiv](https://arxiv.org/abs/2312.13273) |
-| Mar, 14 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On the TeV Halo Fraction in gamma-ray bright Pulsar Wind Nebulae | [arXiv](https://arxiv.org/abs/1907.12121) |
-| Mar, 21 | TBA     |  |  |
+| **Mar, 21** | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On the TeV Halo Fraction in gamma-ray bright Pulsar Wind Nebulae | [arXiv](https://arxiv.org/abs/1907.12121) |
 | Mar, 28 | none    |  |  |
 | Apr, 4  | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Impact of the finite life-time of UHECR sources | [arXiv](https://arxiv.org/abs/2210.07090) |
-| Apr, 11 | TBA     |  |  |
-| Apr, 18 | [Denise](https://www.dsfc.univaq.it/it/?option=com_sppagebuilder&view=page&id=361) | TBA | |
+| Apr, 11 | none     |  |  |
+| Apr, 18 | TBA     |  |  |
 | May, 2  | TBA     |  |  |
 | May, 9 | TBA      |  |  |
-| May, 16 | TBA     |  |  |
+| May, 16 | [Denise](https://www.dsfc.univaq.it/it/?option=com_sppagebuilder&view=page&id=361) | TBA | |
 | May, 23 | TBA     |  |  |
 
 + **Past Schedule of Speakers**
@@ -46,5 +43,7 @@ redirect_from:
 |         |         | Curious case of the maximum rigidity distribution of cosmic-ray accelerators | [arXiv](https://arxiv.org/abs/2207.10691) |
 | Feb, 29 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on the proton fraction of cosmic rays at the highest energies (...) | [arXiv](https://arxiv.org/abs/2304.07321) |
 | | | Floor of cosmogenic neutrino fluxes above  1017  eV | [arXiv](https://arxiv.org/abs/2402.04759) |
+| Mar, 7 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | An extremely energetic cosmic ray observed by a surface detector array | [arXiv](https://arxiv.org/abs/2311.14231) |
+|         |         | Where Did the Amaterasu Particle Come From? | [arXiv](https://arxiv.org/abs/2312.13273) |
 
 
