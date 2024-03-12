@@ -32,3 +32,7 @@ redirect_from:
     Lecture notes given at the International School of Physics "Enrico Fermi", Course 208, Varenna, 24-29 June 2022
     [[arXiv]](https://arxiv.org/abs/2309.00298)
 
++ **A primer on modern C++**
+
+    An introduction to the modern C++ programming language to be familiar with my codes.
+    [[slides]](https://fellowship-of-clean-code.github.io/APrimerOnModernCpp/#1)
