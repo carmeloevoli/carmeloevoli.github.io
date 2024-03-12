@@ -6,12 +6,15 @@ redirect_from:
   - "/hea-exercises.html"
 ---
 
-### **1. Photon energies and wavelengths**
 
-  A simple warm-up exercise here:
+### **1. Photon energies and wavelengths**<a name="ex1"></a>
+
+  A warm-up exercise here:
   
   - Determine the typical energies in electron volts (eV) for the following types of photons: microwave, far-infrared, near-infrated, optical, and UV.
   - Conversevely, given photons with energies of 1 keV, 100 keV, and 1 TeV, determine their frequencies and wavelengths.
+
+---
   
 ### **2. Galactic Synchrotron Emission**
 
@@ -24,6 +27,8 @@ $$T_b \approx 250 \left( \frac{\nu}{480~\text{MHz}} \right)^{-2.8}~\text{K}$$
    - Compare the derived differential energy spectrum of cosmic ray electrons to that of cosmic ray protons [[PDG]](https://pdg.lbl.gov/2023/reviews/rpp2023-rev-cosmic-rays.pdf).
    - Quantitatively estimate the relative contribution of cosmic ray protons to the overall Galactic synchrotron emission. 
    - Estimate the gyro-radii of cosmic ray electrons and protons at the minimum $E_{\rm min}$ and maximum $E_{\rm max}$ energy values. Compare these estimates to the overall size of the Galaxy.
+
+---
  
 ### **3. Synchrotron energetics and Electron Cooling**
 
@@ -34,16 +39,27 @@ $$T_b \approx 250 \left( \frac{\nu}{480~\text{MHz}} \right)^{-2.8}~\text{K}$$
   - Calculate the cooling time for electrons via inverse Compton scattering off of CMB photons. Estimate at what redshift this cooling time becomes shorter than the age of the Universe.
    - For the radio lobes of Cygnus A, which span approximately 50 kpc and emit a total luminosity of $\sim 10^{45}$ erg/s at radio frequencies around several GHz, assume a magnetic field strength of $\sim 10^{-4}$ G. Determine the power radiated per electron. Using your result, calculate the electron energy density. Compare this with the magnetic energy density to discuss the energetics of the radio lobes.
 
+---
+
 ### **4. Universe reionization**
 
   The Intergalactic Medium (IGM) at redshifts $z \lesssim 10$ is observed to be highly ionized, likely due to radiation from galaxies and quasars. Post-recombination at $z \sim 10^3$, the IGM was almost completely neutral. This observation indicates that reionization of the IGM occurred somewhere $z_r \gtrsim 10$, although the exact timing of this crucial transition remains unknown. 
 
   An ionized IGM scatters CMB photons by Thomson scattering. Under the assumption of a uniform Universe with a specified baryon fraction $\Omega_b$ in units of the critical density $\Omega_c$, derive the relation between $\tau_r$ and $z_r$ and calculate $\tau_r$ assuming a reionization redshift $z_r = 10$ for an Einstein-de Sitter Universe.
 
+---
+
 ### **5. TeV halos**
 
   TeV halos, extended regions of very high-energy (~TeV) gamma-ray emission, have been observed surrounding several middle-aged pulsars, such as Geminga
 
-   - Utilizing the known distance to [Geminga](https://en.wikipedia.org/wiki/Geminga) and given that the angular extension of its TeV halo is approximately \(\theta \sim 1^\circ\), calculate the halo's physical size.
-   - Assuming electrons are initially emitted from the center of the halo, estimate the local diffusion coefficient, \(D\), using the formula \(D \sim l^2/\tau\), where \(l\) represents the halo size, and \(\tau\) is the energy loss timescale. Consider energy losses primarily due to IC scattering on CMB.
-   - Discuss the scenario in which the gamma-ray emission occurs in the Klein-Nishina regime. Explain the conditions under which the photon field would result in this regime being applicable. 
+   - Utilizing the known distance to [Geminga](https://en.wikipedia.org/wiki/Geminga) and given that the angular extension of its TeV halo is approximately \(\theta \sim 4.5^\circ\), calculate the halo's physical size.
+   - Assuming electrons are initially emitted from the center of the halo, estimate the local diffusion coefficient, $D$, using the formula $D \sim H^2/\tau$, where $H$ represents the halo size, and $\tau$ is the energy loss timescale. Consider energy losses primarily due to IC scattering on CMB.
+   - Compare the result with the Bohm diffusion coefficient, which is the smaller possible diffusion coefficient.
+   - Discuss the scenario in which the gamma-ray emission occurs in the Klein-Nishina regime. Explain the conditions under which the photon field would result in this regime being applicable.
+
+---
+
+### **6. EBL**
+
+  Compute the maximum EBL...
