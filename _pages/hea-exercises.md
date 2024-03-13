@@ -16,7 +16,7 @@ redirect_from:
 
 ---
   
-### **2. Galactic Synchrotron Emission**
+### **2. Diffuse Synchrotron Emission from Galactic Cosmic Ray Electrons**
 
   The brightness temperature $T_b$ of synchrotron emission from the Galactic plane is observed within the frequency range of 8 GHz to 480 MHz, and is approximately given by:
 $$T_b \approx 250 \left( \frac{\nu}{480~\text{MHz}} \right)^{-2.8}~\text{K}$$
@@ -49,7 +49,7 @@ $$T_b \approx 250 \left( \frac{\nu}{480~\text{MHz}} \right)^{-2.8}~\text{K}$$
 
 ---
 
-### **5. TeV halos**
+### **5. Low diffusivity around TeV halos**
 
   TeV halos, extended regions of very high-energy (~TeV) gamma-ray emission, have been observed surrounding several middle-aged pulsars, such as Geminga
 
@@ -65,3 +65,9 @@ $$T_b \approx 250 \left( \frac{\nu}{480~\text{MHz}} \right)^{-2.8}~\text{K}$$
   The Extragalactic Background Light (EBL) is a significant factor in the absorption of gamma rays from distant astronomical objects, such as blazars, through the mechanism of pair production. This exercise explores how to estimate an upper limit for the average EBL intensity as a function of the redshift (\(z\)), using observations of gamma rays at TeV energies.
 
    - Utilize observations of gamma rays with energies $E_\gamma \sim 1$ TeV from a blazar at a given redshift $z$ to outline a method to determine a conservative upper limit for the average EBL intensity as a function of $z$. Assume that $dt/dz$ can be approximated by $H^{-1}$, and that all EBL photons have the energy where the pair-production cross section is maximized (*monochromatic approximation*).
+
+---
+
+#### **7. Threshold of UHECR Photodisintegration**
+
+TO BE COMPLETED
