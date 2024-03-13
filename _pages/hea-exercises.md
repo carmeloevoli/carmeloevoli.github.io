@@ -60,6 +60,8 @@ $$T_b \approx 250 \left( \frac{\nu}{480~\text{MHz}} \right)^{-2.8}~\text{K}$$
 
 ---
 
-### **6. EBL**
+### **6. Constraints on the ExtraGalactic Background Light from very-high-energy observations of blazars**
 
-  Compute the maximum EBL...
+  The Extragalactic Background Light (EBL) is a significant factor in the absorption of gamma rays from distant astronomical objects, such as blazars, through the mechanism of pair production. This exercise explores how to estimate an upper limit for the average EBL intensity as a function of the redshift (\(z\)), using observations of gamma rays at TeV energies.
+
+   - Utilize observations of gamma rays with energies $E_\gamma \sim 1$ TeV from a blazar at a given redshift $z$ to outline a method to determine a conservative upper limit for the average EBL intensity as a function of $z$. Assume that $dt/dz$ can be approximated by $H^{-1}$, and that all EBL photons have the energy where the pair-production cross section is maximized (*monochromatic approximation*).
