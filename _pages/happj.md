@@ -28,7 +28,8 @@ redirect_from:
 | **Mar, 21** | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On the TeV Halo Fraction in gamma-ray bright Pulsar Wind Nebulae | [arXiv](https://arxiv.org/abs/1907.12121) |
 | Mar, 28 | none    |  |  |
 | Apr, 4  | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Impact of the finite life-time of UHECR sources | [arXiv](https://arxiv.org/abs/2210.07090) |
-| Apr, 11 | TBA     |  |  |
+| Apr, 11 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Measurements of All-Particle Energy Spectrum and ⟨lnA⟩ of Cosmic Rays from 0.3 to 30 PeV with LHAASO-KM2A | [arXiv](https://arxiv.org/abs/2403.10010) |
+| | | Precise measurement of the cosmic-ray spectrum and ⟨lnA⟩ by LHAASO -- connecting the Galactic to the extragalactic components | [arXiv](https://arxiv.org/abs/2403.11832) |
 | Apr, 18 | none    |  |  |
 | May, 2  | TBA     |  |  |
 | May, 9  | TBA     |  |  |
