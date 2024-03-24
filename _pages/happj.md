@@ -34,7 +34,7 @@ redirect_from:
 | May, 16 | [Denise](https://www.dsfc.univaq.it/it/?option=com_sppagebuilder&view=page&id=361) | TBA | |
 | May, 23 | TBA     |  |  |
 | May, 30 | none    |  |  |
-| June, 6 | TBA     |  |  |
+| June, 6 | Paolo | TBC  |  |
 | June, 13 | TBA     |  |  |
 
 + **Past Schedule of Speakers**
