@@ -1,9 +1,8 @@
 ---
-permalink: /non-menu-page/
+permalink: /drafs/
 title: "Private drafts"
-author_profile: true
+author_profile: false
 redirect_from: 
-  - "/drafts/"
   - "/drafts.html"
 ---
 
