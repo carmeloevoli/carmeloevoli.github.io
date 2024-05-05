@@ -25,8 +25,7 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **May, 2** | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Progresses on my PhD project |  |
-| May, 9  | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | UHECR Echoes from the Council of Giants | [arXiv](https://arxiv.org/abs/2302.06489) |
+| **May, 9**  | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | UHECR Echoes from the Council of Giants | [arXiv](https://arxiv.org/abs/2302.06489) |
 | May, 16 | [Denise](https://www.dsfc.univaq.it/it/?option=com_sppagebuilder&view=page&id=361) | TBA | |
 | May, 23 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Measurements of All-Particle Energy Spectrum and ⟨lnA⟩ from 0.3 to 30 PeV with LHAASO-KM2A | [arXiv](https://arxiv.org/abs/2403.10010) |
 | | | Precise measurement of the cosmic-ray spectrum and ⟨lnA⟩ by LHAASO | [arXiv](https://arxiv.org/abs/2403.11832) |
@@ -46,6 +45,6 @@ redirect_from:
 |         |         | Where Did the Amaterasu Particle Come From? | [arXiv](https://arxiv.org/abs/2312.13273) |
 | Mar, 21 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On the TeV Halo Fraction in gamma-ray bright Pulsar Wind Nebulae | [arXiv](https://arxiv.org/abs/1907.12121) |
 | Apr, 4 | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Impact of the finite life-time of UHECR sources | [arXiv](https://arxiv.org/abs/2210.07090) |
-
+| May, 2 | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Progresses on my PhD project |  |
 
 
