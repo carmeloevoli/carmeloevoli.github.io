@@ -26,12 +26,11 @@ redirect_from:
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
 | **May, 9**  | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | UHECR Echoes from the Council of Giants | [arXiv](https://arxiv.org/abs/2302.06489) |
-| May, 16 | [Denise](https://www.dsfc.univaq.it/it/?option=com_sppagebuilder&view=page&id=361) | TBA | |
-| May, 23 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Measurements of All-Particle Energy Spectrum and ⟨lnA⟩ from 0.3 to 30 PeV with LHAASO-KM2A | [arXiv](https://arxiv.org/abs/2403.10010) |
-| | | Precise measurement of the cosmic-ray spectrum and ⟨lnA⟩ by LHAASO | [arXiv](https://arxiv.org/abs/2403.11832) |
-| May, 30 | [Pasquale](https://www.gssi.it/institute/organization/item/201-blasi-pasquale) | The nature of the X-ray filaments around bow shock pulsar wind nebulae  | [arXiv](https://arxiv.org/abs/2403.03616)  |
-| June, 6 | Paolo | TBA |  |
-| June, 13 | TBA     |  |  |
+| May, 16 | TBA | TBA | |
+| May, 23 | TBA | TBA | |
+| May, 30 | none | | |
+| June, 6 | Paolo | TBA | |
+| June, 13 | TBA | | |
 
 + **Past Schedule of Speakers**
 
