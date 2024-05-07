@@ -30,7 +30,8 @@ redirect_from:
 | May, 23 | [Pasquale](https://www.gssi.it/institute/organization/item/201-blasi-pasquale) | The nature of the X-ray filaments around bow shock pulsar wind nebulae  | [arXiv](https://arxiv.org/abs/2403.03616)  |
 | May, 30 | none | | |
 | June, 6 | Paolo | TBA | |
-| June, 13 | TBA | | |
+| June, 13 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Measurements of All-Particle Energy Spectrum and ⟨lnA⟩ from 0.3 to 30 PeV with LHAASO-KM2A | [arXiv](https://arxiv.org/abs/2403.10010) |
+| | | Precise measurement of the cosmic-ray spectrum and ⟨lnA⟩ by LHAASO | [arXiv](https://arxiv.org/abs/2403.11832) |
 
 + **Past Schedule of Speakers**
 
