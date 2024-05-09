@@ -26,7 +26,7 @@ redirect_from:
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
 | **May, 9**  | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | UHECR Echoes from the Council of Giants | [arXiv](https://arxiv.org/abs/2302.06489) |
-| May, 16 | [Iurii](https://www.gssi.it/people/post-doc/post-doc-physics/item/25106-sushch-iurii) | TBA | |
+| May, 16 | [Iurii](https://www.gssi.it/people/post-doc/post-doc-physics/item/25106-sushch-iurii) | Acceleration of cosmic rays in SuperNova Remnants | |
 | May, 23 | [Pasquale](https://www.gssi.it/institute/organization/item/201-blasi-pasquale) | The nature of the X-ray filaments around bow shock pulsar wind nebulae  | [arXiv](https://arxiv.org/abs/2403.03616)  |
 | May, 30 | none | | |
 | June, 6 | Paolo | TBA | |
