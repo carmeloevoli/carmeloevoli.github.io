@@ -25,12 +25,9 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **May, 9**  | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | UHECR Echoes from the Council of Giants | [arXiv](https://arxiv.org/abs/2302.06489) |
-| May, 16 | [Iurii](https://www.gssi.it/people/post-doc/post-doc-physics/item/25106-sushch-iurii) | Acceleration of cosmic rays in SuperNova Remnants | |
-| May, 23 | [Pasquale](https://www.gssi.it/institute/organization/item/201-blasi-pasquale) | The nature of the X-ray filaments around bow shock pulsar wind nebulae  | [arXiv](https://arxiv.org/abs/2403.03616)  |
-| May, 30 | none | | |
-| June, 6 | Paolo | TBA | |
-| June, 13 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Measurements of All-Particle Energy Spectrum and ⟨lnA⟩ from 0.3 to 30 PeV with LHAASO-KM2A | [arXiv](https://arxiv.org/abs/2403.10010) |
+| **June, 6** | Paolo | TBA | |
+| June, 13 | [Pasquale](https://www.gssi.it/institute/organization/item/201-blasi-pasquale) | The nature of the X-ray filaments around bow shock pulsar wind nebulae  | [arXiv](https://arxiv.org/abs/2403.03616)  |
+| June, 20 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Measurements of All-Particle Energy Spectrum and ⟨lnA⟩ from 0.3 to 30 PeV with LHAASO-KM2A | [arXiv](https://arxiv.org/abs/2403.10010) |
 | | | Precise measurement of the cosmic-ray spectrum and ⟨lnA⟩ by LHAASO | [arXiv](https://arxiv.org/abs/2403.11832) |
 
 + **Past Schedule of Speakers**
@@ -46,5 +43,7 @@ redirect_from:
 | Mar, 21 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On the TeV Halo Fraction in gamma-ray bright Pulsar Wind Nebulae | [arXiv](https://arxiv.org/abs/1907.12121) |
 | Apr, 4 | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Impact of the finite life-time of UHECR sources | [arXiv](https://arxiv.org/abs/2210.07090) |
 | May, 2 | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Progresses on my PhD project |  |
+| May, 9 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | UHECR Echoes from the Council of Giants | [arXiv](https://arxiv.org/abs/2302.06489) |
+| May, 16 | [Iurii](https://www.gssi.it/people/post-doc/post-doc-physics/item/25106-sushch-iurii) | Acceleration of cosmic rays in SuperNova Remnants | |
 
 
