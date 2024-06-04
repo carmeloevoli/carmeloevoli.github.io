@@ -13,7 +13,9 @@ redirect_from:
 - **November 18 (Monday) to 21 (Thursday)**: [UHECR2024 conference](https://indico.ahuekna.org.ar/event/768/)
 
 ### Abstract Submission:
-- Not open yet. **LA scientific contributions to be discussed**
+- Not open yet.
+> [!IMPORTANT]
+> LA scientific contributions to be discussed
 
 ### Accommodation:
 - Reserved at [Amalar Cabañas](https://www.amalar.com.ar/) from November 9 to 22.
@@ -31,10 +33,12 @@ redirect_from:
   - 🛬 Friday, Nov 22: 18:35 MDZ -> Saturday, Nov 23: 16:00 FCO
 - **Estimated Total Cost**: 
   - 1100 Euros / person (To be confirmed)
+> [!CAUTION]
+> Prices are increasing
 
 ### Transportation:
 - **Rent Car in Mendoza**: Vincenzo?
-- **Money Exchange in Mendoza**: Vincenzo?  At least 1,000 Euros
+- **Money Exchange in Mendoza**: Vincenzo?  At least 1 kE
 
 ### Fees:
 - **Auger CM Fee**:
@@ -43,11 +47,14 @@ redirect_from:
   - Undecided yet (to be covered by GSSI funds?)
 
 ### Daily Allowance:
-- INFN per diem is 120 Euros / day. 
-  - Explore the possibility of reducing the number of days to cut the budget.
+- INFN per diem is 120 Euros / day.
+> [!IMPORTANT]
+> Explore the possibility of reducing the number of days to cut the budget.
 
 ### Passport:
-- Check passport validity (must be valid for more than 6 months after November 22).
+- Check passport validity
+> [!CAUTION]
+> must be valid for more than 6 months after November 22
 
 ### Medical Insurance:
 - To be arranged.
