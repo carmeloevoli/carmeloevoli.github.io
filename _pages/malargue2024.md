@@ -15,7 +15,8 @@ redirect_from:
 ### Abstract Submission:
 - Not open yet.
   
-> [!IMPORTANT]
+> **IMPORTANT**
+> 
 > LA scientific contributions to be discussed
 
 ### Accommodation:
@@ -34,7 +35,9 @@ redirect_from:
   - 🛬 Friday, Nov 22: 18:35 MDZ -> Saturday, Nov 23: 16:00 FCO
 - **Estimated Total Cost**: 
   - 1100 Euros / person (To be confirmed)
-> [!CAUTION]
+
+> **CAUTION**
+> 
 > Prices are increasing
 
 ### Transportation:
@@ -49,12 +52,16 @@ redirect_from:
 
 ### Daily Allowance:
 - INFN per diem is 120 Euros / day.
-> [!IMPORTANT]
+
+> **IMPORTANT**
+> 
 > Explore the possibility of reducing the number of days to cut the budget.
 
 ### Passport:
 - Check passport validity
-> [!CAUTION]
+
+> **CAUTION**
+> 
 > must be valid for more than 6 months after November 22
 
 ### Medical Insurance:
