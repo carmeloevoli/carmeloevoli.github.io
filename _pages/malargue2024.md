@@ -14,10 +14,7 @@ redirect_from:
 
 ### Abstract Submission:
 - Not open yet.
-  
-> **IMPORTANT**
-> 
-> LA scientific contributions to be discussed
+- **IMPORTANT** LA scientific contributions to be discussed
 
 ### Accommodation:
 - Reserved at [Amalar Cabañas](https://www.amalar.com.ar/) from November 9 to 22.
@@ -35,10 +32,7 @@ redirect_from:
   - 🛬 Friday, Nov 22: 18:35 MDZ -> Saturday, Nov 23: 16:00 FCO
 - **Estimated Total Cost**: 
   - 1100 Euros / person (To be confirmed)
-
-> **CAUTION**
-> 
-> Prices are increasing
+  - **CAUTION** Prices are increasing
 
 ### Transportation:
 - **Rent Car in Mendoza**: Vincenzo?
@@ -52,17 +46,11 @@ redirect_from:
 
 ### Daily Allowance:
 - INFN per diem is 120 Euros / day.
-
-> **IMPORTANT**
-> 
-> Explore the possibility of reducing the number of days to cut the budget.
+- **IMPORTANT** Explore the possibility of reducing the number of days to cut the budget.
 
 ### Passport:
 - Check passport validity
-
-> **CAUTION**
-> 
-> must be valid for more than 6 months after November 22
+- **CAUTION** must be valid for more than 6 months after November 22
 
 ### Medical Insurance:
 - To be arranged.
