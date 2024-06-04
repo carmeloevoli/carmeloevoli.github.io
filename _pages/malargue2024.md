@@ -7,13 +7,16 @@ redirect_from:
   - /malargue2024
 ---
 
+---
+
 ### Important Dates:
 - **November 10 (Sunday) to 15 (Friday)**: [Auger CM]()
 - **November 16 (Saturday)**: Ceremony of signing the extension of Auger data taking time
 - **November 18 (Monday) to 21 (Thursday)**: [UHECR2024 conference](https://indico.ahuekna.org.ar/event/768/)
 
 ### Abstract Submission:
-- Not open yet.
+- Not open yet!
+- Abstract submission: **August 16th**
 - **IMPORTANT** LA scientific contributions to be discussed
 
 ### Accommodation:
@@ -42,7 +45,8 @@ redirect_from:
 - **Auger CM Fee**:
   - About 100 Euros / person (**To be confirmed**)
 - **UHECR Conference Fee**:
-  - Undecided yet (to be covered by GSSI funds?)
+  - Early bird registration fee (300 EUR): **September 30th**
+  - To be covered by GSSI funds?
 
 ### Daily Allowance:
 - INFN per diem is 120 Euros / day.
