@@ -14,6 +14,7 @@ redirect_from:
 
 ### Abstract Submission:
 - Not open yet.
+  
 > [!IMPORTANT]
 > LA scientific contributions to be discussed
 
