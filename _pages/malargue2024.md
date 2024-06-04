@@ -35,8 +35,8 @@ redirect_from:
   - **CAUTION** Prices are increasing
 
 ### Transportation:
-- **Rent Car in Mendoza**: Vincenzo?
-- **Money Exchange in Mendoza**: Vincenzo?  At least 1 kE
+- 🚗 **Rent Car in Mendoza**: Vincenzo?
+- 💵 **Money Exchange in Mendoza**: Vincenzo?  At least 1 kE
 
 ### Fees:
 - **Auger CM Fee**:
@@ -49,7 +49,7 @@ redirect_from:
 - **IMPORTANT** Explore the possibility of reducing the number of days to cut the budget.
 
 ### Passport:
-- Check passport validity
+- 🛂 Check passport validity
 - **CAUTION** must be valid for more than 6 months after November 22
 
 ### Medical Insurance:
