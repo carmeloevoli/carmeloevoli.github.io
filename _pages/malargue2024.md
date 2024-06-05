@@ -15,8 +15,7 @@ redirect_from:
 - **November 18 (Monday) to 21 (Thursday)**: [UHECR2024 conference](https://indico.ahuekna.org.ar/event/768/)
 
 ### Abstract Submission:
-- Not open yet!
-- Abstract submission: **August 16th**
+- Abstract submission deadline: **August 16th**
 - **IMPORTANT** LA scientific contributions to be discussed
 
 ### Accommodation:
