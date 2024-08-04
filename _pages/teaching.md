@@ -11,7 +11,7 @@ redirect_from:
 
 + **High-energy Astroparticle Physics - Theory**
 
-    Syllabus Academic Year 2023/2024 [[here]](/teaching/2023-hea)
+    Syllabus Academic Year 2023/2024 [[here]](/files/HEA2324_Syllabus.pdf)
 
     Suggested books:
     
