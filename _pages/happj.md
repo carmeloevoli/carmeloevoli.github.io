@@ -25,9 +25,14 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **Sep, 12** | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Awakening | |
-| Sep, 19 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | TBA | |
-|  | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | TBA | |
+| **Sep, 19** | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On statistical properties of TeV halo galactic population | |
+|  | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays | |
+| Oct, 10 | TBA | TBA | | 
+| Oct, 24 | TBA | TBA | | 
+| Oct, 31 | TBA | TBA | | 
+| Nov, 7 | TBA | TBA | | 
+| Nov, 28 | TBA | TBA | | 
+| Dec, 5 | TBA | TBA | | 
 
 + **Past Schedule of Speakers**
 
@@ -44,5 +49,6 @@ redirect_from:
 | May, 2 | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Progresses on my PhD project |  |
 | May, 9 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | UHECR Echoes from the Council of Giants | [arXiv](https://arxiv.org/abs/2302.06489) |
 | May, 16 | [Iurii](https://www.gssi.it/people/post-doc/post-doc-physics/item/25106-sushch-iurii) | Acceleration of cosmic rays in SuperNova Remnants | |
+| Sep, 12 | [Igor]() | Reconstructing Mass Composition with Template Approach and Dembinsky Likelihood | |
 
 
