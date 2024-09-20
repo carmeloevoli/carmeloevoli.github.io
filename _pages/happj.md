@@ -28,7 +28,7 @@ redirect_from:
 | **Sep, 19** | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On statistical properties of TeV halo galactic population | |
 |  | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays | |
 | Oct, 10 | TBA | TBA | | 
-| Oct, 24 | TBA | TBA | | 
+| Oct, 24 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | Energy dependence of the knee in the cosmic ray spectrum across the Milky Way | [arXiv](https://arxiv.org/abs/2407.11911) | 
 | Oct, 31 | TBA | TBA | | 
 | Nov, 7 | TBA | TBA | | 
 | Nov, 28 | TBA | TBA | | 
