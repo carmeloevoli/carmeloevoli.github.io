@@ -7,7 +7,7 @@ redirect_from:
   - /jc
 ---
 
-### Welcome to the High-energy AstroParticle Physics Journal Club (**HAPPJ**)!
+## Welcome to the High-energy AstroParticle Physics Journal Club (**HAPPJ**)!
 
 + Our *weekly* meetings serve as a platform for discussing the latest papers and findings in High-Energy Cosmic Rays, Gamma and Neutrino Astrophysics, but also to share exciting new results, puzzles about some difficulties you can't overcome, or simply your enthusiasm for a new field you found about.
 
@@ -21,20 +21,18 @@ redirect_from:
 
 + To participate and receive regular updates on dates and topics, please consider joining our [ML](https://lists.infn.it/sympa/subscribe/happj).
 
-+ **Current Schedule of Speakers**
+## **Current Schedule of Speakers**
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **Sep, 19** | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On statistical properties of TeV halo galactic population | |
-|  | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays | |
-| Oct, 10 | TBA | TBA | | 
+| **Oct, 10** | [Emanuele](https://www.gssi.it/people/professors/lectures-physics/item/25289-sobacchi-emanuele) | Résumé du MIAPP | [link](https://www.munich-iapbp.de/he-plasma-phenomena/schedule) | 
 | Oct, 24 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | Energy dependence of the knee in the cosmic ray spectrum across the Milky Way | [arXiv](https://arxiv.org/abs/2407.11911) | 
 | Oct, 31 | TBA | TBA | | 
 | Nov, 7 | TBA | TBA | | 
 | Nov, 28 | TBA | TBA | | 
 | Dec, 5 | TBA | TBA | | 
 
-+ **Past Schedule of Speakers**
+## **Past Schedule of Speakers**
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
@@ -49,6 +47,7 @@ redirect_from:
 | May, 2 | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Progresses on my PhD project |  |
 | May, 9 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | UHECR Echoes from the Council of Giants | [arXiv](https://arxiv.org/abs/2302.06489) |
 | May, 16 | [Iurii](https://www.gssi.it/people/post-doc/post-doc-physics/item/25106-sushch-iurii) | Acceleration of cosmic rays in SuperNova Remnants | |
-| Sep, 12 | [Igor]() | Reconstructing Mass Composition with Template Approach and Dembinsky Likelihood | |
-
+| Sep, 12 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Reconstructing Mass Composition with Template Approach and Dembinsky Likelihood | |
+| Sep, 19 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On statistical properties of TeV halo galactic population | |
+|  | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays | |
 
