@@ -25,10 +25,9 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **Oct, 10** | [Emanuele](https://www.gssi.it/people/professors/lectures-physics/item/25289-sobacchi-emanuele) | Résumé du MIAPP | [link](https://www.munich-iapbp.de/he-plasma-phenomena/schedule) | 
-| Oct, 24 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | Energy dependence of the knee in the cosmic ray spectrum across the Milky Way | [arXiv](https://arxiv.org/abs/2407.11911) | 
+| **Oct, 24** | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | Energy dependence of the knee in the cosmic ray spectrum across the Milky Way | [arXiv](https://arxiv.org/abs/2407.11911) | 
 | Oct, 31 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on metastable superheavy dark matter coupled to sterile neutrinos with the Pierre Auger Observatory | [arXiv](https://arxiv.org/abs/2311.14541) | 
-| Nov, 7 | TBA | TBA | | 
+| Nov, 7 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | TBA | | 
 | Nov, 28 | TBA | TBA | | 
 | Dec, 5 | TBA | TBA | | 
 
@@ -50,4 +49,6 @@ redirect_from:
 | Sep, 12 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Reconstructing Mass Composition with Template Approach and Dembinsky Likelihood | |
 | Sep, 19 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On statistical properties of TeV halo galactic population | |
 |  | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays | |
+| Oct, 10 | [Emanuele](https://www.gssi.it/people/professors/lectures-physics/item/25289-sobacchi-emanuele) | Résumé du MIAPP | [link](https://www.munich-iapbp.de/he-plasma-phenomena/schedule) | 
+
 
