@@ -25,16 +25,14 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **Oct, 31** | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on metastable superheavy dark matter coupled to sterile neutrinos with the Pierre Auger Observatory | [arXiv](https://arxiv.org/abs/2311.14541) | 
-| Nov, 7 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Resolution of (Heavy) Primaries in Ultra High Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2409.06841) | 
-| Nov, 28 | TBA | TBA | | 
+| **Nov, 7** | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Resolution of (Heavy) Primaries in Ultra High Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2409.06841) | 
+| Nov, 28 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Gimme a break! | | 
 | Dec, 5 | TBA | TBA | | 
 
 ## **Past Schedule of Speakers**
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| Oct, 24 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | Energy dependence of the knee in the cosmic ray spectrum across the Milky Way | [arXiv](https://arxiv.org/abs/2407.11911) | 
 | Feb, 16 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | A Peters cycle at the end of the cosmic ray spectrum? | [arXiv](https://arxiv.org/abs/2309.16518) |
 |         |         | Curious case of the maximum rigidity distribution of cosmic-ray accelerators | [arXiv](https://arxiv.org/abs/2207.10691) |
 | Feb, 29 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on the proton fraction of cosmic rays at the highest energies (...) | [arXiv](https://arxiv.org/abs/2304.07321) |
@@ -50,5 +48,7 @@ redirect_from:
 | Sep, 19 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | On statistical properties of TeV halo galactic population | |
 |  | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays | |
 | Oct, 10 | [Emanuele](https://www.gssi.it/people/professors/lectures-physics/item/25289-sobacchi-emanuele) | Résumé du MIAPP | [link](https://www.munich-iapbp.de/he-plasma-phenomena/schedule) | 
+| Oct, 24 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | Energy dependence of the knee in the cosmic ray spectrum across the Milky Way | [arXiv](https://arxiv.org/abs/2407.11911) | 
+| Oct, 31 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on metastable superheavy dark matter coupled to sterile neutrinos with the Pierre Auger Observatory | [arXiv](https://arxiv.org/abs/2311.14541) | 
 
 
