@@ -27,6 +27,7 @@ redirect_from:
 |---------|---------|------------|-------|
 | **Nov, 28** | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Gimme a break! | | 
 | Dec, 5 | [Benedikt](https://astrophysics.uchicago.edu/people/profile/benedikt-schroer/) | TBA | | 
+| Dec, 19 | TBA | TBA | | 
 
 ## **Past Schedule of Speakers**
 
