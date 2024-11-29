@@ -50,6 +50,6 @@ redirect_from:
 | Oct, 24 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | Energy dependence of the knee in the cosmic ray spectrum across the Milky Way | [arXiv](https://arxiv.org/abs/2407.11911) | 
 | Oct, 31 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on metastable superheavy dark matter coupled to sterile neutrinos with the Pierre Auger Observatory | [arXiv](https://arxiv.org/abs/2311.14541) | 
 | Nov, 7 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Resolution of (Heavy) Primaries in Ultra High Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2409.06841) [slides](https://carmeloevoli.github.io/files/Igor_happj_2024-11-07.pdf) | 
-| Nov, 28 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Gimme a break! | [slides] | 
+| Nov, 28 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Gimme a break! | [slides](https://carmeloevoli.github.io/files/CEvoli_UHECR2024.pdf) | 
 
 
