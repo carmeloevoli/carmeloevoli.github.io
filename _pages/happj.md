@@ -25,7 +25,8 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **Dec, 5** | [Benedikt](https://astrophysics.uchicago.edu/people/profile/benedikt-schroer/) | Microquasars as sources of PeV CRs | | 
+| **Dec, 5** | [Vittoria](https://www.ntnu.edu/employees/vittoria.vecchiotti) | Interpreting the LHAASO Galactic diffuse emission data | [arXiv](https://arxiv.org/abs/2411.11439) | 
+|  | [Benedikt](https://astrophysics.uchicago.edu/people/profile/benedikt-schroer/) | Microquasars as sources of PeV CRs | | 
 | Dec, 19 | [Antonio C.](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Hi! 👋 | | 
 
 ## **Past Schedule of Speakers**
