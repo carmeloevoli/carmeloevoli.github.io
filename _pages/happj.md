@@ -25,9 +25,7 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **Dec, 5** | [Vittoria](https://www.ntnu.edu/employees/vittoria.vecchiotti) | Interpreting the LHAASO Galactic diffuse emission data | [arXiv](https://arxiv.org/abs/2411.11439) | 
-|  | [Benedikt](https://astrophysics.uchicago.edu/people/profile/benedikt-schroer/) | Microquasars as sources of PeV CRs | | 
-| Dec, 19 | [Antonio C.](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Hi! 👋 | | 
+| **Dec, 19** | [Antonio C.](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Hi! 👋 | | 
 
 ## **Past Schedule of Speakers**
 
@@ -52,5 +50,6 @@ redirect_from:
 | Oct, 31 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on metastable superheavy dark matter coupled to sterile neutrinos with the Pierre Auger Observatory | [arXiv](https://arxiv.org/abs/2311.14541) | 
 | Nov, 7 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Resolution of (Heavy) Primaries in Ultra High Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2409.06841) [slides](https://carmeloevoli.github.io/files/Igor_happj_2024-11-07.pdf) | 
 | Nov, 28 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Gimme a break! | [slides](https://carmeloevoli.github.io/files/CEvoli_UHECR2024.pdf) | 
-
+| Dec, 5 | [Vittoria](https://www.ntnu.edu/employees/vittoria.vecchiotti) | Interpreting the LHAASO Galactic diffuse emission data | [arXiv](https://arxiv.org/abs/2411.11439) | 
+|  | [Benedikt](https://astrophysics.uchicago.edu/people/profile/benedikt-schroer/) | Microquasars as sources of PeV CRs | | 
 
