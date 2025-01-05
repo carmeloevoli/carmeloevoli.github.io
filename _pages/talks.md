@@ -32,12 +32,12 @@ author_profile: true
 
 ### 2024 ### 
 
-+ December 9-13, **Invited Talk** at [Cosmic Rays and Neutrinos in the Multi-Messenger Era](), Paris, France
-+ November 18-21, **Invited Talk** at [7th International Symposium on Ultra High Energy Cosmic Rays](), Malargüe, Argentina, 
-+ October 16-18, **Invited Talk** at [XSCRC 2024](), CERN, Swiss
-+ August 26-30, **Invited Talk** at [TeVPA 2024](), Chicago, US
-+ June 17-21, **Review Talk** at [13th CRIS-MAC 2024](), Trapani, Italy
-+ May 26 - June 1, **Review Talk** at [Vulcano Workshop 2024 - Frontier Objects in Astrophysics and Particle Physics](), Ischia, Italy
++ December 9-13, **Invited Talk** at [Cosmic Rays and Neutrinos in the Multi-Messenger Era](https://indico.in2p3.fr/event/32465/), Paris, France
++ November 18-21, **Invited Talk** at [7th International Symposium on Ultra High Energy Cosmic Rays](https://uhecr2024.ahuekna.org.ar), Malargüe, Argentina, 
++ October 16-18, **Invited Talk** at [XSCRC 2024](https://indico.cern.ch/event/1377509/), CERN, Swiss
++ August 26-30, **Invited Talk** at [TeVPA 2024](https://indico.uchicago.edu/event/427/), Chicago, US
++ June 17-21, **Review Talk** at [13th CRIS-MAC 2024](https://agenda.infn.it/event/36661/), Trapani, Italy
++ May 26 - June 1, **Review Talk** at [Vulcano Workshop 2024 - Frontier Objects in Astrophysics and Particle Physics](https://agenda.infn.it/event/39000/), Ischia, Italy
 
 ### 2023 ###
 
