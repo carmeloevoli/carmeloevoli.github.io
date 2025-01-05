@@ -28,7 +28,16 @@ author_profile: true
 + *14th ICATPP Conference*, Villa Olmo, Italy, September 23-27, 2013, **International Advisory Committee**
 + *CASPAR: Cosmic-rays Acceleration, Sources and Propagation, A Rendez-vous*, Hamburg, Germany, September 10-19, 2013, **Main Organizer and Member of the Scientific Committee** [[website]](https://indico.desy.de/event/7169/)
 
-## Select academic seminars and presentations ##
+## Selected academic seminars and presentations ##
+
+### 2024 ### 
+
++ December 9-13, **Invited Talk** at [Cosmic Rays and Neutrinos in the Multi-Messenger Era](), Paris, France
++ November 18-21, **Invited Talk** at [7th International Symposium on Ultra High Energy Cosmic Rays](), Malargüe, Argentina, 
++ October 16-18, **Invited Talk** at [XSCRC 2024](), CERN, Swiss
++ August 26-30, **Invited Talk** at [TeVPA 2024](), Chicago, US
++ June 17-21, **Review Talk** at [13th CRIS-MAC 2024](), Trapani, Italy
++ May 26 - June 1, **Review Talk** at [Vulcano Workshop 2024 - Frontier Objects in Astrophysics and Particle Physics](), Ischia, Italy
 
 ### 2023 ###
 
