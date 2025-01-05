@@ -8,15 +8,13 @@ author_profile: true
 + You can access all my presentation slides [[here]](https://zenodo.org/communities/carmeloevoli_talks/)
 
 ## Organization of Workshops and Conferences ##
-
-+ *iDM 2024*, L'Aquila, Italy, July 8-12, 2024, **Scientific Organizing Committee**
-    [[website]](https://www.idm2024.eu)
++ *Conference in memory of Veniamin Sergeyevich Berezinsky*, GSSI L’Aquila, Italy, October 1-3, 2024, **Main Organizer** [[website]]()
++ *iDM 2024*, L'Aquila, Italy, July 8-12, 2024, **Scientific Organizing Committee** [[website]](https://www.idm2024.eu)
 + *The New Era of Multi-Messenger Astroparticle Physics*, IFPU Trieste, Italy, February 19-23, 2024, **Scientific Organizing Committee**
     [[website]](https://indico.gssi.it/event/603/)
 + *TeV Particle Astrophysics 2023*, Napoli, Italy, September 11-15, 2023, **Local Organizing Committee** [[website]](https://agenda.infn.it/event/33457/)
 + *Cosmic Ray Anisotropy Workshop CRA2023*, Chicago, US, May 16-19, 2023, **International Scientific Organizing Committee** [[website]](https://events.icecube.wisc.edu/event/165/)
-+ *UHECR2022*, L'Aquila, Italy, October 3-7, 2002, **Local Organizing Committee**
-    [[website]](https://indico.gssi.it/event/396/)
++ *6th International Symposium on Ultra High Energy Cosmic Rays (UHECR2022)*, GSSI L'Aquila, Italy, October 3-7, 2002, **Local Organizing Committee** [[website]](https://indico.gssi.it/event/396/)
 + *Enrico Fermi International School of Physics - Course 208*, Varenna, Italy, June 23-29, 2022, **Main Organizer and Member of the Scientific Committee** [[website]](https://indico.gssi.it/event/339/)
 + *TeV Particle Astrophysics 2021*, remote, October 25-29, 2021, **Cosmic Rays Session Convener**
 + *Cosmic Ray Anisotropy Workshop CRA2019*, GSSI, L'Aquila, Italy, October 7-11, 2019, **Main Organizer and Member of the Scientific Committee** [[website]](https://indico.gssi.it/event/45/)
