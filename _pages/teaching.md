@@ -11,7 +11,7 @@ redirect_from:
 
 + **High-energy Astroparticle Physics - Theory**
 
-    Syllabus Academic Year 2023/2024 [[here]](/files/HEA2324_Syllabus.pdf)
+    Main page containing lecture notes, exercises, and syllabus can be found [[here]](https://carmeloevoli.github.io/heath-2324/)
 
     Suggested books:
     
