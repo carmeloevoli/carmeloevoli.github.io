@@ -11,7 +11,7 @@ redirect_from:
 
 + Our *weekly* meetings serve as a platform for discussing the latest papers and findings in High-Energy Cosmic Rays, Gamma and Neutrino Astrophysics, but also to share exciting new results, puzzles about some difficulties you can't overcome, or simply your enthusiasm for a new field you found about.
 
-+ *Time:* Every Thursday at 2:15 PM, Fontana Luminosa Local Time.
++ *Time:* Every Thursday at 2:15 PM, L'Aquila Local Time.
 
 + *Location:* [GSSI Red Building](https://maps.app.goo.gl/L4EbHgcBQQ88w7nx6) (the building formerly known as Ex-INPS), Floor -1. 
 
@@ -25,7 +25,13 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **Dec, 19** | [Antonio C.](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Hi! 👋 | | 
+| **Jan, 23** | TBA | TBA | |
+| Jan, 30 | TBA | TBA | |
+| Feb, 6 | TBA | TBA | |
+| Feb, 13 | TBA | TBA | |
+| Feb, 20 | TBA | TBA | |
+| Feb, 27 | TBA | TBA | |
+| Mar, 6 | TBA | TBA | |
 
 ## **Past Schedule of Speakers**
 
