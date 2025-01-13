@@ -25,7 +25,7 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **Jan, 23** | TBA | TBA | |
+| **Jan, 23** | [Tony](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Hi! 👋 Who am I? | |
 | Jan, 30 | TBA | TBA | |
 | Feb, 6 | TBA | TBA | |
 | Feb, 13 | TBA | TBA | |
