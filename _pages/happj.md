@@ -29,7 +29,7 @@ redirect_from:
 | Jan, 30 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | TBA | |
 | Feb, 6 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | A Unified Model of Cosmic Ray Propagation and Radio Extreme Scattering Events from Intermittent Interstellar Structures | [arXiv](https://arxiv.org/abs/2412.03649) |
 | Feb, 13 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | TBA | |
-| Feb, 20 | TBA | TBA | |
+| Feb, 20 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | TBA | |
 | Feb, 27 | TBA | TBA | |
 | Mar, 6 | TBA | TBA | |
 
