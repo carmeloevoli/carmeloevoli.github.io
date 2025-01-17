@@ -28,7 +28,7 @@ redirect_from:
 | **Jan, 23** | [Tony](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Hi! 👋 Who am I? | |
 | Jan, 30 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | TBA | |
 | Feb, 6 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | TBA | |
-| Feb, 13 | TBA | TBA | |
+| Feb, 13 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | TBA | |
 | Feb, 20 | TBA | TBA | |
 | Feb, 27 | TBA | TBA | |
 | Mar, 6 | TBA | TBA | |
