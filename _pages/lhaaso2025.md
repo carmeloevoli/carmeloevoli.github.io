@@ -28,11 +28,11 @@ redirect_from:
 
 ### Tentative Flights:
 - **Departure**:
-  - 🛫 Friday, Nov 8: 18:15 FCO -> Saturday, Nov 9: 09:15 MDZ
+  - 🛫 Thu, Mar 20: 20:00 FCO -> Fri, Mar 21: 17:50 HKG (Swiss)
 - **Return**:
-  - 🛬 Friday, Nov 22: 18:35 MDZ -> Saturday, Nov 23: 16:00 FCO
+  - 🛬 Wed, Mar 26: 23:30 HKG -> Thu, Mar 27: 08:50 FCO (Swiss)
 - **Estimated Total Cost**: 
-  - 1100 Euros / person (To be confirmed)
+  - 1150 Euros / person (Premium Economy)
   - **CAUTION** Prices are increasing
 
 ### Medical Insurance:
