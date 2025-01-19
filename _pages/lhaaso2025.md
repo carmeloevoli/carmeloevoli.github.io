@@ -35,13 +35,5 @@ redirect_from:
   - 1100 Euros / person (To be confirmed)
   - **CAUTION** Prices are increasing
 
-### Transportation:
-- 🚗 **Rent Car in Mendoza**: Vincenzo?
-- 💵 **Money Exchange in Mendoza**: Vincenzo?  At least 1 kE
-
-### Daily Allowance:
-- INFN per diem is 120 Euros / day.
-- **IMPORTANT** Explore the possibility of reducing the number of days to cut the budget.
-
 ### Medical Insurance:
 - To be arranged.
