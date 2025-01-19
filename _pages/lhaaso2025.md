@@ -1,31 +1,28 @@
 ---
 layout: archive
-title: "Auger CM + UHECR2024 🇦🇷"
-permalink: /malargue2024/
+title: "The 2nd LHAASO Symposium 🇭🇰"
+permalink: /lhaaso2025/
 author_profile: false
 redirect_from:
-  - /malargue2024
+  - /lhaaso2025
 ---
 
 ---
 
 ### Important Dates:
-- **November 10 (Sunday) to 15 (Friday)**: [Auger CM]()
-- **November 16 (Saturday)**: Ceremony of signing the extension of Auger data taking time
-- **November 18 (Monday) to 21 (Thursday)**: [UHECR2024 conference](https://indico.ahuekna.org.ar/event/768/)
+- **March 21st (Friday) to 24th (Monday)**: [Main Conference](https://indico.ihep.ac.cn/event/23146/)
+- **March 20th**: On-site registration
+- **March 25th**: Discussion
 
-### Abstract Submission:
-- Abstract submission deadline: **August 16th**
-- **IMPORTANT** LA scientific contributions to be discussed
+### VISA:
+- *Ho bisogno di visto per recarmi ad Hong Kong, Macao o in Cina continentale?*: [No! 👎](https://conshongkong.esteri.it/it/news/dal_consolato/domande-frequenti/)
+- 🛂 Check passport validity: **CAUTION** must be valid for more than 6 months after March 25th
+
+### Registration and fee payment
+- **Feb 2nd** Deadline for [registration](https://indico.ihep.ac.cn/event/23146/registrations/)
+- Fee payment, including lunches (about 190 Euros) [here](https://indico.ihep.ac.cn/event/23146/page/1898-registration-fee-payment)
 
 ### Accommodation:
-- Reserved at [Amalar Cabañas](https://www.amalar.com.ar/) from November 9 to 22.
-  - Cabana 1: Carmelo and Roberto
-  - Cabana 2: Alessandro and Antonio
-  - Cabana 3: Luciana and ...
-
-- **Estimated Total Cost**: 
-  - 50 Euros x 3 x 13 nights = 1950 Euros (**To be confirmed**)
 
 ### Tentative Flights:
 - **Departure**:
@@ -40,24 +37,9 @@ redirect_from:
 - 🚗 **Rent Car in Mendoza**: Vincenzo?
 - 💵 **Money Exchange in Mendoza**: Vincenzo?  At least 1 kE
 
-### Fees:
-- **Auger CM Fee**:
-  - About 100 Euros / person (**To be confirmed**)
-- **UHECR Conference Fee**:
-  - Early bird registration fee (300 EUR): **September 30th**
-  - To be covered by GSSI funds?
-
 ### Daily Allowance:
 - INFN per diem is 120 Euros / day.
 - **IMPORTANT** Explore the possibility of reducing the number of days to cut the budget.
 
-### Passport:
-- 🛂 Check passport validity
-- **CAUTION** must be valid for more than 6 months after November 22
-
 ### Medical Insurance:
 - To be arranged.
-
-### Music:
-- Download "Perfect Days" soundtrack.
-
