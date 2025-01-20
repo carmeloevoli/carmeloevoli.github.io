@@ -26,9 +26,9 @@ redirect_from:
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
 | **Jan, 23** | [Tony](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Hi! 👋 Who am I? | |
-| Jan, 30 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | TBA | |
+| Jan, 30 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Inference of the Mass Composition of Cosmic Rays with energies from $10^{18.5}$ to $10^{20}$ eV using the PAO and Deep Learning | [arXiv](https://arxiv.org/abs/2406.06315) |
 | Feb, 6 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | A Unified Model of Cosmic Ray Propagation and Radio Extreme Scattering Events from Intermittent Interstellar Structures | [arXiv](https://arxiv.org/abs/2412.03649) |
-| Feb, 13 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | TBA | |
+| Feb, 13 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | Nuclear and electromagnetic cascades induced by UHECRs in radio galaxies: implications for Centaurus A | [arXiv](https://arxiv.org/abs/2302.14048) |
 | Feb, 20 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | TBA | |
 | Feb, 27 | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | TBA | |
 | Mar, 6 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | TBA | |
