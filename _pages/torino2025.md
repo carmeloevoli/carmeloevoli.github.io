@@ -22,9 +22,9 @@ redirect_from:
   
 ### Tentative Flights (full attendace):
 - **Departure**:
-  - 🛫 Mon, Feb 3: 09:15 FCO -> 10:30 TRN (ITA)
+  - 🛫 Mon, Feb 3: 09:15 FCO -> 10:30 TRN ([ITA](https://www.ita-airways.com/it_it))
 - **Return**:
-  - 🛬 Wed, Feb 5: 15:15 TRN -> 16:30 FCO (ITA)
+  - 🛬 Wed, Feb 5: 15:15 TRN -> 16:30 FCO ([ITA](https://www.ita-airways.com/it_it))
 - **Transfer** from/to L'Aquila by car(s) 🚗
 - **Estimated Total Cost**: 
   - < 200 Euros / person (Economy)
