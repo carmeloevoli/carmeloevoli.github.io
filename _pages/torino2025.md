@@ -25,6 +25,7 @@ redirect_from:
   - 🛫 Mon, Feb 3: 09:15 FCO -> 10:30 TRN (ITA)
 - **Return**:
   - 🛬 Wed, Feb 5: 15:15 TRN -> 16:30 FCO (ITA)
+- **Transfer** from/to L'Aquila by car(s) 🚗
 - **Estimated Total Cost**: 
   - < 200 Euros / person (Economy)
   - **CAUTION** Prices are increasing
