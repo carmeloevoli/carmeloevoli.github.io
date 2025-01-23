@@ -6,7 +6,6 @@ author_profile: false
 redirect_from:
   - /torino2025
 ---
-
 ---
 
 ### Important Dates:
@@ -29,3 +28,6 @@ redirect_from:
 - **Estimated Total Cost**: 
   - < 200 Euros / person (Economy)
   - **CAUTION** Prices are increasing
+ 
+### Mission reimbursement:
+- INFN missioni: more instructions later.  
