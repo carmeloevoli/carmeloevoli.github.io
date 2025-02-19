@@ -25,8 +25,7 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **Feb, 13** | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | Nuclear and electromagnetic cascades induced by UHECRs in radio galaxies: implications for Centaurus A | [arXiv](https://arxiv.org/abs/2302.14048) |
-| Feb, 20 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | On the potential cosmogenic origin of the ultra-high-energy event KM3-230213A | [arXiv](https://arxiv.org/abs/2502.08508) |
+| **Feb, 21** | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | On the potential cosmogenic origin of the ultra-high-energy event KM3-230213A | [arXiv](https://arxiv.org/abs/2502.08508) |
 | Feb, 27 | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | TBA | |
 | Mar, 6 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | TBA | |
 | Mar, 27 | [Emanuele](https://www.gssi.it/people/professors/lectures-physics/item/25289-sobacchi-emanuele) | TBA | |
@@ -59,4 +58,5 @@ redirect_from:
 |  | [Benedikt](https://astrophysics.uchicago.edu/people/profile/benedikt-schroer/) | Microquasars as sources of PeV CRs | | 
 | Jan, 23 | [Tony](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Hi! 👋 Who am I? | |
 | Feb, 6 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | A Unified Model of Cosmic Ray Propagation and Radio Extreme Scattering Events from Intermittent Interstellar Structures | [arXiv](https://arxiv.org/abs/2412.03649) |
+| Feb, 13 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | Nuclear and electromagnetic cascades induced by UHECRs in radio galaxies: implications for Centaurus A | [arXiv](https://arxiv.org/abs/2302.14048) |
 
