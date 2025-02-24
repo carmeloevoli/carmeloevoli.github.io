@@ -25,10 +25,9 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| **Feb, 21** | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | On the potential cosmogenic origin of the ultra-high-energy event KM3-230213A | [arXiv](https://arxiv.org/abs/2502.08508) |
-| Feb, 27 | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | KM3-230213A: An Ultra-High Energy Neutrino from a Year-Long Astrophysical Transient | [arXiv](https://arxiv.org/abs/2502.12986) |
+| **Feb, 27** | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | KM3-230213A: An Ultra-High Energy Neutrino from a Year-Long Astrophysical Transient | [arXiv](https://arxiv.org/abs/2502.12986) |
 | | | The blazar PKS 0605-085 as the origin of the KM3-230213A ultra high energy neutrino event | [arXiv](https://arxiv.org/abs/2502.11434) |
-| Mar, 6 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | TBA | |
+| Mar, 6 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | Neutrinos from stochastic acceleration in black hole environments | [arXiv](https://arxiv.org/abs/2412.01457) |
 | Mar, 27 | [Emanuele](https://www.gssi.it/people/professors/lectures-physics/item/25289-sobacchi-emanuele) | TBA | |
 | Apr, 3 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Inference of the Mass Composition of Cosmic Rays with energies from $10^{18.5}$ to $10^{20}$ eV using the PAO and Deep Learning | [arXiv](https://arxiv.org/abs/2406.06315) |
 
@@ -60,4 +59,5 @@ redirect_from:
 | Jan, 23 | [Tony](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Hi! 👋 Who am I? | |
 | Feb, 6 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | A Unified Model of Cosmic Ray Propagation and Radio Extreme Scattering Events from Intermittent Interstellar Structures | [arXiv](https://arxiv.org/abs/2412.03649) |
 | Feb, 13 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | Nuclear and electromagnetic cascades induced by UHECRs in radio galaxies: implications for Centaurus A | [arXiv](https://arxiv.org/abs/2302.14048) |
+| Feb, 21 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | On the potential cosmogenic origin of the ultra-high-energy event KM3-230213A | [arXiv](https://arxiv.org/abs/2502.08508) |
 
