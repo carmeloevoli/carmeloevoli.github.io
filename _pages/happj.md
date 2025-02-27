@@ -37,7 +37,7 @@ redirect_from:
 |---------|---------|------------|-------|
 | Feb, 16 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | A Peters cycle at the end of the cosmic ray spectrum? | [arXiv](https://arxiv.org/abs/2309.16518) |
 |         |         | Curious case of the maximum rigidity distribution of cosmic-ray accelerators | [arXiv](https://arxiv.org/abs/2207.10691) |
-| Feb, 29 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on the proton fraction of cosmic rays at the highest energies (...) | [arXiv](https://arxiv.org/abs/2304.07321) |
+| Feb, 29 | [Antonio I](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on the proton fraction of cosmic rays at the highest energies (...) | [arXiv](https://arxiv.org/abs/2304.07321) |
 | | | Floor of cosmogenic neutrino fluxes above  1017  eV | [arXiv](https://arxiv.org/abs/2402.04759) |
 | Mar, 7 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | An extremely energetic cosmic ray observed by a surface detector array | [arXiv](https://arxiv.org/abs/2311.14231) |
 |         |         | Where Did the Amaterasu Particle Come From? | [arXiv](https://arxiv.org/abs/2312.13273) |
@@ -51,13 +51,13 @@ redirect_from:
 |  | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays | |
 | Oct, 10 | [Emanuele](https://www.gssi.it/people/professors/lectures-physics/item/25289-sobacchi-emanuele) | Résumé du MIAPP | [link](https://www.munich-iapbp.de/he-plasma-phenomena/schedule) | 
 | Oct, 24 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | Energy dependence of the knee in the cosmic ray spectrum across the Milky Way | [arXiv](https://arxiv.org/abs/2407.11911) | 
-| Oct, 31 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on metastable superheavy dark matter coupled to sterile neutrinos with the Pierre Auger Observatory | [arXiv](https://arxiv.org/abs/2311.14541) | 
+| Oct, 31 | [Antonio I](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on metastable superheavy dark matter coupled to sterile neutrinos with the Pierre Auger Observatory | [arXiv](https://arxiv.org/abs/2311.14541) | 
 | Nov, 7 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Resolution of (Heavy) Primaries in Ultra High Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2409.06841) [slides](https://carmeloevoli.github.io/files/Igor_happj_2024-11-07.pdf) | 
 | Nov, 28 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Gimme a break! | [slides](https://carmeloevoli.github.io/files/CEvoli_UHECR2024.pdf) | 
 | Dec, 5 | [Vittoria](https://www.ntnu.edu/employees/vittoria.vecchiotti) | Interpreting the LHAASO Galactic diffuse emission data | [arXiv](https://arxiv.org/abs/2411.11439) | 
 |  | [Benedikt](https://astrophysics.uchicago.edu/people/profile/benedikt-schroer/) | Microquasars as sources of PeV CRs | | 
-| Jan, 23 | [Tony](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Hi! 👋 Who am I? | |
+| Jan, 23 | [Antonio II](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Hi! 👋 Who am I? | |
 | Feb, 6 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | A Unified Model of Cosmic Ray Propagation and Radio Extreme Scattering Events from Intermittent Interstellar Structures | [arXiv](https://arxiv.org/abs/2412.03649) |
 | Feb, 13 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | Nuclear and electromagnetic cascades induced by UHECRs in radio galaxies: implications for Centaurus A | [arXiv](https://arxiv.org/abs/2302.14048) |
-| Feb, 21 | [Antonio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | On the potential cosmogenic origin of the ultra-high-energy event KM3-230213A | [arXiv](https://arxiv.org/abs/2502.08508) |
+| Feb, 21 | [Antonio I](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | On the potential cosmogenic origin of the ultra-high-energy event KM3-230213A | [arXiv](https://arxiv.org/abs/2502.08508) |
 
