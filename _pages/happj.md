@@ -25,7 +25,8 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| May, 8 | TBA | TBA | |
+| May, 15 | [Antonio II](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Cosmic ray transport and acceleration with magnetic mirroring | [arXiv](https://arxiv.org/abs/2504.06140) |
+| May, 29 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | A Hierarchical Shock Model of Ultra-High-Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2503.10795) |
 
 ## **Past Schedule of Speakers**
 
