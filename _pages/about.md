@@ -21,9 +21,9 @@ e-mail <carmelo.evoli@gssi.it>
 
 ### Short bio ###
 
-I began my studies in Physics at the University of Pisa in Italy, culminating in a PhD in Astrophysics from the International School of Advanced Studies in Trieste. As a postdoctoral researcher, I worked at the National Astronomical Observatory of China (NAOC) in Beijing and Hamburg University in Germany. In 2018, I was awarded a Marie Sklodowska-Curie Fellowship for my work on Galactic Cosmic Rays. Since 2019, I've been a part of the Gran Sasso Science Institute faculty, where I currently hold the position of associate professor.
+I began my academic journey at the University of Pisa, where I earned a Master’s degree in Physics, before moving to Trieste to pursue a PhD in Astrophysics at the International School of Advanced Studies (SISSA). After completing my doctorate, I held postdoctoral positions at the National Astronomical Observatory of China (NAOC) in Beijing and at Hamburg University in Germany. In 2018, I was awarded a Marie Sklodowska-Curie Fellowship to continue my research on Galactic Cosmic Rays. Since 2019, I have been a member of the faculty at the Gran Sasso Science Institute, where I currently serve as associate professor. 
 
-Since 2022, I am a member of the [Pierre Auger Observatory](https://www.auger.org) Collaboration.
+In 2022, I joined the [Pierre Auger Observatory](www.auger.org) Collaboration.
 
 ### My worldline ###
 
