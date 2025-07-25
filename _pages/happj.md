@@ -13,7 +13,7 @@ redirect_from:
 
 + *Time:* Every Thursday at 2:15 PM, L'Aquila Local Time.
 
-+ *Location:* [GSSI Red Building](https://maps.app.goo.gl/L4EbHgcBQQ88w7nx6) (the building formerly known as Ex-INPS), Floor -1. 
++ *Location:* [GSSI Red Building](https://maps.app.goo.gl/L4EbHgcBQQ88w7nx6) (the building formerly known as Ex-INPS), Room P2.6. 
 
 + We keep track of papers to discuss on the HAPPJ [ADS library](https://ui.adsabs.harvard.edu/public-libraries/_UjJX4qdQaupa0qbeq2SOg).
 
@@ -25,8 +25,6 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| May, 15 | [Antonio II](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Cosmic ray transport and acceleration with magnetic mirroring | [arXiv](https://arxiv.org/abs/2504.06140) |
-| May, 29 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | A Hierarchical Shock Model of Ultra-High-Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2503.10795) |
 
 ## **Past Schedule of Speakers**
 
@@ -62,5 +60,7 @@ redirect_from:
 | Mar, 6 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | The cosmic-ray sea explains the diffuse Galactic gamma-ray and neutrino emission from GeV to PeV | [arXiv](https://arxiv.org/abs/2502.18268) |
 | Mar, 27 | [Emanuele](https://www.gssi.it/people/professors/lectures-physics/item/25289-sobacchi-emanuele) | TBA | |
 | Apr, 3 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | WiP: On the cosmogenic interpreation of KM3Net event | |
+| May, 15 | [Antonio II](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Cosmic ray transport and acceleration with magnetic mirroring | [arXiv](https://arxiv.org/abs/2504.06140) |
+| May, 29 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | A Hierarchical Shock Model of Ultra-High-Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2503.10795) |
 
 
