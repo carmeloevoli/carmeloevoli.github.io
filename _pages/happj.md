@@ -25,6 +25,16 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
+| Sep, 25 | [Samy]() | Characterizing the ultra-high-energy diffuse emission of our Galaxy | |
+| Oct, 2  | [Kotha]() | High-Energy Multimesssenger Emission from Supermassive Black Holes | |
+| Oct, 16 | TBA | TBA | |
+| Oct, 23 | TBA | TBA | |
+| Oct, 30 | TBA | TBA | |
+| Nov, 13 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | TBA | |
+| Nov, 27 | TBA | TBA | |
+| Dec, 4  | TBA | TBA | |
+| Dec, 11 | TBA | TBA | |
+| Dec, 18 | TBA | TBA | |
 
 ## **Past Schedule of Speakers**
 
