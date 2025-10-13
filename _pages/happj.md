@@ -25,8 +25,7 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| Oct, 2  | [Kotha]() | High-Energy Multimesssenger Emission from Supermassive Black Holes | |
-| Oct, 16 | TBA | TBA | |
+| Oct, 16 | **all** | Roundtable discussion on *UHECRs: what's next?* | |
 | Oct, 23 | TBA | TBA | |
 | Oct, 30 | TBA | TBA | |
 | Nov, 13 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | TBA | |
@@ -71,4 +70,4 @@ redirect_from:
 | Apr, 3 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | WiP: On the cosmogenic interpreation of KM3Net event | |
 | May, 15 | [Antonio II](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Cosmic ray transport and acceleration with magnetic mirroring | [arXiv](https://arxiv.org/abs/2504.06140) |
 | May, 29 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | A Hierarchical Shock Model of Ultra-High-Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2503.10795) |
-| Sep, 25 | [Samy]() | Characterizing the ultra-high-energy diffuse emission of our Galaxy | |
+| Sep, 25 | [Samy](https://inspirehep.net/authors/2682013) | Characterizing the ultra-high-energy diffuse emission of our Galaxy | [arXiv](https://arxiv.org/abs/2406.11015) |
