@@ -25,7 +25,7 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| Oct, 16 | **all** | Roundtable discussion on *UHECRs: what's next?* | |
+| Oct, 16 | [Denise](https://www.dsfc.univaq.it/it/?option=com_sppagebuilder&view=page&id=361) | Making Science with the Pierre Auger Observatory | |
 | Oct, 23 | TBA | TBA | |
 | Oct, 30 | TBA | TBA | |
 | Nov, 13 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | TBA | |
