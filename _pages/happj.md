@@ -25,7 +25,13 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| Jan, 15 | [Antonio]() | | |
+| Jan, 22 | [Antonio I](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | TBA | |
+| Jan, 29 | [Fabio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25773-convenga-fabio) | TBA | |
+| Feb,  5 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | TBA | |
+| Feb, 12 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | TBA | |
+| Feb, 19 | 🤔 | | |
+| Feb, 26 | 🤔 | | |
+| Mar,  5 | 🤔 | | |
 
 ## **Past Schedule of Speakers**
 
