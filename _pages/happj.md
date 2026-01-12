@@ -25,16 +25,17 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| Oct, 16 | [Denise](https://www.dsfc.univaq.it/it/?option=com_sppagebuilder&view=page&id=361) | Making Science with the Pierre Auger Observatory | |
-| Oct, 23 | TBA | TBA | |
-| Oct, 30 | TBA | TBA | |
-| Nov, 13 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | TBA | |
-| Nov, 27 | TBA | TBA | |
-| Dec, 4  | TBA | TBA | |
-| Dec, 11 | TBA | TBA | |
-| Dec, 18 | TBA | TBA | |
+| Jan, 15 | [Antonio]() | | |
 
 ## **Past Schedule of Speakers**
+
+### 2026
+
+| Date    | Speaker | Title      | Link  |
+|---------|---------|------------|-------|
+| Jan, 8  | [Damiano]() | Non-thermal messengers probing acceleration mechanisms in AGN coronae | [arXviv](https://arxiv.org/abs/2310.18254) |
+ 
+### 2025
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
@@ -71,3 +72,4 @@ redirect_from:
 | May, 15 | [Antonio II](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Cosmic ray transport and acceleration with magnetic mirroring | [arXiv](https://arxiv.org/abs/2504.06140) |
 | May, 29 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | A Hierarchical Shock Model of Ultra-High-Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2503.10795) |
 | Sep, 25 | [Samy](https://inspirehep.net/authors/2682013) | Characterizing the ultra-high-energy diffuse emission of our Galaxy | [arXiv](https://arxiv.org/abs/2406.11015) |
+| Oct, 16 | [Denise](https://www.dsfc.univaq.it/it/?option=com_sppagebuilder&view=page&id=361) | Making Science with the Pierre Auger Observatory | |
