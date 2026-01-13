@@ -32,6 +32,12 @@ redirect_from:
 | Feb, 19 | 🤔 | | |
 | Feb, 26 | 🤔 | | |
 | Mar,  5 | 🤔 | | |
+| Mar, 12 | 🤔 | | |
+| Apr,  2 | 🤔 | | |
+| Apr,  9 | 🤔 | | |
+| Apr, 16 | 🤔 | | |
+| Apr, 23 | 🤔 | | |
+| Apr, 30 | 🤔 | | |
 
 ## **Past Schedule of Speakers**
 
