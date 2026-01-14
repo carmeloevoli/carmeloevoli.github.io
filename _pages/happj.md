@@ -29,7 +29,7 @@ redirect_from:
 | Feb, 12 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | 🎸 | |
 | Feb, 19 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | Bell Instability and Cosmic-Ray Acceleration in AGN Ultrafast Outflow Shocks | [arXiv](https://arxiv.org/abs/2510.13946) |
 | Feb, 26 | [Costanza](https://www.gssi.it/people/students/students-physics/item/25501-marinelli-costanza) | 👩‍🚀 | |
-| Mar,  5 | 🤔 | | |
+| Mar,  5 | [Caterina]() | 🎷| |
 | Mar, 12 | 🤔 | | |
 | Apr,  2 | 🤔 | | |
 | Apr,  9 | 🤔 | | |
