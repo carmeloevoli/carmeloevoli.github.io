@@ -42,7 +42,7 @@ redirect_from:
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
 | Jan, 8  | [Damiano]() | Non-thermal messengers probing acceleration mechanisms in AGN coronae | [arXiv](https://arxiv.org/abs/2310.18254) |
-| Jan, 22 | [Antonio I](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Primordial black holes: new insights and constraints | |
+| Jan, 22 | [Antonio I](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Primordial black holes: new insights and constraints | [slides](https://carmeloevoli.github.io/files/Antonio_I_happj_2026-01-22.pdf) |
 
 ### 2025
 
