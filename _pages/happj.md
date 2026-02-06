@@ -23,7 +23,6 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| Feb,  5 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Introduction to Geometric Algebra and its Applications to Physics | |
 | Feb, 19 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | Bell Instability and Cosmic-Ray Acceleration in AGN Ultrafast Outflow Shocks | [arXiv](https://arxiv.org/abs/2510.13946) |
 | Feb, 26 | TBA | | 
 | Mar,  5 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | 🎸 | |
@@ -43,6 +42,7 @@ redirect_from:
 | Jan, 8  | [Damiano]() | Non-thermal messengers probing acceleration mechanisms in AGN coronae | [arXiv](https://arxiv.org/abs/2310.18254) |
 | Jan, 22 | [Antonio I](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Primordial black holes: new insights and constraints | [slides](https://carmeloevoli.github.io/files/Antonio_I_happj_2026-01-22.pdf) |
 | Jan, 29 | [Fabio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25773-convenga-fabio) | The Energy Spectrum of UHECRs across Declinations −90° to +44.8° as measured at the Pierre Auger Observatory | [arXiv](https://arxiv.org/abs/2506.11688) |
+| Feb,  5 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Introduction to Geometric Algebra and its Applications to Physics |  [slides](https://carmeloevoli.github.io/files/Igor_happj_2026-02-05.pdf)|
 
 ### 2025
 
