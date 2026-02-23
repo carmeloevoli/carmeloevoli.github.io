@@ -23,13 +23,12 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| Feb, 19 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | Bell Instability and Cosmic-Ray Acceleration in AGN Ultrafast Outflow Shocks | [arXiv](https://arxiv.org/abs/2510.13946) |
-| Feb, 26 | TBA | | 
-| Mar,  5 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | 🎸 | |
-| Mar, 12 | [Costanza](https://www.gssi.it/people/students/students-physics/item/25501-marinelli-costanza) | 👩‍🚀 | |
-| Apr,  2 | [Caterina]() | 🎷| |
-| Apr,  9 | [Antonio II](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | 🪩 | |
-| Apr, 16 | 🤔 | | |
+| Feb, 27 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | The source of the cosmic-ray excess in the Centaurus region | [arXiv](https://arxiv.org/abs/2509.06594) |
+| Mar,  5 | TBA | | 
+| Mar, 12 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | 🎸 | |
+| Apr,  2 | [Costanza](https://www.gssi.it/people/students/students-physics/item/25501-marinelli-costanza) | 👩‍🚀 | |
+| Apr,  9 | [Caterina]() | 🎷| |
+| Apr, 16 | [Antonio II](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | 🪩 | |
 | Apr, 23 | 🤔 | | |
 | Apr, 30 | 🤔 | | |
 
