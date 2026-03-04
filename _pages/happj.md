@@ -23,12 +23,6 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| Feb, 27 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | The source of the cosmic-ray excess in the Centaurus region | [arXiv](https://arxiv.org/abs/2509.06594) |
-| Mar,  5 | TBA | | 
-| Mar, 12 | [Lioni-Moana](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana) | 🎸 | |
-| Apr,  2 | [Costanza](https://www.gssi.it/people/students/students-physics/item/25501-marinelli-costanza) | 👩‍🚀 | |
-| Apr,  9 | [Caterina]() | 🎷| |
-| Apr, 16 | [Antonio II](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | 🪩 | |
 | Apr, 23 | 🤔 | | |
 | Apr, 30 | 🤔 | | |
 
@@ -42,6 +36,8 @@ redirect_from:
 | Jan, 22 | [Antonio I](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Primordial black holes: new insights and constraints | [slides](https://carmeloevoli.github.io/files/Antonio_I_happj_2026-01-22.pdf) |
 | Jan, 29 | [Fabio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25773-convenga-fabio) | The Energy Spectrum of UHECRs across Declinations −90° to +44.8° as measured at the Pierre Auger Observatory | [arXiv](https://arxiv.org/abs/2506.11688) |
 | Feb,  5 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Introduction to Geometric Algebra and its Applications to Physics |  [slides](https://carmeloevoli.github.io/files/Igor_happj_2026-02-05.pdf)|
+| Feb, 27 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | The source of the cosmic-ray excess in the Centaurus region | [arXiv](https://arxiv.org/abs/2509.06594) |
+| Mar, 3 | [Allegra](https://amslaurea.unibo.it/id/eprint/36837/) | Propagation of UHECRs in Cosmic Magnetic Fields | |
 
 ### 2025
 
