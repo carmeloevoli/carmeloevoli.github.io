@@ -23,7 +23,7 @@ redirect_from:
 | | Aug 31-Sep 4 | Heidelberg 🇩🇪 | 9th Gamma Symposium | Apr 15 | [link](https://plan.events.mpg.de/event/543/overview) | |
 |✅| Sep 7-11 | Trieste 🇮🇹 | The Multimessenger Sky at Extreme Energies | - | [link](https://indico.sissa.it/event/180/overview) | Invitation only |
 | | Sep 7-11 | Roma 🇮🇹 | RICAP-2026 | Aug 2 | [link](https://agenda.infn.it/event/49172/) | |
-| | 🤔 | Taipei 🇹🇼 | UHECR 2026 | 🤔 | 🤔 | |  
+|🟠| 🤔 | Taipei 🇹🇼 | UHECR 2026 | 🤔 | 🤔 | |  
 
 
 ### 2025
