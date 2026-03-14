@@ -11,8 +11,8 @@ redirect_from:
 
 ### 2026
 
-Going | Dates    | Place | Title   | Abstract Deadline | Link  | Note |
-|-----|----------|-------|---------|-------------------|-------|------|
+| Going | Dates    | Place | Title   | Abstract Deadline | Link  | Note |
+|-------|----------|-------|---------|-------------------|-------|------|
 | ✅ | Mar 2-13 | Firenze 🇮🇹 | GGI PhD School on Theoretical Aspects of Astroparticle Physics | Dec 20 | [link](https://agenda.infn.it/event/48713/) | - | 
 
 ### 2025
