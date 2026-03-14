@@ -13,7 +13,7 @@ redirect_from:
 
 | Going | Dates    | Place | Title   | Abstract Deadline | Link  | Note |
 |-------|----------|-------|---------|-------------------|-------|------|
-| ✅ | Mar 2-13 | Firenze 🇮🇹 | GGI PhD School on Theoretical Aspects of Astroparticle Physics | Dec 20 | [link](https://agenda.infn.it/event/48713/) | - | 
+| ✅ | Mar 2-13 | Firenze 🇮🇹 | GGI PhD School on Theoretical Aspects of Astroparticle Physics | ~~Dec 20~~ | [link](https://agenda.infn.it/event/48713/) | - | 
 | | Mar 15-22 | La Thuile 🇮🇹 | Rencontres de Moriond session VHEPU | ~~Jan 18~~ | [link](https://moriond.in2p3.fr/2026/VHEPU/) | |
 |✅| May 24-30 | Ischia 🇮🇹 | XX Vulcano Workshop | - | [link](https://agenda.infn.it/event/49673/) | Invitation only |
 | | Jun 29-Jul 3 | Santiago de Compostela 🇪🇸 | 29th European Cosmic Ray Symposium | 🤔 | [link](https://indico.cern.ch/event/1536846/) | | 
