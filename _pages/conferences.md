@@ -2,7 +2,7 @@
 layout: archive
 title: "Conference List"
 permalink: /conferences/
-author_profile: false
+author_profile: true
 redirect_from:
   - /conferences.html
 ---
@@ -13,6 +13,7 @@ redirect_from:
 
 Going | Dates    | Place | Title   | Abstract Deadline | Link  | Note |
 |-----|----------|-------|---------|-------------------|-------|------|
+|✅| Mar 2-13 | Firenze 🇮🇹 | GGI PhD School on Theoretical Aspects of Astroparticle Physics | Dec 20 | [link](https://agenda.infn.it/event/48713/) | | 
 | | Mar 15-22 | La Thuile | VHEPU | - | [link](https://moriond.in2p3.fr/2026/VHEPU/) | Invitation only |
 |✅| Jul 13–17 | Sorrento | 14th CRIS-MAC 2026 | Mar 14 | [link](https://agenda.infn.it/event/47822/) | Convener MM Astroparticle |
 |✅| May 24–30 | Sorrento | Vulcano Workshop 2026 | - | [link](https://agenda.infn.it/event/49673/) | Invitation only |
