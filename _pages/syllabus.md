@@ -9,9 +9,9 @@ author_profile: true
 
 ### Course Synopsis
 
-This pillar course offers an introduction to the theory of high-energy astroparticle physics, with a focus on cosmic-ray phenomenology and the physical processes that govern particle transport, acceleration, and radiation. Students will study the propagation of charged particles in turbulent magnetic fields, developing the formalism from first principles and showing how diffusion emerges naturally as an effective transport regime. Building on this framework, the course derives the advection–diffusion equation and applies it to key problems in Galactic cosmic-ray physics, including confinement and large-scale propagation, as well as particle acceleration at collisionless shock fronts.
+This course introduces the theoretical foundations of high-energy astroparticle physics, with a primary focus on cosmic rays and the physical mechanisms that regulate their transport, acceleration, and radiative output. Starting from the motion of charged particles in turbulent magnetic fields, students will develop the transport formalism from first principles and understand how diffusive propagation arises in astrophysical environments. The course then applies this framework to major problems in Galactic cosmic-ray physics, including confinement, large-scale transport, and particle acceleration at collisionless shocks.
 
-A part of the course is devoted to the radiative signatures of high-energy particles in Galactic and extragalactic environments. Students will acquire the theoretical tools to model leptonic emission processes—such as synchrotron radiation and inverse Compton scattering—and hadronic channels, including photo-pion production and spallation, with connections to multi-messenger observables.
+The course also examines the radiative signatures of high-energy particles in both Galactic and extragalactic settings. Students will learn how to describe the main leptonic processes, including synchrotron and inverse Compton emission, together with hadronic interactions such as pion production and spallation, and to relate these mechanisms to gamma-ray and neutrino observations within the broader multi-messenger picture.
 
 ### Course Syllabus
 
