@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Syllabus"
+permalink: /syllabus/
+author_profile: true
+---
+
 ## High-Energy Astroparticle Physics - Theory (2025/2026)
 
 ### Course Synopsis
