@@ -11,8 +11,10 @@ redirect_from:
 
 + **High-energy Astroparticle Physics - Theory**
 
-    Main page containing lecture notes, exercises, and syllabus can be found [[here]](https://carmeloevoli.github.io/heath-2324/)
-
+    Main page containing lecture notes can be found [[here]](https://carmeloevoli.github.io/heath-2324/)
+    
+    Detailed syllabus can be found [[here]](syllabus.md)
+  
     Suggested books:
     
     + *Radiative processes in astrophysics*, G.B. Rybicki and A.P. Lightman, Wiley, 1979 
