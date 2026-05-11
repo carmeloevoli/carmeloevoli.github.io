@@ -33,7 +33,7 @@ redirect_from:
 | Feb,  5 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Introduction to Geometric Algebra and its Applications to Physics |  [slides](https://carmeloevoli.github.io/files/Igor_happj_2026-02-05.pdf)|
 | Feb, 27 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | The source of the cosmic-ray excess in the Centaurus region | [arXiv](https://arxiv.org/abs/2509.06594) |
 | Mar, 3 | [Allegra](https://amslaurea.unibo.it/id/eprint/36837/) | Propagation of UHECRs in Cosmic Magnetic Fields | |
-| Mar, 11 | [Philipp]() | Project Brainstorming | |
+| May, 6 | [Alena](https://www.fzu.cz/en/people/ing-alena-bakalova-phd/news) | From Composition to Deflections: UHECRs in the Galactic Magnetic Field | [slides](https://carmeloevoli.github.io/Bakalova_060526.pdf) |
 
 ### 2025
 
