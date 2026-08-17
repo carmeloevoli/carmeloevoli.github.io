@@ -13,7 +13,7 @@ redirect_from:
 
     Main page containing lecture notes can be found [[here]](https://carmeloevoli.github.io/heath-2324/)
     
-    Detailed syllabus can be found [[here]](syllabus.md)
+    Detailed syllabus can be found [[here]](/syllabus/)
   
     Suggested books:
     

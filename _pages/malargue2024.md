@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 ### Important Dates:
-- **November 10 (Sunday) to 15 (Friday)**: [Auger CM]()
+- **November 10 (Sunday) to 15 (Friday)**: Auger CM
 - **November 16 (Saturday)**: Ceremony of signing the extension of Auger data taking time
 - **November 18 (Monday) to 21 (Thursday)**: [UHECR2024 conference](https://indico.ahuekna.org.ar/event/768/)
 

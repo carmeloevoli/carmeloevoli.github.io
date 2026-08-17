@@ -8,7 +8,7 @@ author_profile: true
 + You can access all my presentation slides [[here]](https://zenodo.org/communities/carmeloevoli_talks/)
 
 ## Organization of Workshops and Conferences ##
-+ *Conference in memory of Veniamin Sergeyevich Berezinsky*, GSSI L’Aquila, Italy, October 1-3, 2024, **Main Organizer** [[website]]()
++ *Conference in memory of Veniamin Sergeyevich Berezinsky*, GSSI L’Aquila, Italy, October 1-3, 2024, **Main Organizer**
 + *iDM 2024*, L'Aquila, Italy, July 8-12, 2024, **Scientific Organizing Committee** [[website]](https://www.idm2024.eu)
 + *The New Era of Multi-Messenger Astroparticle Physics*, IFPU Trieste, Italy, February 19-23, 2024, **Scientific Organizing Committee**
     [[website]](https://indico.gssi.it/event/603/)
