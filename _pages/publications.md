@@ -7,15 +7,18 @@ author_profile: true
 
 ### Up-to-date lists ###
 
+My own work — papers with ten or fewer authors:
 [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22evoli%2C%20c%22%20author_count%3A%5B1%20TO%2010%5D&sort=date%20desc%2C%20bibcode%20desc) ·
-[INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=100&q=a%20Carmelo.Evoli.1%20and%20ac%201-%3E10&doc_type=published) ·
-[CV (PDF)](/files/CEvoli_CV_Sep2026.pdf)
+[INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=100&q=a%20Carmelo.Evoli.1%20and%20ac%201-%3E10&doc_type=published)
 
-Both searches are restricted to papers with ten or fewer authors, so they exclude the large collaboration publications.
+Large collaboration papers (Pierre Auger, CTA) — more than 100 authors:
+[ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22evoli%2C%20c%22%20author_count%3A%5B100%20TO%20%2A%5D&sort=date%20desc%2C%20bibcode%20desc) ·
+[INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=100&q=a%20Carmelo.Evoli.1%20and%20ac%20100-%3E10000)
 
-<!-- TODO: refresh these numbers and the "as of" date (last updated January 2025) -->
-As of January 2025: 52 articles and letters in refereed journals since 2007, >3k citations
-(>1k normalised by author number), h-index 32 (source: ADS).
+Full CV: [PDF](/files/CEvoli_CV_Sep2026.pdf)
+
+As of September 2026: 61 articles and letters in refereed journals since 2007, >4.4k citations,
+h-index 36 (source: INSPIRE-HEP).
 
 The papers below are a selection, grouped by topic rather than by date. Everything else is on ADS.
 
