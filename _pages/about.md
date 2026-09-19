@@ -10,7 +10,7 @@ redirect_from:
 ### Contacts ###
 
 **Gran Sasso Science Institute**\
-Via Michele Iacobucci, 2\
+Viale Luigi Rendina, 26\
 67100 L'Aquila (Italy)\
 tel. +39 0862 4280 255\
 e-mail <carmelo.evoli@gssi.it>  

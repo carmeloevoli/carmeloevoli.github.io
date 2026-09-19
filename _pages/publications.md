@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Complete and up-to-date lists ###
+### Up-to-date lists ###
 
-[ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22evoli%2C%20c%22&sort=date%20desc%2C%20bibcode%20desc) ·
-[INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=100&page=1&q=a%20C.Evoli.1&doc_type=published) ·
+[ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22evoli%2C%20c%22%20author_count%3A%5B1%20TO%2010%5D&sort=date%20desc%2C%20bibcode%20desc) ·
+[INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=100&q=a%20Carmelo.Evoli.1%20and%20ac%201-%3E10&doc_type=published) ·
 [CV (PDF)](/files/CEvoli_CV_Sep2026.pdf)
+
+Both searches are restricted to papers with ten or fewer authors, so they exclude the large collaboration publications.
 
 <!-- TODO: refresh these numbers and the "as of" date (last updated January 2025) -->
 As of January 2025: 52 articles and letters in refereed journals since 2007, >3k citations
