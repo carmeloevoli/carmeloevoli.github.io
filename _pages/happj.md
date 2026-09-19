@@ -23,15 +23,15 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| Oct, 1   | TBA | TBA | |
-| Oct, 8   | TBA | TBA | |
-| Oct, 15  | TBA | TBA | |
-| Oct, 22  | TBA | TBA | |
-| Oct, 29  | TBA | TBA | |
-| Nov, 5   | TBA | TBA | |
-| Nov, 12  | TBA | TBA | |
-| Nov, 26  | TBA | TBA | |
-| Dec, 3   | TBA | TBA | |
+| Oct, 1   | 🤔 | TBA | |
+| Oct, 8   | 🤔 | TBA | |
+| Oct, 15  | 🤔 | TBA | |
+| Oct, 22  | 🤔 | TBA | |
+| Oct, 29  | 🤔 | TBA | |
+| Nov, 5   | 🤔 | TBA | |
+| Nov, 12  | 🤔 | TBA | |
+| Nov, 26  | 🤔 | TBA | |
+| Dec, 3   | 🤔 | TBA | |
 
 ## **Past Schedule of Speakers**
 
@@ -85,7 +85,7 @@ redirect_from:
 | Feb, 27 | [Alessandro](https://www.gssi.it/people/students/students-physics/item/15640-cermenati-alessandro) | KM3-230213A: An Ultra-High Energy Neutrino from a Year-Long Astrophysical Transient | [arXiv](https://arxiv.org/abs/2502.12986) |
 | | | The blazar PKS 0605-085 as the origin of the KM3-230213A ultra high energy neutrino event | [arXiv](https://arxiv.org/abs/2502.11434) |
 | Mar, 6 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | The cosmic-ray sea explains the diffuse Galactic gamma-ray and neutrino emission from GeV to PeV | [arXiv](https://arxiv.org/abs/2502.18268) |
-| Mar, 27 | [Emanuele](https://www.gssi.it/people/professors/lectures-physics/item/25289-sobacchi-emanuele) | TBA | |
+| Mar, 27 | [Emanuele](https://www.gssi.it/people/professors/lectures-physics/item/25289-sobacchi-emanuele) | Hi! 👋 Who am I? | |
 | Apr, 3 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | WiP: On the cosmogenic interpreation of KM3Net event | |
 | May, 15 | [Antonio II](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Cosmic ray transport and acceleration with magnetic mirroring | [arXiv](https://arxiv.org/abs/2504.06140) |
 | May, 29 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | A Hierarchical Shock Model of Ultra-High-Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2503.10795) |
