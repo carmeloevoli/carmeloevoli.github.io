@@ -5,16 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
-+ You can access all my presentation slides [[here]](https://zenodo.org/communities/carmeloevoli_talks/)
-
 ## Organization of Workshops and Conferences ##
-+ *Conference in memory of Veniamin Sergeyevich Berezinsky*, GSSI L’Aquila, Italy, October 1-3, 2024, **Main Organizer**
++ *The Multimessenger Sky at Extreme Energies: From Sources to Fundamental Physics*, Trieste, Italy, September 7-11, 2026, **Main Organizer** [[website]](https://indico.sissa.it/event/180/)
++ *CRIS-MAC 2026*, Sorrento, Italy, July 12-17, 2026, **Multi-messenger Astroparticle Session Convener** [[website]](https://agenda.infn.it/event/47822/)
++ *ISAPP School on High-Energy Cosmic Rays as Messengers*, Università del Salento, Lecce, Italy, June 9-20, 2025, **Local Organizing Committee** [[website]](https://agenda.infn.it/event/44001/)
++ *Conference in memory of Veniamin Sergeyevich Berezinsky*, GSSI L’Aquila, Italy, October 1-3, 2024, **Main Organizer** [[website]](https://indico.gssi.it/event/632/)
 + *iDM 2024*, L'Aquila, Italy, July 8-12, 2024, **Scientific Organizing Committee** [[website]](https://www.idm2024.eu)
-+ *The New Era of Multi-Messenger Astroparticle Physics*, IFPU Trieste, Italy, February 19-23, 2024, **Scientific Organizing Committee**
-    [[website]](https://indico.gssi.it/event/603/)
++ *The New Era of Multi-Messenger Astroparticle Physics*, IFPU Trieste, Italy, February 19-23, 2024, **Main Organizer** [[website]](https://indico.gssi.it/event/603/)
 + *TeV Particle Astrophysics 2023*, Napoli, Italy, September 11-15, 2023, **Local Organizing Committee** [[website]](https://agenda.infn.it/event/33457/)
 + *Cosmic Ray Anisotropy Workshop CRA2023*, Chicago, US, May 16-19, 2023, **International Scientific Organizing Committee** [[website]](https://events.icecube.wisc.edu/event/165/)
-+ *6th International Symposium on Ultra High Energy Cosmic Rays (UHECR2022)*, GSSI L'Aquila, Italy, October 3-7, 2002, **Local Organizing Committee** [[website]](https://indico.gssi.it/event/396/)
++ *6th International Symposium on Ultra High Energy Cosmic Rays (UHECR2022)*, GSSI L'Aquila, Italy, October 3-7, 2022, **Local Organizing Committee** [[website]](https://indico.gssi.it/event/396/)
 + *Enrico Fermi International School of Physics - Course 208*, Varenna, Italy, June 23-29, 2022, **Main Organizer and Member of the Scientific Committee** [[website]](https://indico.gssi.it/event/339/)
 + *TeV Particle Astrophysics 2021*, remote, October 25-29, 2021, **Cosmic Rays Session Convener**
 + *Cosmic Ray Anisotropy Workshop CRA2019*, GSSI, L'Aquila, Italy, October 7-11, 2019, **Main Organizer and Member of the Scientific Committee** [[website]](https://indico.gssi.it/event/45/)
@@ -28,11 +28,23 @@ author_profile: true
 
 ## Selected academic seminars and presentations ##
 
+### 2026 ###
+
++ July 5-10, *Contributed talk* at [ISVHECRI 2026](https://agenda.infn.it/event/47390/), Lecce, Italy
+
+### 2025 ###
+
++ December 17-20, **Invited Talk** at [International Workshop on Cosmic Ray Direct Detection and Physics](https://indico.pmo.ac.cn/event/1026/overview), remote
++ November 3-7, *Contributed talk* at [TeVPA 2025](https://indico.ific.uv.es/event/7986/), Valencia, Spain
++ July 27, *Seminar* at NAOC, Beijing, China
++ July 14-24, **Rapporteur Talk** (Cosmic Ray Direct) at [ICRC 2025](https://indico.cern.ch/event/1258933/), Geneva, Switzerland
++ March 20-25, **Invited Talk** at [2nd LHAASO Symposium](https://indico.ihep.ac.cn/event/23146/), Hong Kong, China
+
 ### 2024 ### 
 
 + December 9-13, **Invited Talk** at [Cosmic Rays and Neutrinos in the Multi-Messenger Era](https://indico.in2p3.fr/event/32465/), Paris, France
 + November 18-21, **Invited Talk** at [7th International Symposium on Ultra High Energy Cosmic Rays](https://uhecr2024.ahuekna.org.ar), Malargüe, Argentina, 
-+ October 16-18, **Invited Talk** at [XSCRC 2024](https://indico.cern.ch/event/1377509/), CERN, Swiss
++ October 16-18, **Invited Talk** at [XSCRC 2024](https://indico.cern.ch/event/1377509/), CERN, Switzerland
 + August 26-30, **Invited Talk** at [TeVPA 2024](https://indico.uchicago.edu/event/427/), Chicago, US
 + June 17-21, **Review Talk** at [13th CRIS-MAC 2024](https://agenda.infn.it/event/36661/), Trapani, Italy
 + May 26 - June 1, **Review Talk** at [Vulcano Workshop 2024 - Frontier Objects in Astrophysics and Particle Physics](https://agenda.infn.it/event/39000/), Ischia, Italy
@@ -96,7 +108,7 @@ author_profile: true
 + December 15, *Seminar* at [Innsbruck University](https://www.uibk.ac.at/sp-physik/), Innsbruck, Austria
 + December 7-9, **Invited talk** at [Searching for the sources of Galactic cosmic rays](http://www.apc.univ-paris7.fr/~semikoz/CosmicRays2016/conference.html), Paris, France 
 + December 1-2, *Contributed talk* at 2nd Workshop on Anisotropic Cosmic Ray Diffusion, Montpellier, France
-+ September 26-28, *Contributed talk* at [CII Congresso Nazionale della Società Italiana di Fisica](https://www.sif.it/attivita/congresso/102), Padova, Italy
++ September 26-28, *Contributed talk* at [CII Congresso Nazionale della Società Italiana di Fisica](https://www.sif.it/attivita/congresso/102), Padova, Italy — **selected for the [Special Mention](https://www.sif.it/attivita/congresso/102/comunicazioni)**
 + September 19-23, *Contributed talk* at [Cosmic Ray Origin Beyond the Standard Models](http://www.crbtsm.eu), San Vito di Cadore, Italy [[slides]](http://mctp.mx/tibolla/Evoli_CRBTSM_2016.pdf)
 + September 12-16, *Contributed talk* at [TeVPA2016](https://indico.cern.ch/event/469963/), Geneva, Switzerland [[slides]](https://indico.cern.ch/event/469963/contributions/2293959/attachments/1337829/2013218/Evoli_TeVPA2016.pdf)
 + June 7, *Seminar* at [LUPM](https://www.lupm.in2p3.fr/en/homepage/), Montpellier, France

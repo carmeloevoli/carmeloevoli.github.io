@@ -13,7 +13,7 @@ redirect_from:
 
 + *Time:* Every Thursday at 2:15 PM, L'Aquila Local Time.
 
-+ *Location:* [GSSI Zenith Building](https://maps.app.goo.gl/L4EbHgcBQQ88w7nx6), Room P2.6. 
++ *Location:* [GSSI Zenith Building](https://maps.app.goo.gl/L4EbHgcBQQ88w7nx6), Seminar Room P-1. 
 
 + We are committed to keep our meetings lasting no more than *one hour*.
 
