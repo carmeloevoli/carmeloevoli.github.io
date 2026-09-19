@@ -45,17 +45,21 @@ co-supervised with Prof. Franco Vazza.
 + **Benedikt Schroer** — PhD in Astroparticle Physics, GSSI, XXXIV cycle (defended December 2022),
 co-advised with Prof. Pasquale Blasi. *Multiscale Cosmic-Ray Transport and Non-linear Feedback*
 [[defence]](https://www.gssi.it/seminars/seminars-and-events-2022/item/20925-astroparticle-physics-phd-thesis-defence).
-Currently a postdoctoral researcher at the University of Chicago.
+Currently at Potsdam University.
 
 ## Collaborators ##
 
-Recurring collaborators include Pasquale Blasi, Elena Amato, Roberto Aloisio and Giovanni Morlino
-(cosmic-ray transport and acceleration); Daniele Gaggero and Dario Grasso (numerical modelling and
-the DRAGON code); Andrea Ferrara (early Universe and the intergalactic medium); and Tim Linden,
-Andrea Vittino, Mattia Di Mauro, Piero Ullio and Andrej Dundović.
++ **Pasquale Blasi** — GSSI
++ **Roberto Aloisio** — GSSI
++ **Pierpaolo Savina** — GSSI
++ **Denise Boncioli** — University of L'Aquila
++ **Pierrick Martin** — IRAP
++ **Sarah Recchia** — INAF Arcetri Observatory and INP Kraków
++ **Benedikt Schroer** — Potsdam University
++ **Elena Amato** — INAF Arcetri Observatory
 
-<!-- TODO: add or remove names as appropriate — this list is drawn from recurring co-authorships
-     on the publications page, not from a definitive list. -->
+<!-- TODO: confirm Sarah Recchia's affiliation — her 2026 papers list both
+     INAF Arcetri Observatory and INP Kraków. -->
 
 ## Journal club ##
 
