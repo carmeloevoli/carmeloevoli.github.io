@@ -22,18 +22,19 @@ and the experimental collaborations I belong to.
 
 ### PhD students ###
 
-+ **Lioni-Moana Bourguinat** — XXXVIII cycle [[profile]](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana)
++ **Lioni-Moana Bourguinat** — XXXVIII cycle, co-supervised with Prof. Pierrick Martin and Prof. Sarah Recchia [[profile]](https://www.gssi.it/people/students/students-physics/item/19999-bourguinat-lioni-moana)
 + **Luciana Andrade Dourado** — XXXIX cycle [[profile]](https://www.gssi.it/people/students/students-physics/item/25547-andrade-dourado-luciana)
-+ **Luis Enrique Espinosa Castro** — XXXIX cycle [[profile]](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique)
++ **Luis Enrique Espinosa Castro** — XXXIX cycle, co-supervised with Prof. Pasquale Blasi and Prof. Giulia Pagliaroli [[profile]](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique)
 + **Igor Vaiman** — XXXIX cycle [[profile]](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor)
-+ **Costanza Marinelli** — XL cycle [[profile]](https://www.gssi.it/people/students/students-physics/item/25501-marinelli-costanza)
-+ **Allegra Cavicchi** — XLI cycle [[profile]](https://www.gssi.it/people/students/students-physics/item/25974-cavicchi-allegra)
++ **Costanza Marinelli** — XL cycle, co-supervised with Prof. Pierpaolo Savina [[profile]](https://www.gssi.it/people/students/students-physics/item/25501-marinelli-costanza)
++ **Allegra Cavicchi** — XLI cycle, co-supervised with Prof. Denise Boncioli and Prof. Pierpaolo Savina [[profile]](https://www.gssi.it/people/students/students-physics/item/25974-cavicchi-allegra)
 
 <!-- TODO (optional): add a short research topic after each name. -->
 
 ## Former students ##
 
-+ **Alessandro Cermenati** — PhD in Astroparticle Physics, GSSI, XXXVII cycle (defended June 2026).
++ **Alessandro Cermenati** — PhD in Astroparticle Physics, GSSI, XXXVII cycle (defended June 2026),
+co-supervised with Prof. Roberto Aloisio.
 *Self Confinement of Ultra-High Energy Cosmic Rays*
 [[defence]](https://www.gssi.it/seminars/seminars-and-events-2026/item/26247-astroparticle-physics-phd-thesis-defence)
 
@@ -43,9 +44,9 @@ co-supervised with Prof. Franco Vazza.
 [[thesis]](https://amslaurea.unibo.it/id/eprint/36837/)
 
 + **Benedikt Schroer** — PhD in Astroparticle Physics, GSSI, XXXIV cycle (defended December 2022),
-co-advised with Prof. Pasquale Blasi. *Multiscale Cosmic-Ray Transport and Non-linear Feedback*
+co-supervised with Prof. Pasquale Blasi. *Multiscale Cosmic-Ray Transport and Non-linear Feedback*
 [[defence]](https://www.gssi.it/seminars/seminars-and-events-2022/item/20925-astroparticle-physics-phd-thesis-defence).
-Currently at Potsdam University.
+Currently a postdoctoral researcher at Potsdam University.
 
 ## Collaborators ##
 
@@ -54,12 +55,9 @@ Currently at Potsdam University.
 + **Pierpaolo Savina** — GSSI
 + **Denise Boncioli** — University of L'Aquila
 + **Pierrick Martin** — IRAP
-+ **Sarah Recchia** — INAF Arcetri Observatory and INP Kraków
++ **Sarah Recchia** — INP Kraków
 + **Benedikt Schroer** — Potsdam University
 + **Elena Amato** — INAF Arcetri Observatory
-
-<!-- TODO: confirm Sarah Recchia's affiliation — her 2026 papers list both
-     INAF Arcetri Observatory and INP Kraków. -->
 
 ## Journal club ##
 
