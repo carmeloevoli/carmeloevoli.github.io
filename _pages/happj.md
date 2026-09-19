@@ -21,21 +21,34 @@ redirect_from:
 
 ## **Current Schedule of Speakers**
 
+| Date    | Speaker | Title      | Link  |
+|---------|---------|------------|-------|
+| Oct, 1   | TBA | TBA | |
+| Oct, 8   | TBA | TBA | |
+| Oct, 15  | TBA | TBA | |
+| Oct, 22  | TBA | TBA | |
+| Oct, 29  | TBA | TBA | |
+| Nov, 5   | TBA | TBA | |
+| Nov, 12  | TBA | TBA | |
+| Nov, 26  | TBA | TBA | |
+| Dec, 3   | TBA | TBA | |
+
 ## **Past Schedule of Speakers**
 
 ### 2026
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| Jan, 8  | Damiano | Non-thermal messengers probing acceleration mechanisms in AGN coronae | [arXiv](https://arxiv.org/abs/2310.18254) |
-| Jan, 22 | [Antonio I](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Primordial black holes: new insights and constraints | [slides](https://carmeloevoli.github.io/files/Antonio_I_happj_2026-01-22.pdf) |
+| Jan, 8  | [Damiano](https://www.gssi.it/people/professors/lectures-physics/item/26226-fiorillo-damiano) | Non-thermal messengers probing acceleration mechanisms in AGN coronae | [arXiv](https://arxiv.org/abs/2310.18254) |
+| Jan, 22 | [Antonio I](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Primordial black holes: new insights and constraints | [slides](/files/Antonio_I_happj_2026-01-22.pdf) |
 | Jan, 29 | [Fabio](https://www.gssi.it/people/post-doc/post-doc-physics/item/25773-convenga-fabio) | The Energy Spectrum of UHECRs across Declinations −90° to +44.8° as measured at the Pierre Auger Observatory | [arXiv](https://arxiv.org/abs/2506.11688) |
-| Feb,  5 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Introduction to Geometric Algebra and its Applications to Physics |  [slides](https://carmeloevoli.github.io/files/Igor_happj_2026-02-05.pdf)|
+| Feb,  5 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Introduction to Geometric Algebra and its Applications to Physics |  [slides](/files/Igor_happj_2026-02-05.pdf)|
 | Feb, 27 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | The source of the cosmic-ray excess in the Centaurus region | [arXiv](https://arxiv.org/abs/2509.06594) |
 | Mar, 3 | [Allegra](https://amslaurea.unibo.it/id/eprint/36837/) | Propagation of UHECRs in Cosmic Magnetic Fields | |
-| May, 6 | [Alena](https://www.fzu.cz/en/people/ing-alena-bakalova-phd/news) | From Composition to Deflections: UHECRs in the Galactic Magnetic Field | [slides](https://carmeloevoli.github.io/Bakalova_060526.pdf) |
+| May, 6 | [Alena](https://www.fzu.cz/en/people/ing-alena-bakalova-phd/news) | From Composition to Deflections: UHECRs in the Galactic Magnetic Field | [slides](/files/Bakalova_060526.pdf) |
+| Aug, 26 | Cainã | A holistic view of UHECR sources | [slides](/files/DeOliveira_2026-08-26.pdf) |
 
-### 2025
+### 2024
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
@@ -56,10 +69,15 @@ redirect_from:
 | Oct, 10 | [Emanuele](https://www.gssi.it/people/professors/lectures-physics/item/25289-sobacchi-emanuele) | Résumé du MIAPP | [link](https://www.munich-iapbp.de/he-plasma-phenomena/schedule) | 
 | Oct, 24 | [Luis-Enrique](https://www.gssi.it/people/students/students-physics/item/24612-espinosa-castro-luis-enrique) | Energy dependence of the knee in the cosmic ray spectrum across the Milky Way | [arXiv](https://arxiv.org/abs/2407.11911) | 
 | Oct, 31 | [Antonio I](https://www.gssi.it/people/post-doc/post-doc-physics/item/25150-ambrosone-antonio) | Constraints on metastable superheavy dark matter coupled to sterile neutrinos with the Pierre Auger Observatory | [arXiv](https://arxiv.org/abs/2311.14541) | 
-| Nov, 7 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Resolution of (Heavy) Primaries in Ultra High Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2409.06841) [slides](https://carmeloevoli.github.io/files/Igor_happj_2024-11-07.pdf) | 
-| Nov, 28 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Gimme a break! | [slides](https://carmeloevoli.github.io/files/CEvoli_UHECR2024.pdf) | 
+| Nov, 7 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | Resolution of (Heavy) Primaries in Ultra High Energy Cosmic Rays | [arXiv](https://arxiv.org/abs/2409.06841) [slides](/files/Igor_happj_2024-11-07.pdf) | 
+| Nov, 28 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Gimme a break! | [slides](/files/CEvoli_UHECR2024.pdf) | 
 | Dec, 5 | [Vittoria](https://www.ntnu.edu/employees/vittoria.vecchiotti) | Interpreting the LHAASO Galactic diffuse emission data | [arXiv](https://arxiv.org/abs/2411.11439) | 
 |  | [Benedikt](https://astrophysics.uchicago.edu/people/profile/benedikt-schroer/) | Microquasars as sources of PeV CRs | | 
+
+### 2025
+
+| Date    | Speaker | Title      | Link  |
+|---------|---------|------------|-------|
 | Jan, 23 | [Antonio II](https://www.gssi.it/people/post-doc/post-doc-physics/item/25583-capanema-antonio) | Hi! 👋 Who am I? | |
 | Feb, 6 | [Igor](https://www.gssi.it/people/students/students-physics/item/24616-vaiman-igor) | A Unified Model of Cosmic Ray Propagation and Radio Extreme Scattering Events from Intermittent Interstellar Structures | [arXiv](https://arxiv.org/abs/2412.03649) |
 | Feb, 13 | [Luciana](https://webapps.unitn.it/du/it/Persona/PER0270889) | Nuclear and electromagnetic cascades induced by UHECRs in radio galaxies: implications for Centaurus A | [arXiv](https://arxiv.org/abs/2302.14048) |
