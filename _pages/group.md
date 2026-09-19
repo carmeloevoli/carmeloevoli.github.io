@@ -41,23 +41,26 @@ co-supervised with Prof. Roberto Aloisio.
 + **Allegra Firinu** — MSc in Astrophysics and Cosmology, Università di Bologna (October 2025),
 co-supervised with Prof. Franco Vazza.
 *Propagation of Ultra High Energy Cosmic Rays in Cosmic Magnetic Fields*
-[[thesis]](https://amslaurea.unibo.it/id/eprint/36837/)
+[[thesis]](https://amslaurea.unibo.it/id/eprint/36837/).
+Currently a PhD student at the Observatoire de la Côte d'Azur.
 
 + **Benedikt Schroer** — PhD in Astroparticle Physics, GSSI, XXXIV cycle (defended December 2022),
 co-supervised with Prof. Pasquale Blasi. *Multiscale Cosmic-Ray Transport and Non-linear Feedback*
 [[defence]](https://www.gssi.it/seminars/seminars-and-events-2022/item/20925-astroparticle-physics-phd-thesis-defence).
 Currently a postdoctoral researcher at Potsdam University.
 
-## Collaborators ##
+## Current collaborators ##
 
-+ **Pasquale Blasi** — GSSI
 + **Roberto Aloisio** — GSSI
-+ **Pierpaolo Savina** — GSSI
++ **Elena Amato** — INAF Arcetri Observatory
++ **Pasquale Blasi** — GSSI
 + **Denise Boncioli** — University of L'Aquila
 + **Pierrick Martin** — IRAP
++ **Philipp Mertsch** — RWTH Aachen
++ **Sergio Petrera** — GSSI
 + **Sarah Recchia** — INP Kraków
++ **Pierpaolo Savina** — GSSI
 + **Benedikt Schroer** — Potsdam University
-+ **Elena Amato** — INAF Arcetri Observatory
 
 ## Journal club ##
 
