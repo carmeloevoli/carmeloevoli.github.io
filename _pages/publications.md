@@ -26,6 +26,16 @@ The papers below are a selection, grouped by topic rather than by date. Everythi
 
 <!-- TODO: one sentence on why this matters -->
 
++ **C. Evoli**,
+*A Population View of the Cosmic-Ray Knee: The Role of Variance in Supernova Maximum Rigidities*,
+Physics and the Cosmos **1**, 8 (2026)
+[[arXiv]](https://arxiv.org/abs/2608.15892) [[doi]](https://doi.org/10.53941/pac.2026.100008)
+
++ B. Schroer, **C. Evoli** and P. Blasi,
+*Critical examination of the nested leaky box model for Galactic cosmic ray transport*,
+Physical Review D **111**, 123003 (2025)
+[[arXiv]](https://arxiv.org/abs/2502.15115) [[doi]](https://doi.org/10.1103/fns3-tx2j)
+
 + **C. Evoli**, P. Blasi, G. Morlino and R. Aloisio,
 *Origin of the Cosmic Ray Galactic Halo Driven by Advected Turbulence and Self-Generated Waves*,
 Physical Review Letters **121**, 021102 (2018)
@@ -44,6 +54,16 @@ Physical Review Letters **108**, 211102 (2012)
 ### Cosmic-ray electrons, positrons and TeV halos ###
 
 <!-- TODO: one sentence on why this matters -->
+
++ L.-M. Bourguinat, **C. Evoli**, P. Martin and S. Recchia,
+*The environment of TeV halo progenitors*,
+Astronomy & Astrophysics **706**, A140 (2026)
+[[arXiv]](https://arxiv.org/abs/2507.01495) [[doi]](https://doi.org/10.1051/0004-6361/202556284)
+
++ **C. Evoli**,
+*Deciphering the Electron Spectral Hardening in AMS-02*,
+Astronomy **4**, 4 (2025)
+[[arXiv]](https://arxiv.org/abs/2502.19244) [[doi]](https://doi.org/10.3390/astronomy4010004)
 
 + **C. Evoli**, E. Amato, P. Blasi and R. Aloisio,
 *Galactic factories of cosmic-ray electrons and positrons*,
@@ -74,9 +94,33 @@ Physical Review D **101**, 023013 (2020)
 Physical Review D **103**, 123010 (2021)
 [[arXiv]](https://arxiv.org/abs/2102.12576) [[doi]](https://doi.org/10.1103/PhysRevD.103.123010)
 
+### Ultra-high-energy cosmic rays: composition and propagation ###
+
+<!-- TODO: one sentence on why this matters -->
+
++ **C. Evoli**, I. Vaiman, S. Petrera and F. Salamida,
+*Updated air-shower X<sub>max</sub> moment parametrizations for UHECR composition with latest hadronic interaction models*,
+Astroparticle Physics **179**, 103239 (2026)
+[[arXiv]](https://arxiv.org/abs/2602.18118) [[doi]](https://doi.org/10.1016/j.astropartphys.2026.103239)
+
++ A. Cermenati, R. Aloisio, P. Blasi and **C. Evoli**,
+*Excitation of the nonresonant streaming instability around sources of ultrahigh-energy cosmic rays*,
+Astronomy & Astrophysics **707**, A19 (2026)
+[[arXiv]](https://arxiv.org/abs/2506.20646) [[doi]](https://doi.org/10.1051/0004-6361/202556040)
+
 ### Galactic diffuse gamma rays and neutrinos ###
 
 <!-- TODO: one sentence on why this matters -->
+
++ A. Ambrosone, **C. Evoli**, B. Schroer and P. Blasi,
+*The origin of very high-energy diffuse &gamma;-ray emission: the case for galactic source cocoons*,
+Astronomy & Astrophysics **698**, L18 (2025)
+[[arXiv]](https://arxiv.org/abs/2503.14651) [[doi]](https://doi.org/10.1051/0004-6361/202554796)
+
++ L. E. Espinosa Castro, F. L. Villante, V. Vecchiotti, **C. Evoli** and G. Pagliaroli,
+*LHAASO protons versus LHAASO diffuse gamma-rays: a consistency check*,
+Monthly Notices of the Royal Astronomical Society: Letters **543**, L20 (2025)
+[[arXiv]](https://arxiv.org/abs/2506.06593) [[doi]](https://doi.org/10.1093/mnrasl/slaf085)
 
 + P. De La Torre Luque, D. Gaggero, D. Grasso, O. Fornieri, K. Egberts, C. Steppa and **C. Evoli**,
 *Galactic diffuse gamma rays meet the PeV frontier*,
@@ -91,6 +135,16 @@ Journal of Cosmology and Astroparticle Physics **10**, 019 (2017)
 ### Dark matter, axions and the early Universe ###
 
 <!-- TODO: one sentence on why this matters -->
+
++ A. Ambrosone, M. Chianese and **C. Evoli**,
+*Exploring memory-burdened primordial black holes with ultrahigh-energy cosmic rays*,
+Physical Review D **114**, 043034 (2026)
+[[arXiv]](https://arxiv.org/abs/2603.15827) [[doi]](https://doi.org/10.1103/m5z4-1ln1)
+
++ R. Aloisio, A. Ambrosone and **C. Evoli**,
+*Constraining superheavy dark matter with the KM3-230213A neutrino event*,
+Physical Review D **113**, 043024 (2026)
+[[arXiv]](https://arxiv.org/abs/2508.08779) [[doi]](https://doi.org/10.1103/rc2p-53yg)
 
 + A. Payez, **C. Evoli**, T. Fischer, M. Giannotti, A. Mirizzi and A. Ringwald,
 *Revisiting the SN1987A limit on light axion-like particles*,
