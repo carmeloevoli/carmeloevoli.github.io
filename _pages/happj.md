@@ -23,7 +23,7 @@ redirect_from:
 
 | Date    | Speaker | Title      | Link  |
 |---------|---------|------------|-------|
-| Oct, 1   | 🤔 | TBA | |
+| Oct, 1 | [Carmelo](https://www.gssi.it/people/professors/lectures-physics/item/1013-evoli-carmelo) | Cosmic Rays from Super-Novae, Baade and Zwicky, PNAS 20, 259 | [slides](/files/BaadeZwicky1934.pdf) |
 | Oct, 8   | 🤔 | TBA | |
 | Oct, 15  | 🤔 | TBA | |
 | Oct, 22  | 🤔 | TBA | |
