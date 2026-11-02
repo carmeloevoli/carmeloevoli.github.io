@@ -58,9 +58,28 @@ Lectures: 15 2-hour lectures
 - **Lecture 10**.
 - **Lecture 11**.
 - **Lecture 12**.
-- **Lecture 13**.
-- **Lecture 14**.
-- **Lecture 15**.
+- **Lecture 13**. Supernova Remnants and Diffusive Shock Acceleration
+    - Dynamical evolution of supernova remnants
+    - Free-expansion phase
+    - Sedov-Taylor phase
+    - Diffusive shock acceleration as first-order Fermi acceleration 
+- **Lecture 14**. Diffusive Shock Acceleration: Transport Viewpoint
+    - Transport-equation formulation of diffusive shock acceleration
+    - Spectral predictions and physical interpretation
+- **Lecture 15**. Diffusive Shock Acceleration: Observational Tests
+    - X-ray filaments as observational tests of particle acceleration in supernova remnants
+    
+
+
+Lecture 12. General Principles of Particle Acceleration
+Basic requirements for astrophysical particle acceleration
+The Hillas criterion and candidate Galactic accelerators
+Overview of stochastic acceleration mechanisms
+Second-order Fermi acceleration
+Lecture 13. Shock Waves in Astrophysics
+Formation and propagation of shock waves
+Interstellar shock waves
+Rankine-Hugoniot jump conditions
 
 
 
