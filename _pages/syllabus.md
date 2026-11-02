@@ -39,3 +39,14 @@ Lectures: 15 2-hour lectures
     - Diffuse Galactic gamma-ray emission: observational overview and theoretical interpretation
     - Multi-messenger relations among cosmic rays, gamma rays, and neutrinos
     - The Waxman-Bahcall bound and its physical meaning
+- **Lecture 5**.
+- **Lecture 6**.
+- **Lecture 7**.
+- **Lecture 8**.
+- **Lecture 9**.
+- **Lecture 10**.
+- **Lecture 11**.
+- **Lecture 12**.
+- **Lecture 13**.
+- **Lecture 14**.
+- **Lecture 15**.
