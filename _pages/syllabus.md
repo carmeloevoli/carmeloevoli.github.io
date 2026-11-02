@@ -41,13 +41,6 @@ Lectures: 15 2-hour lectures
     - Diffuse Galactic gamma-ray emission: observational overview and theoretical interpretation
     - Multi-messenger relations among cosmic rays, gamma rays, and neutrinos
     - The Waxman-Bahcall bound and its physical meaning
-- **Lecture 5**. Magnetohydrodynamic Foundations
-    - Fundamentals of ideal magnetohydrodynamics
-    - Flux freezing and magnetic field advection
-    - Magnetohydrodynamic waves and their physical properties
-- **Lecture 6**. 
-- **Lecture 7**.
-- **Lecture 8**.
 - **Lecture 9**. Cosmic Ray Transport I: Primaries and Grammage
     - The diffusion equation: solutions and limitations in cosmic ray propagation
     - Transport equation for primary nuclei: formulation and analytical solutions
@@ -56,6 +49,21 @@ Lectures: 15 2-hour lectures
     - Transport equation for secondary nuclei
     - Secondary-to-primary ratios as probes of cosmic ray transport
     - Unstable secondary nuclei and their observational relevance
+- **Lecture 5**. Magnetohydrodynamic Foundations
+    - Fundamentals of ideal magnetohydrodynamics
+    - Flux freezing and magnetic field advection
+    - Magnetohydrodynamic waves and their physical properties
+- **Lecture 6**. Cosmic Ray Scattering in Turbulent Magnetic Fields
+    - Charged particle transport in turbulent magnetic fields: quasi-linear theory
+    - Resonant scattering and wave-particle interactions
+    - Pitch-angle diffusion coefficient
+- **Lecture 7**. From Pitch-Angle Scattering to Spatial Diffusion
+    - Implications for the Galactic mean free path
+    - The supernova remnant paradigm for Galactic cosmic rays
+    - The Kolmogorov spectrum of magnetic turbulence and its consequences for transport
+- **Lecture 8**. Transport Theory
+    - Derivation of the transport equation from the Fokker-Planck formalism
+    - The diffusion-advection equation
 - **Lecture 11**. General Principles of Particle Acceleration
     - Basic requirements for astrophysical particle acceleration
     - The Hillas criterion and candidate Galactic accelerators
