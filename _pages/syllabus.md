@@ -56,8 +56,15 @@ Lectures: 15 2-hour lectures
     - Unstable secondary nuclei and their observational relevance
 - **Lecture 9**.
 - **Lecture 10**.
-- **Lecture 11**.
-- **Lecture 12**.
+- **Lecture 11**. General Principles of Particle Acceleration
+    - Basic requirements for astrophysical particle acceleration
+    - The Hillas criterion and candidate Galactic accelerators
+    - Overview of stochastic acceleration mechanisms
+    - Second-order Fermi acceleration
+- **Lecture 12**. Shock Waves in Astrophysics
+    - Formation and propagation of shock waves
+    - Interstellar shock waves
+    - Rankine-Hugoniot jump conditions
 - **Lecture 13**. Supernova Remnants and Diffusive Shock Acceleration
     - Dynamical evolution of supernova remnants
     - Free-expansion phase
@@ -71,15 +78,8 @@ Lectures: 15 2-hour lectures
     
 
 
-Lecture 12. General Principles of Particle Acceleration
-Basic requirements for astrophysical particle acceleration
-The Hillas criterion and candidate Galactic accelerators
-Overview of stochastic acceleration mechanisms
-Second-order Fermi acceleration
-Lecture 13. Shock Waves in Astrophysics
-Formation and propagation of shock waves
-Interstellar shock waves
-Rankine-Hugoniot jump conditions
+
+
 
 
 
