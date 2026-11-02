@@ -5,90 +5,103 @@ permalink: /syllabus/
 author_profile: true
 ---
 
-## High-Energy Astroparticle Physics - Theory (2026/2027)
+## High-Energy Astroparticle Physics – Theory (2026/2027)
 
-### Course Synopsis
+### Synopsis
 
-This pillar course offers an introduction to the theory of high-energy astroparticle physics, with a focus on cosmic-ray phenomenology and the physical processes that govern particle transport, acceleration, and radiation. 
+High-energy astroparticle physics studies the most energetic particles in the Universe (cosmic rays, gamma rays and neutrinos) and the sources that produce them. This course develops the theory needed to interpret these observations. It follows one population of particles from the sources where they are accelerated, through the magnetized interstellar medium where they propagate, to the radiation they produce along the way.
 
-Students will study the propagation of charged particles in turbulent magnetic fields, developing the formalism from first principles and showing how diffusion emerges naturally as an effective transport regime. Building on this framework, the course derives the advection–diffusion equation and applies it to key problems in Galactic cosmic-ray physics, including confinement and large-scale propagation, as well as particle acceleration at collisionless shock fronts.
+The course has three parts:
 
-A part of the course is devoted to the radiative signatures of high-energy particles in Galactic and extragalactic environments. Students will acquire the theoretical tools to model leptonic emission processes—such as synchrotron radiation and inverse Compton scattering—and hadronic channels, including photo-pion production and spallation, with connections to multi-messenger observables.
+1. **Radiative processes** (lectures 1–4). How relativistic electrons and nuclei lose energy and radiate: synchrotron and inverse Compton emission, gamma-ray absorption, and hadronic interactions with gas and photons. These processes connect cosmic rays to the gamma rays and neutrinos we observe.
+2. **Cosmic-ray transport** (lectures 5–11). Why cosmic rays diffuse through the Galaxy. Starting from the basic properties of astrophysical plasmas, we derive the cosmic-ray transport equation and obtain the diffusion coefficient from the scattering of particles by magnetic turbulence. We then use them to interpret measurements of nuclei, electrons, positrons and antiprotons.
+3. **Particle acceleration** (lectures 12–15). How particles reach such high energies: the general requirements for acceleration, the physics of shock waves and supernova remnants, and diffusive shock acceleration with its observational tests.
 
-### Course Syllabus
+### Prerequisites
 
-Lectures: 15 2-hour lectures
+Classical electrodynamics, special relativity, statistical mechanics, and basic particle physics and astrophysics. No background in plasma physics is assumed: the plasma physics and magnetohydrodynamics needed in the course are introduced from scratch.
 
-- **Lecture 1**. Radiative Processes I
-    - Course structure, objectives, and practical information
-    - Kinetic equation for the evolution of relativistic electrons
-    - Radiative Processes I: Synchrotron Emission
-    - Synchrotron power and radiative loss timescales
-    - Characteristic and critical synchrotron frequencies
-    - Synchrotron emission from electron populations
-- **Lecture 2**. Radiative Processes II
-    - Fundamentals of Compton scattering
-    - Inverse Compton scattering and energy transfer by relativistic electrons
-    - Single-particle radiated power in inverse Compton scattering
-    - The Klein-Nishina regime: cross-section and physical implications
-    - Gamma-ray absorption via pair production: threshold energy and cross-section
-- **Lecture 3**. Hadronic Radiative Processes
-    - Interaction timescales for hadronic processes
-    - Pion production in proton-proton collisions
-    - Pion emissivity and derivation of the gamma-ray spectrum
-    - Neutral-pion decay and the origin of the pion bump
-- **Lecture 4**. Diffuse Emissions and Multi-Messenger Connections
-    - Diffuse Galactic gamma-ray emission: observational overview and theoretical interpretation
-    - Multi-messenger relations among cosmic rays, gamma rays, and neutrinos
-    - The Waxman-Bahcall bound and its physical meaning
-- **Lecture 9**. Cosmic Ray Transport I: Primaries and Grammage
-    - The diffusion equation: solutions and limitations in cosmic ray propagation
-    - Transport equation for primary nuclei: formulation and analytical solutions
-    - Cosmic ray composition and the role of grammage as a key observational diagnostic  
-- **Lecture 10**. Cosmic Ray Transport II: Secondaries
-    - Transport equation for secondary nuclei
-    - Secondary-to-primary ratios as probes of cosmic ray transport
-    - Unstable secondary nuclei and their observational relevance
-- **Lecture 5**. Magnetohydrodynamic Foundations
-    - Fundamentals of ideal magnetohydrodynamics
-    - Flux freezing and magnetic field advection
-    - Magnetohydrodynamic waves and their physical properties
-- **Lecture 6**. Cosmic Ray Scattering in Turbulent Magnetic Fields
-    - Charged particle transport in turbulent magnetic fields: quasi-linear theory
-    - Resonant scattering and wave-particle interactions
-    - Pitch-angle diffusion coefficient
-- **Lecture 7**. From Pitch-Angle Scattering to Spatial Diffusion
-    - Implications for the Galactic mean free path
-    - The supernova remnant paradigm for Galactic cosmic rays
-    - The Kolmogorov spectrum of magnetic turbulence and its consequences for transport
-- **Lecture 8**. Transport Theory
-    - Derivation of the transport equation from the Fokker-Planck formalism
-    - The diffusion-advection equation
-- **Lecture 11**. General Principles of Particle Acceleration
-    - Basic requirements for astrophysical particle acceleration
-    - The Hillas criterion and candidate Galactic accelerators
-    - Overview of stochastic acceleration mechanisms
+### Exam
+
+There are two lists of problems: one on radiative processes, one on transport and acceleration. Each student picks one problem from each list, solves both individually, and presents the solutions at the blackboard.
+
+### Lectures
+
+15 lectures of 2 hours.
+
+#### Part I – Radiative processes
+
+- **Lecture 1**. Introduction and synchrotron radiation
+    - Cosmic rays, gamma rays and neutrinos: the multi-messenger view; course organization
+    - Kinetic equation for particles with radiative losses
+    - Synchrotron radiation from a single particle and from a population of electrons
+    - Diffuse Galactic radio emission; the cooling break in the Crab Nebula
+- **Lecture 2**. Inverse Compton scattering and gamma-ray absorption
+    - Inverse Compton scattering in the Thomson and Klein–Nishina regimes
+    - Inverse Compton emission from an electron population; lepton cooling in the Milky Way
+    - Pair production, optical depth and the gamma-ray horizon
+    - Electromagnetic cascades on the cosmic microwave background and the extragalactic background light
+- **Lecture 3**. Hadronic interactions
+    - Proton–proton interactions and pion production
+    - The neutral-pion gamma-ray spectrum and the pion bump
+    - Nucleus–photon interactions: photopion production, Bethe–Heitler pair production, photodisintegration
+- **Lecture 4**. Diffuse gamma rays and neutrinos
+    - Diffuse Galactic gamma-ray emission
+    - Neutrinos from cosmic accelerators
+    - Multi-messenger relations among cosmic rays, gamma rays and neutrinos; the Waxman–Bahcall bound
+
+#### Part II – Cosmic-ray transport
+
+- **Lecture 5**. Plasma physics for cosmic rays
+    - Why cosmic-ray transport is a plasma problem
+    - Debye screening, plasma frequency and Coulomb collisions
+    - Magnetized plasmas and the phases of the interstellar medium
+    - Ideal magnetohydrodynamics: when a plasma behaves as a fluid; flux freezing; magnetic pressure and tension
+- **Lecture 6**. Magnetohydrodynamic waves and turbulence
+    - Alfvén waves: magnetic field lines as strings
+    - Compressive (magnetosonic) waves
+    - From waves to turbulence: injection, cascade and dissipation
+    - Observational evidence of turbulence in the interstellar medium
+- **Lecture 7**. The cosmic-ray transport equation
+    - The distribution function and what a detector measures
+    - Scattering: isotropization without thermalization
+    - Diffusion, advection and adiabatic energy changes in a moving plasma
+    - The transport equation and the reaction of cosmic rays on the plasma
+- **Lecture 8**. Scattering by magnetic turbulence
+    - Gyroresonance and the quasi-linear pitch-angle diffusion coefficient
+    - From pitch-angle diffusion to spatial diffusion
+    - Energy dependence of the diffusion coefficient from the turbulence spectrum
+    - Perpendicular diffusion and drifts
+    - Momentum diffusion and the cosmic-ray anisotropy
+- **Lecture 9**. Galactic transport I: primary nuclei
+    - The grammage: how much matter cosmic rays traverse
+    - Diffusion in a magnetized halo: Green's function and boundary conditions
+    - Equilibrium spectra of protons and primary nuclei
+- **Lecture 10**. Galactic transport II: secondary and unstable nuclei
+    - Secondary-to-primary ratios (B/C) as probes of the diffusion coefficient
+    - Unstable nuclei: beryllium isotopes and the escape time
+    - What the data imply for magnetic turbulence; where the scattering waves come from
+- **Lecture 11**. Galactic transport III: electrons, positrons and antiprotons
+    - Electron propagation with energy losses; the electron horizon
+    - The positron fraction
+    - Antiprotons: secondary background and probes of new physics
+    - The energy budget of Galactic cosmic rays and the supernova remnant paradigm
+
+#### Part III – Particle acceleration
+
+- **Lecture 12**. General principles of particle acceleration
+    - How to accelerate cosmic particles; the Hillas criterion
+    - Stochastic acceleration: acceleration time and maximum energy
     - Second-order Fermi acceleration
-- **Lecture 12**. Shock Waves in Astrophysics
-    - Formation and propagation of shock waves
-    - Interstellar shock waves
-    - Rankine-Hugoniot jump conditions
-- **Lecture 13**. Supernova Remnants and Diffusive Shock Acceleration
-    - Dynamical evolution of supernova remnants
-    - Free-expansion phase
-    - Sedov-Taylor phase
-    - Diffusive shock acceleration as first-order Fermi acceleration 
-- **Lecture 14**. Diffusive Shock Acceleration: Transport Viewpoint
-    - Transport-equation formulation of diffusive shock acceleration
-    - Spectral predictions and physical interpretation
-- **Lecture 15**. Diffusive Shock Acceleration: Observational Tests
-    - X-ray filaments as observational tests of particle acceleration in supernova remnants
-    
-
-
-
-
-
-
-
-
+- **Lecture 13**. Shock waves and supernova remnants
+    - From sound waves to shock waves
+    - Rankine–Hugoniot jump conditions; interstellar shocks
+    - Dynamical evolution of supernova remnants: free-expansion and Sedov–Taylor phases
+- **Lecture 14**. Diffusive shock acceleration
+    - First-order Fermi acceleration at shocks
+    - The transport-equation solution and the universal spectrum of strong shocks
+    - Injection and maximum energy
+- **Lecture 15**. Escape and observational tests
+    - Escape from the accelerator: the free-escape boundary
+    - Maximum energy around the Sedov–Taylor transition
+    - X-ray filaments as a laboratory for diffusive shock acceleration
