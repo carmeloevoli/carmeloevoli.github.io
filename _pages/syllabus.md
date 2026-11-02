@@ -41,10 +41,19 @@ Lectures: 15 2-hour lectures
     - Diffuse Galactic gamma-ray emission: observational overview and theoretical interpretation
     - Multi-messenger relations among cosmic rays, gamma rays, and neutrinos
     - The Waxman-Bahcall bound and its physical meaning
-- **Lecture 5**.
-- **Lecture 6**.
-- **Lecture 7**.
-- **Lecture 8**.
+- **Lecture 5**. Magnetohydrodynamic Foundations
+    - Fundamentals of ideal magnetohydrodynamics
+    - Flux freezing and magnetic field advection
+    - Magnetohydrodynamic waves and their physical properties
+- **Lecture 6**. 
+- **Lecture 7**. Cosmic Ray Transport I: Primaries and Grammage
+    - The diffusion equation: solutions and limitations in cosmic ray propagation
+    - Transport equation for primary nuclei: formulation and analytical solutions
+    - Cosmic ray composition and the role of grammage as a key observational diagnostic  
+- **Lecture 8**. Cosmic Ray Transport II: Secondaries
+    - Transport equation for secondary nuclei
+    - Secondary-to-primary ratios as probes of cosmic ray transport
+    - Unstable secondary nuclei and their observational relevance
 - **Lecture 9**.
 - **Lecture 10**.
 - **Lecture 11**.
@@ -52,3 +61,7 @@ Lectures: 15 2-hour lectures
 - **Lecture 13**.
 - **Lecture 14**.
 - **Lecture 15**.
+
+
+
+
