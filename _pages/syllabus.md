@@ -37,7 +37,7 @@ Lectures: 15 2-hour lectures
     - Pion production in proton-proton collisions
     - Pion emissivity and derivation of the gamma-ray spectrum
     - Neutral-pion decay and the origin of the pion bump
-- **Lecture 4**. Diffuse Emission and Multi-Messenger Connections
+- **Lecture 4**. Diffuse Emissions and Multi-Messenger Connections
     - Diffuse Galactic gamma-ray emission: observational overview and theoretical interpretation
     - Multi-messenger relations among cosmic rays, gamma rays, and neutrinos
     - The Waxman-Bahcall bound and its physical meaning
