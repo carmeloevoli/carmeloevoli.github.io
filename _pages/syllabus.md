@@ -9,7 +9,9 @@ author_profile: true
 
 ### Course Synopsis
 
-This pillar course offers an introduction to the theory of high-energy astroparticle physics, with a focus on cosmic-ray phenomenology and the physical processes that govern particle transport, acceleration, and radiation. Students will study the propagation of charged particles in turbulent magnetic fields, developing the formalism from first principles and showing how diffusion emerges naturally as an effective transport regime. Building on this framework, the course derives the advection–diffusion equation and applies it to key problems in Galactic cosmic-ray physics, including confinement and large-scale propagation, as well as particle acceleration at collisionless shock fronts.
+This pillar course offers an introduction to the theory of high-energy astroparticle physics, with a focus on cosmic-ray phenomenology and the physical processes that govern particle transport, acceleration, and radiation. 
+
+Students will study the propagation of charged particles in turbulent magnetic fields, developing the formalism from first principles and showing how diffusion emerges naturally as an effective transport regime. Building on this framework, the course derives the advection–diffusion equation and applies it to key problems in Galactic cosmic-ray physics, including confinement and large-scale propagation, as well as particle acceleration at collisionless shock fronts.
 
 A part of the course is devoted to the radiative signatures of high-energy particles in Galactic and extragalactic environments. Students will acquire the theoretical tools to model leptonic emission processes—such as synchrotron radiation and inverse Compton scattering—and hadronic channels, including photo-pion production and spallation, with connections to multi-messenger observables.
 
