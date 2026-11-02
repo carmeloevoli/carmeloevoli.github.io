@@ -69,7 +69,6 @@ There are two lists of problems: one on radiative processes, one on transport an
     - Gyroresonance and the quasi-linear pitch-angle diffusion coefficient
     - From pitch-angle diffusion to spatial diffusion
     - Energy dependence of the diffusion coefficient from the turbulence spectrum
-    - Perpendicular diffusion and drifts
     - Momentum diffusion and the cosmic-ray anisotropy
 - **Lecture 9**. Galactic transport I: primary nuclei
     - The grammage: how much matter cosmic rays traverse
