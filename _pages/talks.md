@@ -30,6 +30,7 @@ author_profile: true
 
 ### 2026 ###
 
++ October 26, **Invited Talk** at [Academic Symposium for the 10th Anniversary of the LHAASO Collaboration](https://indico.ihep.ac.cn/event/30247/), Tianfu Cosmic Ray Research Center, Chengdu, China: *The Cosmic-Ray Knee after LHAASO: New Clues on Sources and Transport*
 + July 5-10, *Contributed talk* at [ISVHECRI 2026](https://agenda.infn.it/event/47390/), Lecce, Italy
 
 ### 2025 ###

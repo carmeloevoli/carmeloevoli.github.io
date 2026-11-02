@@ -15,7 +15,7 @@ Large collaboration papers (Pierre Auger, CTA) — more than 100 authors:
 [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22evoli%2C%20c%22%20author_count%3A%5B100%20TO%20%2A%5D&sort=date%20desc%2C%20bibcode%20desc) ·
 [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=100&q=a%20Carmelo.Evoli.1%20and%20ac%20100-%3E10000)
 
-Full CV: [PDF](/files/CEvoli_CV_Sep2026.pdf)
+Full CV: [PDF](/files/CEvoli_CV_Nov2026.pdf)
 
 As of September 2026: 61 articles and letters in refereed journals since 2007, >4.4k citations,
 h-index 36 (source: INSPIRE-HEP).
