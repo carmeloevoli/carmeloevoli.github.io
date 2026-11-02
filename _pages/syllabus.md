@@ -46,16 +46,16 @@ Lectures: 15 2-hour lectures
     - Flux freezing and magnetic field advection
     - Magnetohydrodynamic waves and their physical properties
 - **Lecture 6**. 
-- **Lecture 7**. Cosmic Ray Transport I: Primaries and Grammage
+- **Lecture 7**.
+- **Lecture 8**.
+- **Lecture 9**. Cosmic Ray Transport I: Primaries and Grammage
     - The diffusion equation: solutions and limitations in cosmic ray propagation
     - Transport equation for primary nuclei: formulation and analytical solutions
     - Cosmic ray composition and the role of grammage as a key observational diagnostic  
-- **Lecture 8**. Cosmic Ray Transport II: Secondaries
+- **Lecture 10**. Cosmic Ray Transport II: Secondaries
     - Transport equation for secondary nuclei
     - Secondary-to-primary ratios as probes of cosmic ray transport
     - Unstable secondary nuclei and their observational relevance
-- **Lecture 9**.
-- **Lecture 10**.
 - **Lecture 11**. General Principles of Particle Acceleration
     - Basic requirements for astrophysical particle acceleration
     - The Hillas criterion and candidate Galactic accelerators
