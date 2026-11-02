@@ -35,18 +35,16 @@ There are two lists of problems: one on radiative processes, one on transport an
     - Cosmic rays, gamma rays and neutrinos: the multi-messenger view; course organization
     - Kinetic equation for particles with radiative losses
     - Synchrotron radiation from a single particle and from a population of electrons
-    - Diffuse Galactic radio emission; the cooling break in the Crab Nebula
 - **Lecture 2**. Inverse Compton scattering and gamma-ray absorption
     - Inverse Compton scattering in the Thomson and Klein–Nishina regimes
     - Inverse Compton emission from an electron population; lepton cooling in the Milky Way
     - Pair production, optical depth and the gamma-ray horizon
-    - Electromagnetic cascades on the cosmic microwave background and the extragalactic background light
-- **Lecture 3**. Hadronic interactions
+- **Lecture 3**. Hadronic interactions and diffuse gamma rays
     - Proton–proton interactions and pion production
     - The neutral-pion gamma-ray spectrum and the pion bump
-    - Nucleus–photon interactions: photopion production, Bethe–Heitler pair production, photodisintegration
-- **Lecture 4**. Diffuse gamma rays and neutrinos
     - Diffuse Galactic gamma-ray emission
+- **Lecture 4**. Hadronic interactions and neutrinos
+    - Nucleus–photon interactions: photopion production, Bethe–Heitler pair production, photodisintegration
     - Neutrinos from cosmic accelerators
     - Multi-messenger relations among cosmic rays, gamma rays and neutrinos; the Waxman–Bahcall bound
 
