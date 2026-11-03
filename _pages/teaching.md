@@ -11,6 +11,10 @@ redirect_from:
 
 + **High-energy Astroparticle Physics - Theory**
 
+    [Introduction to the course (PDF)](/files/HEAPTh_course_description.pdf)
+
+    [Lecture notes, Part I (PDF)](/files/HEAPTh_LectureNotes_I.pdf)
+
     Main page containing lecture notes can be found [[here]](https://carmeloevoli.github.io/heath-2324/)
     
     Detailed syllabus can be found [[here]](/syllabus/)
